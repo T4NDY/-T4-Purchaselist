@@ -1,2093 +1,6923 @@
 {
 	"items" : [
 	{
-		"abr": "advancedcomponent",
-		"price": 333,
-		"category": "Manufactured",
-		"defname": "ComponentSpacer"
+		"abr": "abyssiniancat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatAbyssinian"
 	},
 	{
-		"abr": "advancedhelmet",
-		"price": 442,
-		"category": "Headgear",
-		"defname": "Apparel_AdvancedHelmet"
+		"abr": "advancedbattery",
+		"price": 450,
+		"category": "Энергия",
+		"defname": "VFE_AdvancedBattery"
 	},
 	{
-		"abr": "agavefruit",
-		"price": 2,
-		"category": "Vegetarian",
+		"abr": "advancedsolargenerator",
+		"price": 1500,
+		"category": "",
+		"defname": "VFE_AdvancedSolarGenerator"
+	},
+	{
+		"abr": "advancedwatermillgenerator",
+		"price": 1510,
+		"category": "",
+		"defname": "VFE_AdvancedWatermillGenerator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": 1505,
+		"category": "",
+		"defname": "VFE_AdvancedWindTurbine"
+	},
+	{
+		"abr": "airconditioningunit",
+		"price": 650,
+		"category": "",
+		"defname": "AirConditioningUnit"
+	},
+	{
+		"abr": "anchovy",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAnchovy"
+	},
+	{
+		"abr": "angelfish",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAngelfish"
+	},
+	{
+		"abr": "anglerfish",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAnglerfish"
+	},
+	{
+		"abr": "apron",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_Apron"
+	},
+	{
+		"abr": "archotechear",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "FSFArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "FSFArchotechHeart"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "FSFArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "FSFArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "FSFArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "FSFArchotechLung"
+	},
+	{
+		"abr": "archotechsculpture",
+		"price": 3400,
+		"category": "Искусство",
+		"defname": "VFE_ArchotechSculpture"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "FSFArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "FSFArchotechStomach"
+	},
+	{
+		"abr": "archotechviolencegenerator",
+		"price": 3600,
+		"category": "Особое",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 250,
+		"category": "Протезы",
+		"defname": "FSFArtificialNose"
+	},
+	{
+		"abr": "asari",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Asari_Blue"
+	},
+	{
+		"abr": "asari",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Asari_Violet"
+	},
+	{
+		"abr": "asari",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Asari_Lightblue"
+	},
+	{
+		"abr": "asari",
+		"price": 2750,
+		"category": "Animal",
+		"defname": "Alien_Asari_Green"
+	},
+	{
+		"abr": "automaticpistol",
+		"price": 250,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_AutomaticPistol"
+	},
+	{
+		"abr": "automaton",
+		"price": 2830,
+		"category": "Animal",
+		"defname": "AutomatonRace"
+	},
+	{
+		"abr": "bambootorchlamp",
+		"price": -10,
+		"category": "",
+		"defname": "VG_TorchLamp"
+	},
+	{
+		"abr": "barstool",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "StoolBar"
+	},
+	{
+		"abr": "barber'stable",
+		"price": 250,
+		"category": "Разное",
+		"defname": "VHE_TableBarber"
+	},
+	{
+		"abr": "baseballcap",
+		"price": 65,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_BaseballCap"
+	},
+	{
+		"abr": "bass",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawBass"
+	},
+	{
+		"abr": "beagle",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_Beagle"
+	},
+	{
+		"abr": "bengalcat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatBengal"
+	},
+	{
+		"abr": "beret",
+		"price": 65,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_Beret"
+	},
+	{
+		"abr": "bionicjaw",
+		"price": 1205,
+		"category": "Бионические",
+		"defname": "FSFBionicJaw"
+	},
+	{
+		"abr": "bionickidney",
+		"price": 1205,
+		"category": "Бионические",
+		"defname": "FSFBionicKidney"
+	},
+	{
+		"abr": "bionicliver",
+		"price": 1205,
+		"category": "Бионические",
+		"defname": "FSFBionicLiver"
+	},
+	{
+		"abr": "bioniclung",
+		"price": 1280,
+		"category": "Бионические",
+		"defname": "FSFBionicLung"
+	},
+	{
+		"abr": "bionicpowerarm",
+		"price": 2415,
+		"category": "Бионические",
+		"defname": "FSFBionicPowerArm"
+	},
+	{
+		"abr": "blouse",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_Blouse"
+	},
+	{
+		"abr": "boots",
+		"price": 60,
+		"category": "Footwear",
+		"defname": "VAE_Footwear_Boots"
+	},
+	{
+		"abr": "britishshorthaircat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatBritishShorthair"
+	},
+	{
+		"abr": "builder'sjacket",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_BuildersJacket"
+	},
+	{
+		"abr": "bullpupdmr",
+		"price": 1550,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_BullpupDMR"
+	},
+	{
+		"abr": "bullpuprifle",
+		"price": 1050,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_BullpupRifle"
+	},
+	{
+		"abr": "bunker",
+		"price": 1195,
+		"category": "",
+		"defname": "Ra2_Bunker"
+	},
+	{
+		"abr": "camelhair",
+		"price": -10,
+		"category": "Текстиль",
+		"defname": "WoolCamel"
+	},
+	{
+		"abr": "cape",
+		"price": -10,
+		"category": "Accessories",
+		"defname": "VAE_Apparel_Cape"
+	},
+	{
+		"abr": "carving",
+		"price": -10,
+		"category": "Искусство",
+		"defname": "VFE_Carving"
+	},
+	{
+		"abr": "casualt-shirt",
+		"price": 90,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_CasualTShirt"
+	},
+	{
+		"abr": "catfish",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawCatfish"
+	},
+	{
+		"abr": "ceilinglight",
+		"price": -10,
+		"category": "",
+		"defname": "Lighting_CeilingLight"
+	},
+	{
+		"abr": "chef'stoque",
+		"price": -10,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_ChefsToque"
+	},
+	{
+		"abr": "chef'suniform",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_ChefsUniform"
+	},
+	{
+		"abr": "chemboiler",
+		"price": 605,
+		"category": "Температура",
+		"defname": "ChemBoiler"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 490,
+		"category": "",
+		"defname": "VPE_ChemfuelPump"
+	},
+	{
+		"abr": "chemlamp",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Chemlamp"
+	},
+	{
+		"abr": "chemlamppost",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "ChemlampPost"
+	},
+	{
+		"abr": "chemshinebarrel",
+		"price": 45,
+		"category": "Производство",
+		"defname": "Building_ChemshineBarrel"
+	},
+	{
+		"abr": "chihuahua",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_Chihuahua"
+	},
+	{
+		"abr": "circulartable",
+		"price": 115,
+		"category": "Мебель",
+		"defname": "TableCircular"
+	},
+	{
+		"abr": "clownfish",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawClownfish"
+	},
+	{
+		"abr": "clustercolumn",
+		"price": 340,
+		"category": "Защита",
+		"defname": "DetColumnMod"
+	},
+	{
+		"abr": "cod",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawCod"
+	},
+	{
+		"abr": "corgi",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_Corgi"
+	},
+	{
+		"abr": "designermate",
+		"price": 1900,
+		"category": "Animal",
+		"defname": "DesignerMatesXH"
+	},
+	{
+		"abr": "doctorscrubs",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_DoctorScrubs"
+	},
+	{
+		"abr": "dogmeat",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_AEXP_Beagle"
+	},
+	{
+		"abr": "doormat",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatLeather"
+	},
+	{
+		"abr": "doormat(orange)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatOrange"
+	},
+	{
+		"abr": "doormat(teal)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatTeal"
+	},
+	{
+		"abr": "double-barreledshotgun",
+		"price": 390,
+		"category": "Оружие дальнего боя",
+		"defname": "VFES_Gun_DoubleBarreledShotgun"
+	},
+	{
+		"abr": "eel",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawEel"
+	},
+	{
+		"abr": "farotable",
+		"price": 215,
+		"category": "Мебель",
+		"defname": "TableFaro"
+	},
+	{
+		"abr": "fedora",
+		"price": -10,
+		"category": "Hats",
+		"defname": "VAE_Headgear_Fedora"
+	},
+	{
+		"abr": "fivefingerfillettable",
+		"price": 185,
+		"category": "Мебель",
+		"defname": "TableFiveFingerFilet"
+	},
+	{
+		"abr": "fleeceshirt",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_FleeceShirt"
+	},
+	{
+		"abr": "foodshelf2x2",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "VG_FoodShelf"
+	},
+	{
+		"abr": "frenchbulldog",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_FrenchBulldog"
+	},
+	{
+		"abr": "frozencolumn",
+		"price": 715,
+		"category": "Разное",
+		"defname": "IceColumnMod"
+	},
+	{
+		"abr": "gascooler",
+		"price": -10,
+		"category": "",
+		"defname": "VPE_GasCooler"
+	},
+	{
+		"abr": "gasheater",
+		"price": -10,
+		"category": "Температура",
+		"defname": "VPE_GasHeater"
+	},
+	{
+		"abr": "gasmask",
+		"price": 140,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_GasMask"
+	},
+	{
+		"abr": "gaspipe",
+		"price": -10,
+		"category": "",
+		"defname": "VPE_GasPipe"
+	},
+	{
+		"abr": "gaspoweredexcavator",
+		"price": -10,
+		"category": "Производство",
+		"defname": "VPE_GasDrill"
+	},
+	{
+		"abr": "gassunlamp",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "VPE_GasSunLamp"
+	},
+	{
+		"abr": "gastank",
+		"price": -10,
+		"category": "Энергия",
+		"defname": "VPE_GasTank"
+	},
+	{
+		"abr": "gatlinggunturret",
+		"price": -10,
+		"category": "Защита",
+		"defname": "Turret_GatlingGun"
+	},
+	{
+		"abr": "germanshepherd",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_GermanShepherd"
+	},
+	{
+		"abr": "glasses",
+		"price": 35,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_Glasses"
+	},
+	{
+		"abr": "gloves",
+		"price": 60,
+		"category": "Перчатки и сапоги",
+		"defname": "VAE_Handwear_Gloves"
+	},
+	{
+		"abr": "goldfish",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawGoldfish"
+	},
+	{
+		"abr": "go-сок",
+		"price": 85,
+		"category": "Наркотики",
+		"defname": "GoJuice"
+	},
+	{
+		"abr": "grandrug",
+		"price": -10,
+		"category": "Искусство",
+		"defname": "VFE_RugGrand"
+	},
+	{
+		"abr": "grandstatue",
+		"price": 1125,
+		"category": "Искусство",
+		"defname": "VFE_StatueGrand"
+	},
+	{
+		"abr": "greatdane",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_GreatDane"
+	},
+	{
+		"abr": "greatdress",
+		"price": -10,
+		"category": "Одежда",
+		"defname": "Apparel_GreatDress"
+	},
+	{
+		"abr": "guppy",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawGuppy"
+	},
+	{
+		"abr": "haddock",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHaddock"
+	},
+	{
+		"abr": "halibut",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHalibut"
+	},
+	{
+		"abr": "hampers",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "hardhat",
+		"price": -10,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_Hardhat"
+	},
+	{
+		"abr": "hayloft",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "helixiengascrematorium",
+		"price": -10,
+		"category": "",
+		"defname": "VPE_GasCrematorium"
+	},
+	{
+		"abr": "helixiengaspoweredgenerator",
+		"price": -10,
+		"category": "",
+		"defname": "VPE_HelixienGenerator"
+	},
+	{
+		"abr": "helixiengassmelter",
+		"price": -10,
+		"category": "Производство",
+		"defname": "VPE_GasSmelter"
+	},
+	{
+		"abr": "helixiengasstove",
+		"price": -10,
+		"category": "Производство",
+		"defname": "VPE_GasStove"
+	},
+	{
+		"abr": "helixienpump",
+		"price": -10,
+		"category": "",
+		"defname": "VPE_HelixienPump"
+	},
+	{
+		"abr": "herring",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHerring"
+	},
+	{
+		"abr": "hologram",
+		"price": 460,
+		"category": "Искусство",
+		"defname": "VFE_HologramOn"
+	},
+	{
+		"abr": "honey",
+		"price": 10,
+		"category": "Ингридиенты",
+		"defname": "Honey"
+	},
+	{
+		"abr": "honeymead",
+		"price": 10,
+		"category": "Наркотики",
+		"defname": "Mead"
+	},
+	{
+		"abr": "hood",
+		"price": 50,
+		"category": "Hats",
+		"defname": "VAE_Headgear_Hood"
+	},
+	{
+		"abr": "hoodie",
+		"price": 155,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_Hoodie"
+	},
+	{
+		"abr": "industrialchemfuelpoweredgenerator",
+		"price": 825,
+		"category": "",
+		"defname": "VFE_IndustrialChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "industrialhelixiengaspoweredgenerator",
+		"price": 825,
+		"category": "",
+		"defname": "VPE_IndustrialHelixienGenerator"
+	},
+	{
+		"abr": "industrialwood-firedgenerator",
+		"price": 825,
+		"category": "",
+		"defname": "VFE_IndustrialWoodFiredGenerator"
+	},
+	{
+		"abr": "invisiblepowerconduit",
+		"price": -10,
+		"category": "",
+		"defname": "PowerConduitInvisible"
+	},
+	{
+		"abr": "jeans",
+		"price": 90,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_Jeans"
+	},
+	{
+		"abr": "jumpsuit",
+		"price": 180,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_Jumpsuit"
+	},
+	{
+		"abr": "koi",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawKoi"
+	},
+	{
+		"abr": "labcoat",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_LabCoat"
+	},
+	{
+		"abr": "lampendtable",
+		"price": 165,
+		"category": "Мебель",
+		"defname": "Table_LightEndTable"
+	},
+	{
+		"abr": "largeadvancedbattery",
+		"price": 950,
+		"category": "Энергия",
+		"defname": "VFE_LargeAdvancedBattery"
+	},
+	{
+		"abr": "largebattery",
+		"price": 550,
+		"category": "Энергия",
+		"defname": "VFE_LargeBattery"
+	},
+	{
+		"abr": "largedoormat",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatBigTeal"
+	},
+	{
+		"abr": "largerug",
+		"price": -10,
+		"category": "Искусство",
+		"defname": "VFE_RugLarge"
+	},
+	{
+		"abr": "largestatue",
+		"price": 440,
+		"category": "Искусство",
+		"defname": "VFE_StatueLarge"
+	},
+	{
+		"abr": "largevanometricpowercell",
+		"price": 2450,
+		"category": "Особое",
+		"defname": "VFE_LargeVanometricPowerCell"
+	},
+	{
+		"abr": "lightningrod",
+		"price": 616,
+		"category": "Особое",
+		"defname": "VPE_LightningRod"
+	},
+	{
+		"abr": "lobster",
+		"price": 20,
+		"category": "Raw fish",
+		"defname": "VCEF_RawLobster"
+	},
+	{
+		"abr": "mackerel",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawMackerel"
+	},
+	{
+		"abr": "mainecoon",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatMaineCoon"
+	},
+	{
+		"abr": "massgrave",
+		"price": 5,
+		"category": "",
+		"defname": "MassGrave"
+	},
+	{
+		"abr": "massgrave",
+		"price": 5,
+		"category": "",
+		"defname": "MassGraveAlt"
+	},
+	{
+		"abr": "militaryjacket",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_MilitaryJacket"
+	},
+	{
+		"abr": "militaryuniform",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_MilitaryUniform"
+	},
+	{
+		"abr": "minnow",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawMinnow"
+	},
+	{
+		"abr": "monument",
+		"price": 1890,
+		"category": "Искусство",
+		"defname": "VFE_Monument"
+	},
+	{
+		"abr": "munchkincat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatMunchkin"
+	},
+	{
+		"abr": "norwegianforestcat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatNorwegianForest"
+	},
+	{
+		"abr": "nuclearreactor",
+		"price": 3840,
+		"category": "",
+		"defname": "VPE_NuclearGenerator"
+	},
+	{
+		"abr": "obelisk",
+		"price": 560,
+		"category": "Искусство",
+		"defname": "VFE_Obelisk"
+	},
+	{
+		"abr": "orbitaltradecolumn",
+		"price": 215,
+		"category": "Разное",
+		"defname": "OrbitalTradeColumnMod"
+	},
+	{
+		"abr": "overalls",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_Overalls"
+	},
+	{
+		"abr": "pdw",
+		"price": 840,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_PDW"
+	},
+	{
+		"abr": "peltcoat",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_PeltCoat"
+	},
+	{
+		"abr": "perch",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPerch"
+	},
+	{
+		"abr": "persiancat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatPersian"
+	},
+	{
+		"abr": "pillar",
+		"price": -10,
+		"category": "Искусство",
+		"defname": "VFE_Pillar"
+	},
+	{
+		"abr": "piranha",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPiranha"
+	},
+	{
+		"abr": "plinth",
+		"price": -10,
+		"category": "Искусство",
+		"defname": "VFE_Plinth"
+	},
+	{
+		"abr": "poodle",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_Poodle"
+	},
+	{
+		"abr": "portablechemfuelpoweredgenerator",
+		"price": 150,
+		"category": "Энергия",
+		"defname": "VFE_PortableChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "portablewood-firedgenerator",
+		"price": 130,
+		"category": "Энергия",
+		"defname": "VFE_PortableWoodFiredGenerator"
+	},
+	{
+		"abr": "post",
+		"price": -10,
+		"category": "",
+		"defname": "Post"
+	},
+	{
+		"abr": "pottery",
+		"price": -10,
+		"category": "Искусство",
+		"defname": "VFE_Pottery"
+	},
+	{
+		"abr": "prostheticeye",
+		"price": 300,
+		"category": "Протезы",
+		"defname": "FSFProstheticEye"
+	},
+	{
+		"abr": "prosthetichand",
+		"price": 170,
+		"category": "Протезы",
+		"defname": "FSFProstheticHand"
+	},
+	{
+		"abr": "prosthetickidney",
+		"price": 210,
+		"category": "Протезы",
+		"defname": "FSFSimpleProstheticKidney"
+	},
+	{
+		"abr": "prostheticliver",
+		"price": 210,
+		"category": "Протезы",
+		"defname": "FSFSimpleProstheticLiver"
+	},
+	{
+		"abr": "prostheticlung",
+		"price": 210,
+		"category": "Протезы",
+		"defname": "FSFSimpleProstheticLung"
+	},
+	{
+		"abr": "prostheticspine",
+		"price": 350,
+		"category": "Протезы",
+		"defname": "FSFProstheticSpine"
+	},
+	{
+		"abr": "prostheticstomach",
+		"price": 210,
+		"category": "Протезы",
+		"defname": "FSFSimpleProstheticStomach"
+	},
+	{
+		"abr": "prostheticstable",
+		"price": 300,
+		"category": "Производство",
+		"defname": "TableSyrProsthetics"
+	},
+	{
+		"abr": "pufferfish",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPufferfish"
+	},
+	{
+		"abr": "pug",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_Pug"
+	},
+	{
+		"abr": "relief",
+		"price": -10,
+		"category": "Искусство",
+		"defname": "VFE_Relief"
+	},
+	{
+		"abr": "rottweiler",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_Rottweiler"
+	},
+	{
+		"abr": "sacredcolumn",
+		"price": 380,
+		"category": "",
+		"defname": "GraveColumnMod"
+	},
+	{
+		"abr": "salmon",
+		"price": 15,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSalmon"
+	},
+	{
+		"abr": "saloondoor",
+		"price": -10,
+		"category": "",
+		"defname": "DoorSaloon"
+	},
+	{
+		"abr": "scaleman",
+		"price": 1900,
+		"category": "Animal",
+		"defname": "ScaleManXH"
+	},
+	{
+		"abr": "scarf",
+		"price": 40,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_Scarf"
+	},
+	{
+		"abr": "sheriffshirt",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_SheriffShirt"
+	},
+	{
+		"abr": "shih-tzu",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_Shih-Tzu"
+	},
+	{
+		"abr": "shirtandtie",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_ShirtandTie"
+	},
+	{
+		"abr": "shoes",
+		"price": -10,
+		"category": "Footwear",
+		"defname": "VAE_Footwear_Shoes"
+	},
+	{
+		"abr": "shorts",
+		"price": 40,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_Shorts"
+	},
+	{
+		"abr": "siamesecat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatSiamese"
+	},
+	{
+		"abr": "skirt",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_Skirt"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 130,
+		"category": "Энергия",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallrug",
+		"price": -10,
+		"category": "Искусство",
+		"defname": "VFE_RugSmall"
+	},
+	{
+		"abr": "smallstatue",
+		"price": 275,
+		"category": "Искусство",
+		"defname": "VFE_StatueSmall"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 615,
+		"category": "Особое",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "soldiermorph",
+		"price": 1900,
+		"category": "Animal",
+		"defname": "SoldiermorphXH"
+	},
+	{
+		"abr": "somalicat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatSomali"
+	},
+	{
+		"abr": "sphynxcat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_CatSphynx"
+	},
+	{
+		"abr": "sprat",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSprat"
+	},
+	{
+		"abr": "stonespiketrap",
+		"price": 50,
+		"category": "Защита",
+		"defname": "FSFStoneTrapSpike"
+	},
+	{
+		"abr": "subterraneangaspipe",
+		"price": -10,
+		"category": "",
+		"defname": "VPE_GasPipeSub"
+	},
+	{
+		"abr": "suitjacket",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_SuitJacket"
+	},
+	{
+		"abr": "summerhat",
+		"price": 40,
+		"category": "Hats",
+		"defname": "VAE_Headgear_SummerHat"
+	},
+	{
+		"abr": "suncolumn",
+		"price": 675,
+		"category": "Разное",
+		"defname": "SunColumnMod"
+	},
+	{
+		"abr": "sunlight",
+		"price": -10,
+		"category": "",
+		"defname": "TWBSunLight"
+	},
+	{
+		"abr": "sunglasses",
+		"price": 155,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_Sunglasses"
+	},
+	{
+		"abr": "surgicalmask",
+		"price": -10,
+		"category": "Головные уборы",
+		"defname": "VAE_Headgear_SurgicalMask"
+	},
+	{
+		"abr": "swordfish",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSwordfish"
+	},
+	{
+		"abr": "tallshelves",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "tanktop",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_TankTop"
+	},
+	{
+		"abr": "tidalgenerator",
+		"price": 1450,
+		"category": "",
+		"defname": "VFE_TidalGenerator"
+	},
+	{
+		"abr": "trapperhat",
+		"price": 80,
+		"category": "Hats",
+		"defname": "VAE_Headgear_TrapperHat"
+	},
+	{
+		"abr": "tribalkilt",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_TribalKilt"
+	},
+	{
+		"abr": "tribalponcho",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_TribalPoncho"
+	},
+	{
+		"abr": "trousers",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_Trousers"
+	},
+	{
+		"abr": "trout",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTrout"
+	},
+	{
+		"abr": "tuna",
+		"price": 5,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTuna"
+	},
+	{
+		"abr": "tunic",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "VAE_Apparel_Tunic"
+	},
+	{
+		"abr": "ultrascreentelevision",
+		"price": 2350,
+		"category": "Развлечения",
+		"defname": "UltrascreenTV"
+	},
+	{
+		"abr": "vest",
+		"price": -10,
+		"category": "Одежда",
+		"defname": "Apparel_Vest"
+	},
+	{
+		"abr": "wallvitalsmonitor",
+		"price": 240,
+		"category": "Разное",
+		"defname": "Wall_M_VitalsMonitor"
+	},
+	{
+		"abr": "wallpaper",
+		"price": -10,
+		"category": "",
+		"defname": "VFE_Wallpaper"
+	},
+	{
+		"abr": "welshterrier",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AEXP_WelshTerrier"
+	},
+	{
+		"abr": "windmill",
+		"price": 220,
+		"category": "",
+		"defname": "Windmill"
+	},
+	{
+		"abr": "wolfman",
+		"price": 1900,
+		"category": "Animal",
+		"defname": "WolfManXH"
+	},
+	{
+		"abr": "автодверь",
+		"price": 220,
+		"category": "",
+		"defname": "Autodoor"
+	},
+	{
+		"abr": "автомат",
+		"price": 750,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_AssaultRifle"
+	},
+	{
+		"abr": "автоматическийдробовик",
+		"price": 625,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_ChainShotgun"
+	},
+	{
+		"abr": "автоматическийпистолет",
+		"price": 315,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_MachinePistol"
+	},
+	{
+		"abr": "автономныйпротивовирусныйнанит",
+		"price": 2350,
+		"category": "Киборг",
+		"defname": "ANN_Autonomicviruskiller"
+	},
+	{
+		"abr": "автономныйфонарь",
+		"price": 180,
+		"category": "Мебель",
+		"defname": "Spacer_OutdoorLamp"
+	},
+	{
+		"abr": "автопрожектор",
+		"price": 475,
+		"category": "Защита",
+		"defname": "VFES_Turret_Searchlight"
+	},
+	{
+		"abr": "агава",
+		"price": -10,
+		"category": "Фрукты",
 		"defname": "RawAgave"
 	},
 	{
-		"abr": "aipersonacore",
-		"price": 6667,
-		"category": "Items",
-		"defname": "AIPersonaCore"
+		"abr": "аккумулятор",
+		"price": 250,
+		"category": "Энергия",
+		"defname": "Battery"
 	},
 	{
-		"abr": "alpaca",
-		"price": 583,
+		"abr": "алебарда",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Halberd"
+	},
+	{
+		"abr": "альпака",
+		"price": 400,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
-		"abr": "alpacameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alpaca"
-	},
-	{
-		"abr": "alpacawool",
-		"price": 4,
-		"category": "Textiles",
-		"defname": "WoolAlpaca"
-	},
-	{
-		"abr": "alphabeaver",
-		"price": 417,
+		"abr": "альфабобёр",
+		"price": 240,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
 	{
-		"abr": "alphabeavermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alphabeaver"
+		"abr": "амбразура",
+		"price": 15,
+		"category": "",
+		"defname": "ED_Embrasure"
 	},
 	{
-		"abr": "ambrosia",
+		"abr": "амброзия",
 		"price": 25,
-		"category": "Drugs",
+		"category": "Наркотики",
 		"defname": "Ambrosia"
 	},
 	{
-		"abr": "animalbed",
-		"price": 136,
-		"category": "Furniture",
-		"defname": "AnimalBed"
+		"abr": "ананас",
+		"price": 2,
+		"category": "Фрукты",
+		"defname": "Rawpineapple"
 	},
 	{
-		"abr": "animalsleepingbox",
-		"price": 84,
-		"category": "Furniture",
-		"defname": "AnimalSleepingBox"
+		"abr": "анатомическаякровать",
+		"price": 775,
+		"category": "Мебель",
+		"defname": "Bed_AdvBed"
 	},
 	{
-		"abr": "antigrainwarhead",
-		"price": 2000,
-		"category": "Mortar shells",
-		"defname": "Shell_AntigrainWarhead"
+		"abr": "анатомическийстул",
+		"price": 1175,
+		"category": "Мебель",
+		"defname": "Seat_AdvChair"
 	},
 	{
-		"abr": "archotecharm",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "ArchotechArm"
+		"abr": "андроид",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "ChjAndroid"
 	},
 	{
-		"abr": "archotecheye",
-		"price": 4667,
-		"category": "Artificial",
+		"abr": "апельсины",
+		"price": 2,
+		"category": "Фрукты",
+		"defname": "Raworange"
+	},
+	{
+		"abr": "арбалет",
+		"price": 300,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Bow_Crossbow"
+	},
+	{
+		"abr": "арбуз",
+		"price": 2,
+		"category": "Фрукты",
+		"defname": "Rawwatermelon"
+	},
+	{
+		"abr": "аркаднаямашина",
+		"price": 470,
+		"category": "Развлечения",
+		"defname": "Joy_Arcade"
+	},
+	{
+		"abr": "архитекторгеномнойцепочки",
+		"price": 160,
+		"category": "Изделия",
+		"defname": "QE_GenomeSequencer"
+	},
+	{
+		"abr": "архоглаз",
+		"price": 3615,
+		"category": "Архотехнологии",
 		"defname": "ArchotechEye"
 	},
 	{
-		"abr": "archotechleg",
-		"price": 4667,
-		"category": "Artificial",
+		"abr": "архонога",
+		"price": 3615,
+		"category": "Архотехнологии",
 		"defname": "ArchotechLeg"
 	},
 	{
-		"abr": "arcticfox",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Fox_Arctic"
+		"abr": "архорука",
+		"price": 3615,
+		"category": "Архотехнологии",
+		"defname": "ArchotechArm"
 	},
 	{
-		"abr": "arcticwolf",
-		"price": 583,
-		"category": "Animal",
-		"defname": "Wolf_Arctic"
+		"abr": "бабмук",
+		"price": -10,
+		"category": "Материалы",
+		"defname": "Bamboo"
 	},
 	{
-		"abr": "armchair",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Armchair"
+		"abr": "балаклава",
+		"price": 30,
+		"category": "Hats",
+		"defname": "VAE_Headgear_Balaclava"
 	},
 	{
-		"abr": "assaultrifle",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "Gun_AssaultRifle"
+		"abr": "баллиста",
+		"price": 500,
+		"category": "",
+		"defname": "VFES_Turret_Ballista"
 	},
 	{
-		"abr": "autopistol",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "Gun_Autopistol"
+		"abr": "баллистическиеочки",
+		"price": 80,
+		"category": "Goggles",
+		"defname": "VAE_Headgear_BallisticGoggles"
 	},
 	{
-		"abr": "battery",
-		"price": 333,
-		"category": "Power",
-		"defname": "Battery"
-	},
-	{
-		"abr": "bearmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Bear_Grizzly"
-	},
-	{
-		"abr": "bearskin",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Bear"
-	},
-	{
-		"abr": "bed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "Bed"
-	},
-	{
-		"abr": "bedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bedroll"
-	},
-	{
-		"abr": "beef",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cow"
-	},
-	{
-		"abr": "beer",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "Beer"
-	},
-	{
-		"abr": "berries",
+		"abr": "бананы",
 		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawBerries"
+		"category": "Фрукты",
+		"defname": "Rawbanana"
 	},
 	{
-		"abr": "billiardstable",
-		"price": 600,
-		"category": "Furniture",
+		"abr": "бандана",
+		"price": 70,
+		"category": "Головные уборы",
+		"defname": "VFES_Headgear_Bandana"
+	},
+	{
+		"abr": "баррикада",
+		"price": 20,
+		"category": "",
+		"defname": "Barricade"
+	},
+	{
+		"abr": "барьер",
+		"price": 30,
+		"category": "",
+		"defname": "VFES_Barrier"
+	},
+	{
+		"abr": "батареядроида",
+		"price": 15,
+		"category": "Изделия",
+		"defname": "ChjAndroidBattery"
+	},
+	{
+		"abr": "бежеваястерильнаястена",
+		"price": -10,
+		"category": "",
+		"defname": "Wall_SterileCream"
+	},
+	{
+		"abr": "белка",
+		"price": 45,
+		"category": "Animal",
+		"defname": "Squirrel"
+	},
+	{
+		"abr": "белковаямасса",
+		"price": 3,
+		"category": "Изделия",
+		"defname": "QE_ProteinMash"
+	},
+	{
+		"abr": "белыймедведь",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Bear_Polar"
+	},
+	{
+		"abr": "бельчатина",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Squirrel"
+	},
+	{
+		"abr": "беляк",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Snowhare"
+	},
+	{
+		"abr": "бильярдныйстол",
+		"price": 550,
+		"category": "Мебель",
 		"defname": "BilliardsTable"
 	},
 	{
-		"abr": "bionicarm",
-		"price": 1717,
-		"category": "Artificial",
-		"defname": "BionicArm"
-	},
-	{
-		"abr": "bionicear",
-		"price": 1308,
-		"category": "Artificial",
-		"defname": "BionicEar"
-	},
-	{
-		"abr": "bioniceye",
-		"price": 1708,
-		"category": "Artificial",
-		"defname": "BionicEye"
-	},
-	{
-		"abr": "bionicheart",
-		"price": 1383,
-		"category": "Artificial",
-		"defname": "BionicHeart"
-	},
-	{
-		"abr": "bionicleg",
-		"price": 1717,
-		"category": "Artificial",
+		"abr": "бионическаянога",
+		"price": 1615,
+		"category": "Бионические",
 		"defname": "BionicLeg"
 	},
 	{
-		"abr": "bionicspine",
-		"price": 1717,
-		"category": "Artificial",
-		"defname": "BionicSpine"
+		"abr": "бионическаярука",
+		"price": 1615,
+		"category": "Бионические",
+		"defname": "BionicArm"
 	},
 	{
-		"abr": "bionicstomach",
-		"price": 1308,
-		"category": "Artificial",
+		"abr": "бионическийглаз",
+		"price": 1615,
+		"category": "Бионические",
+		"defname": "BionicEye"
+	},
+	{
+		"abr": "бионическийжелудок",
+		"price": 1205,
+		"category": "Бионические",
 		"defname": "BionicStomach"
 	},
 	{
-		"abr": "birdmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cassowary"
+		"abr": "бионическийпозвоночник",
+		"price": 1615,
+		"category": "Бионические",
+		"defname": "BionicSpine"
 	},
 	{
-		"abr": "birdskin",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Bird"
+		"abr": "бионическоесердце",
+		"price": 1615,
+		"category": "Бионические",
+		"defname": "BionicHeart"
 	},
 	{
-		"abr": "bluefur",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "Leather_Bluefur"
+		"abr": "бионическоеухо",
+		"price": 1205,
+		"category": "Бионические",
+		"defname": "BionicEar"
 	},
 	{
-		"abr": "bolt-actionrifle",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "Gun_BoltActionRifle"
+		"abr": "биотопливо",
+		"price": 7,
+		"category": "Изделия",
+		"defname": "VG_Biofuel"
 	},
 	{
-		"abr": "boomalope",
-		"price": 583,
+		"abr": "бирюзоваястерильнаястена",
+		"price": -10,
+		"category": "",
+		"defname": "Wall_SterileTeal"
+	},
+	{
+		"abr": "блокигранита",
+		"price": 2,
+		"category": "Каменные блоки",
+		"defname": "BlocksGranite"
+	},
+	{
+		"abr": "блокиизвестняка",
+		"price": 2,
+		"category": "Каменные блоки",
+		"defname": "BlocksLimestone"
+	},
+	{
+		"abr": "блокимрамора",
+		"price": 2,
+		"category": "Каменные блоки",
+		"defname": "BlocksMarble"
+	},
+	{
+		"abr": "блокипесчаника",
+		"price": 2,
+		"category": "Каменные блоки",
+		"defname": "BlocksSandstone"
+	},
+	{
+		"abr": "блокисланца",
+		"price": 2,
+		"category": "Каменные блоки",
+		"defname": "BlocksSlate"
+	},
+	{
+		"abr": "блочныйлук",
+		"price": 190,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Bow_Compound"
+	},
+	{
+		"abr": "бодрин",
+		"price": 55,
+		"category": "Наркотики",
+		"defname": "WakeUp"
+	},
+	{
+		"abr": "боеваявинтовка",
+		"price": 650,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_BattleRifle"
+	},
+	{
+		"abr": "боеваяшапка",
+		"price": -10,
+		"category": "Головные уборы",
+		"defname": "ChjAndroidBattleMaidHat"
+	},
+	{
+		"abr": "боевоеплатье",
+		"price": -10,
+		"category": "Body Armor",
+		"defname": "ChjAndroidMaidBattleDress"
+	},
+	{
+		"abr": "боевойдроид",
+		"price": 1615,
+		"category": "Animal",
+		"defname": "ChjBattleDroid"
+	},
+	{
+		"abr": "боевойии",
+		"price": 2465,
+		"category": "Киборг",
+		"defname": "ANN_CombatAI"
+	},
+	{
+		"abr": "боевойнож",
+		"price": 155,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "боевойпистолет",
+		"price": 240,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_CombatHandgun"
+	},
+	{
+		"abr": "боевойпокров",
+		"price": -10,
+		"category": "Головные уборы",
+		"defname": "Apparel_WarVeil"
+	},
+	{
+		"abr": "боевойтопор",
+		"price": 190,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_BattleAxe"
+	},
+	{
+		"abr": "боксерскаягруша",
+		"price": 325,
+		"category": "Мебель",
+		"defname": "Joy_PunchingBag"
+	},
+	{
+		"abr": "болтомёт",
+		"price": 1750,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_ChjCoreLauncher"
+	},
+	{
+		"abr": "больничнаякровать",
+		"price": 510,
+		"category": "Мебель",
+		"defname": "HospitalBed"
+	},
+	{
+		"abr": "большаяскульптура",
+		"price": 465,
+		"category": "Искусство",
+		"defname": "SculptureLarge"
+	},
+	{
+		"abr": "большаястела",
+		"price": 370,
+		"category": "",
+		"defname": "SteleLarge"
+	},
+	{
+		"abr": "большоймусорныйбак",
+		"price": 200,
+		"category": "Мебель",
+		"defname": "Bin_Large"
+	},
+	{
+		"abr": "большойполовик(зеленый)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatBigGreen"
+	},
+	{
+		"abr": "большойполовик(красный)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatBigRed"
+	},
+	{
+		"abr": "большойполовик(синий)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatBigBlue"
+	},
+	{
+		"abr": "большойстеллаж",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "бочкадляброжения",
+		"price": 45,
+		"category": "Производство",
+		"defname": "FermentingBarrel"
+	},
+	{
+		"abr": "бочкасхимтопливом",
+		"price": 220,
+		"category": "Защита",
+		"defname": "VFES_ChemfuelBarrel"
+	},
+	{
+		"abr": "бочкидляеды",
+		"price": 230,
+		"category": "Мебель",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "бригантина",
+		"price": 280,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_Chestplate"
+	},
+	{
+		"abr": "бронежилет",
+		"price": 275,
+		"category": "Body Armor",
+		"defname": "Apparel_FlakVest"
+	},
+	{
+		"abr": "бронекожа",
+		"price": 2500,
+		"category": "Киборг",
+		"defname": "ANN_Dermalplating"
+	},
+	{
+		"abr": "бронекуртка",
+		"price": 380,
+		"category": "Body Armor",
+		"defname": "Apparel_FlakJacket"
+	},
+	{
+		"abr": "бронешлем",
+		"price": 290,
+		"category": "Головные уборы",
+		"defname": "Apparel_AdvancedHelmet"
+	},
+	{
+		"abr": "бронештаны",
+		"price": 275,
+		"category": "Body Armor",
+		"defname": "Apparel_FlakPants"
+	},
+	{
+		"abr": "броняразведчика",
+		"price": 1515,
+		"category": "Броня",
+		"defname": "Apparel_ArmorRecon"
+	},
+	{
+		"abr": "булава",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "MeleeWeapon_Mace"
+	},
+	{
+		"abr": "бумалопа",
+		"price": 455,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
 	{
-		"abr": "boomalopemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Boomalope"
-	},
-	{
-		"abr": "boomrat",
-		"price": 167,
+		"abr": "бумкрыса",
+		"price": 95,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
 	{
-		"abr": "boomratmeat",
-		"price": 3,
-		"category": "Meat",
+		"abr": "бумкрысятина",
+		"price": -10,
+		"category": "Мясо",
 		"defname": "Meat_Boomrat"
 	},
 	{
-		"abr": "bowlerhat",
-		"price": 77,
-		"category": "Headgear",
-		"defname": "Apparel_BowlerHat"
-	},
-	{
-		"abr": "brewery",
-		"price": 350,
-		"category": "Production",
-		"defname": "Brewery"
-	},
-	{
-		"abr": "butchertable",
-		"price": 302,
-		"category": "Production",
-		"defname": "TableButcher"
-	},
-	{
-		"abr": "button-downshirt",
-		"price": 166,
-		"category": "Apparel",
-		"defname": "Apparel_CollarShirt"
-	},
-	{
-		"abr": "camelhair",
-		"price": 4,
-		"category": "Textiles",
-		"defname": "WoolCamel"
-	},
-	{
-		"abr": "camelhide",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "Leather_Camel"
-	},
-	{
-		"abr": "capybara",
-		"price": 250,
-		"category": "Animal",
-		"defname": "Capybara"
-	},
-	{
-		"abr": "capybarameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Capybara"
-	},
-	{
-		"abr": "caribou",
-		"price": 500,
-		"category": "Animal",
-		"defname": "Caribou"
-	},
-	{
-		"abr": "cariboumeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Caribou"
-	},
-	{
-		"abr": "cassowary",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Cassowary"
-	},
-	{
-		"abr": "cassowaryegg(fert.)",
-		"price": 32,
-		"category": "Eggs (fert.)",
-		"defname": "EggCassowaryFertilized"
-	},
-	{
-		"abr": "cat",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Cat"
-	},
-	{
-		"abr": "catmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cat"
-	},
-	{
-		"abr": "chainshotgun",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "Gun_ChainShotgun"
-	},
-	{
-		"abr": "chargelance",
-		"price": 2258,
-		"category": "Ranged weapons",
-		"defname": "Gun_ChargeLance"
-	},
-	{
-		"abr": "chargerifle",
-		"price": 1683,
-		"category": "Ranged weapons",
-		"defname": "Gun_ChargeRifle"
-	},
-	{
-		"abr": "chemfuel",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "Chemfuel"
-	},
-	{
-		"abr": "chesstable",
-		"price": 281,
-		"category": "Furniture",
-		"defname": "ChessTable"
-	},
-	{
-		"abr": "chicken",
-		"price": 83,
-		"category": "Animal",
-		"defname": "Chicken"
-	},
-	{
-		"abr": "chickenegg(fert.)",
-		"price": 12,
-		"category": "Eggs (fert.)",
-		"defname": "EggChickenFertilized"
-	},
-	{
-		"abr": "chickenegg(unfert.)",
-		"price": 12,
-		"category": "Eggs (unfert.)",
-		"defname": "EggChickenUnfertilized"
-	},
-	{
-		"abr": "chickenmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Chicken"
-	},
-	{
-		"abr": "chinchilla",
-		"price": 250,
-		"category": "Animal",
-		"defname": "Chinchilla"
-	},
-	{
-		"abr": "chinchillafur",
-		"price": 11,
-		"category": "Leathers",
-		"defname": "Leather_Chinchilla"
-	},
-	{
-		"abr": "chinchillameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Chinchilla"
-	},
-	{
-		"abr": "chocolate",
-		"price": 5,
-		"category": "Foods",
-		"defname": "Chocolate"
-	},
-	{
-		"abr": "cloth",
-		"price": 2,
-		"category": "Textiles",
-		"defname": "Cloth"
-	},
-	{
-		"abr": "club",
-		"price": 141,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Club"
-	},
-	{
-		"abr": "cobra",
-		"price": 250,
-		"category": "Animal",
-		"defname": "Cobra"
-	},
-	{
-		"abr": "cobraegg(fert.)",
-		"price": 67,
-		"category": "Eggs (fert.)",
-		"defname": "EggCobraFertilized"
-	},
-	{
-		"abr": "cobraflesh",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cobra"
-	},
-	{
-		"abr": "cochlearimplant",
-		"price": 342,
-		"category": "Artificial",
-		"defname": "CochlearImplant"
-	},
-	{
-		"abr": "component",
-		"price": 53,
-		"category": "Manufactured",
-		"defname": "ComponentIndustrial"
-	},
-	{
-		"abr": "corn",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawCorn"
-	},
-	{
-		"abr": "cougar",
-		"price": 667,
-		"category": "Animal",
-		"defname": "Cougar"
-	},
-	{
-		"abr": "cougarmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cougar"
-	},
-	{
-		"abr": "cow",
-		"price": 500,
-		"category": "Animal",
-		"defname": "Cow"
-	},
-	{
-		"abr": "cowboyhat",
-		"price": 94,
-		"category": "Headgear",
-		"defname": "Apparel_CowboyHat"
-	},
-	{
-		"abr": "deepdrill",
-		"price": 908,
-		"category": "Production",
+		"abr": "буроваяустановка",
+		"price": 430,
+		"category": "Производство",
 		"defname": "DeepDrill"
 	},
 	{
-		"abr": "deer",
-		"price": 417,
+		"abr": "вакуумныйсаркофагкриптосна",
+		"price": 1675,
+		"category": "Особое",
+		"defname": "Ship_CryptosleepCasket"
+	},
+	{
+		"abr": "ванометрическийгенератор",
+		"price": 1950,
+		"category": "Особое",
+		"defname": "VanometricPowerCell"
+	},
+	{
+		"abr": "варг",
+		"price": 560,
 		"category": "Animal",
-		"defname": "Deer"
+		"defname": "Warg"
 	},
 	{
-		"abr": "devilstrand",
-		"price": 9,
-		"category": "Textiles",
-		"defname": "DevilstrandCloth"
+		"abr": "великаястела",
+		"price": 730,
+		"category": "",
+		"defname": "SteleGrand"
 	},
 	{
-		"abr": "diningchair",
-		"price": 198,
-		"category": "Furniture",
-		"defname": "DiningChair"
+		"abr": "вентиляция",
+		"price": 60,
+		"category": "",
+		"defname": "Vent"
 	},
 	{
-		"abr": "dogleather",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Dog"
-	},
-	{
-		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_DoomsdayRocket"
-	},
-	{
-		"abr": "doublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBed"
-	},
-	{
-		"abr": "doublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDouble"
-	},
-	{
-		"abr": "dresser",
-		"price": 179,
-		"category": "Furniture",
-		"defname": "Dresser"
-	},
-	{
-		"abr": "dromedary",
-		"price": 500,
+		"abr": "верблюд",
+		"price": 430,
 		"category": "Animal",
 		"defname": "Dromedary"
 	},
 	{
-		"abr": "dromedarymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dromedary"
+		"abr": "верстак",
+		"price": 700,
+		"category": "Производство",
+		"defname": "TableMachining"
 	},
 	{
-		"abr": "druglab",
-		"price": 742,
-		"category": "Production",
-		"defname": "DrugLab"
+		"abr": "ветрогенератор",
+		"price": 280,
+		"category": "",
+		"defname": "WindTurbine"
 	},
 	{
-		"abr": "duster",
-		"price": 327,
-		"category": "Apparel",
-		"defname": "Apparel_Duster"
+		"abr": "визорциклоп",
+		"price": 2225,
+		"category": "Киборг",
+		"defname": "ANN_CyclopsVisor"
 	},
 	{
-		"abr": "electricsmelter",
-		"price": 667,
-		"category": "Production",
-		"defname": "ElectricSmelter"
+		"abr": "виноград",
+		"price": 2,
+		"category": "Фрукты",
+		"defname": "Rawgrape"
 	},
 	{
-		"abr": "electricsmithy",
-		"price": 492,
-		"category": "Production",
-		"defname": "ElectricSmithy"
-	},
-	{
-		"abr": "electricstove",
+		"abr": "винтовка",
 		"price": 375,
-		"category": "Production",
-		"defname": "ElectricStove"
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_BoltActionRifle"
 	},
 	{
-		"abr": "electrictailorbench",
-		"price": 533,
-		"category": "Production",
-		"defname": "ElectricTailoringBench"
+		"abr": "винтовкаповстанца",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "ChjAndroidGun_RebelRifle"
 	},
 	{
-		"abr": "elephant",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Elephant"
+		"abr": "винтовкарычажногодействия",
+		"price": 350,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_LeverActionRifle"
 	},
 	{
-		"abr": "elephantleather",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Elephant"
+		"abr": "вишня",
+		"price": 2,
+		"category": "Фрукты",
+		"defname": "RawCherry"
 	},
 	{
-		"abr": "elephantmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Elephant"
-	},
-	{
-		"abr": "elephanttusk",
-		"price": 133,
-		"category": "Items",
-		"defname": "ElephantTusk"
-	},
-	{
-		"abr": "elk",
-		"price": 500,
-		"category": "Animal",
-		"defname": "Elk"
-	},
-	{
-		"abr": "elkmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Elk"
-	},
-	{
-		"abr": "empgrenades",
-		"price": 525,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeEMP"
-	},
-	{
-		"abr": "empshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_EMP"
-	},
-	{
-		"abr": "emu",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Emu"
-	},
-	{
-		"abr": "emuegg(fert.)",
+		"abr": "вкусноеблюдо",
 		"price": 30,
-		"category": "Eggs (fert.)",
-		"defname": "EggEmuFertilized"
-	},
-	{
-		"abr": "endtable",
-		"price": 106,
-		"category": "Furniture",
-		"defname": "EndTable"
-	},
-	{
-		"abr": "fennecfox",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Fox_Fennec"
-	},
-	{
-		"abr": "fermentingbarrel",
-		"price": 95,
-		"category": "Production",
-		"defname": "FermentingBarrel"
-	},
-	{
-		"abr": "finemeal",
-		"price": 33,
-		"category": "Meals",
+		"category": "Блюда",
 		"defname": "MealFine"
 	},
 	{
-		"abr": "firefoampopper",
+		"abr": "водянаяпомпа",
 		"price": 300,
-		"category": "Misc",
-		"defname": "FirefoamPopper"
+		"category": "",
+		"defname": "MoisturePump"
 	},
 	{
-		"abr": "firefoamshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_Firefoam"
+		"abr": "водянойгенератор",
+		"price": 785,
+		"category": "",
+		"defname": "WatermillGenerator"
 	},
 	{
-		"abr": "flakjacket",
-		"price": 483,
-		"category": "Apparel",
-		"defname": "Apparel_FlakJacket"
+		"abr": "волк",
+		"price": 340,
+		"category": "Animal",
+		"defname": "Wolf_Timber"
 	},
 	{
-		"abr": "flakpants",
-		"price": 375,
-		"category": "Apparel",
-		"defname": "Apparel_FlakPants"
+		"abr": "волчатина",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Wolf_Timber"
 	},
 	{
-		"abr": "flakvest",
-		"price": 375,
-		"category": "Apparel",
-		"defname": "Apparel_FlakVest"
+		"abr": "волчьяшкура",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Wolf"
 	},
 	{
-		"abr": "flake",
-		"price": 23,
-		"category": "Drugs",
-		"defname": "Flake"
+		"abr": "встроенныйхолодильник(двекамеры)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "RimFridge_WallRefrigerator"
 	},
 	{
-		"abr": "flatscreentelevision",
-		"price": 1533,
-		"category": "Recreation",
-		"defname": "FlatscreenTelevision"
+		"abr": "встроенныйхолодильник(однакамера)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "RimFridge_SingleWallRefrigerator"
 	},
 	{
-		"abr": "foxfur",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Fox"
+		"abr": "выключатель",
+		"price": -10,
+		"category": "",
+		"defname": "PowerSwitch"
 	},
 	{
-		"abr": "foxmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Fox_Fennec"
+		"abr": "высокоточнаявинтовка",
+		"price": 1050,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_MarksmanRifle"
 	},
 	{
-		"abr": "fraggrenades",
-		"price": 442,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeFrag"
+		"abr": "высокоточныйтерминал",
+		"price": 330,
+		"category": "Разное",
+		"defname": "VFE_FabricationCabinet"
 	},
 	{
-		"abr": "fueledsmithy",
-		"price": 333,
-		"category": "Production",
-		"defname": "FueledSmithy"
+		"abr": "выходноелезвие",
+		"price": 1890,
+		"category": "Киборг",
+		"defname": "ANN_OuterBlade"
 	},
 	{
-		"abr": "fueledstove",
-		"price": 265,
-		"category": "Production",
-		"defname": "FueledStove"
+		"abr": "вязанаяшапка",
+		"price": 90,
+		"category": "Головные уборы",
+		"defname": "Apparel_Tuque"
 	},
 	{
-		"abr": "game-of-urboard",
-		"price": 153,
-		"category": "Furniture",
-		"defname": "GameOfUrBoard"
-	},
-	{
-		"abr": "gazelle",
-		"price": 250,
+		"abr": "газель",
+		"price": -10,
 		"category": "Animal",
 		"defname": "Gazelle"
 	},
 	{
-		"abr": "gazellemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Gazelle"
+		"abr": "гамбезон",
+		"price": 180,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_Gambeson"
 	},
 	{
-		"abr": "gladius",
-		"price": 215,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Gladius"
+		"abr": "гардероб",
+		"price": 185,
+		"category": "Мебель",
+		"defname": "Table_Wardrobe"
 	},
 	{
-		"abr": "glitterworldmedicine",
-		"price": 83,
-		"category": "Medicine",
-		"defname": "MedicineUltratech"
+		"abr": "гаубица",
+		"price": 1405,
+		"category": "Защита",
+		"defname": "VFES_Turret_Artillery"
 	},
 	{
-		"abr": "glowpod",
-		"price": 83,
-		"category": "Special",
-		"defname": "GlowPod"
+		"abr": "генераторвихря",
+		"price": 1250,
+		"category": "Оружие дальнего боя",
+		"defname": "TornadoGenerator"
 	},
 	{
-		"abr": "go-juice",
-		"price": 88,
-		"category": "Drugs",
-		"defname": "GoJuice"
+		"abr": "генераторнадровах",
+		"price": 370,
+		"category": "",
+		"defname": "WoodFiredGenerator"
 	},
 	{
-		"abr": "gold",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "Gold"
+		"abr": "генераторнахимтопливе",
+		"price": 380,
+		"category": "",
+		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
-		"abr": "grandsculpture",
-		"price": 1125,
-		"category": "Art",
-		"defname": "SculptureGrand"
+		"abr": "генераторпси-импульса(животные)",
+		"price": 965,
+		"category": "Артефакты",
+		"defname": "PsychicAnimalPulser"
 	},
 	{
-		"abr": "graniteblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "BlocksGranite"
+		"abr": "генераторуспокаивающегопси-импульса",
+		"price": 900,
+		"category": "Артефакты",
+		"defname": "PsychicSoothePulser"
 	},
 	{
-		"abr": "greatbow",
-		"price": 154,
-		"category": "Ranged weapons",
-		"defname": "Bow_Great"
+		"abr": "генераторщита(архотек)",
+		"price": 4100,
+		"category": "Особое",
+		"defname": "VFES_ShieldGenerator_Archotech"
 	},
 	{
-		"abr": "grizzlybear",
-		"price": 1167,
-		"category": "Animal",
-		"defname": "Bear_Grizzly"
+		"abr": "генераторщита(большой)",
+		"price": 6290,
+		"category": "",
+		"defname": "VFES_ShieldGenerator_Large"
 	},
 	{
-		"abr": "handtailorbench",
-		"price": 262,
-		"category": "Production",
-		"defname": "HandTailoringBench"
+		"abr": "генераторщита(малый)",
+		"price": 3475,
+		"category": "Защита",
+		"defname": "VFES_ShieldGenerator_Small"
 	},
 	{
-		"abr": "hare",
-		"price": 83,
-		"category": "Animal",
-		"defname": "Hare"
+		"abr": "геномнаяцепочка",
+		"price": 110,
+		"category": "Предметы",
+		"defname": "QE_GenomeSequencerFilled"
 	},
 	{
-		"abr": "haremeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Hare"
+		"abr": "геотермальныйгенератор",
+		"price": 1525,
+		"category": "",
+		"defname": "GeothermalGenerator"
 	},
 	{
-		"abr": "hay",
-		"price": 1,
-		"category": "Foods",
-		"defname": "Hay"
-	},
-	{
-		"abr": "healermechserum",
-		"price": 2167,
-		"category": "Items",
-		"defname": "MechSerumHealer"
-	},
-	{
-		"abr": "heart",
-		"price": 833,
-		"category": "Natural",
-		"defname": "Heart"
-	},
-	{
-		"abr": "heater",
-		"price": 218,
-		"category": "Temperature",
-		"defname": "Heater"
-	},
-	{
-		"abr": "heavyfur",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Heavy"
-	},
-	{
-		"abr": "heavysmg",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "Gun_HeavySMG"
-	},
-	{
-		"abr": "herbalmedicine",
-		"price": 17,
-		"category": "Medicine",
-		"defname": "MedicineHerbal"
-	},
-	{
-		"abr": "high-explosiveshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_HighExplosive"
-	},
-	{
-		"abr": "hoopstonering",
-		"price": 67,
-		"category": "Recreation",
-		"defname": "HoopstoneRing"
-	},
-	{
-		"abr": "hops",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "RawHops"
-	},
-	{
-		"abr": "horseshoespin",
-		"price": 34,
-		"category": "Recreation",
-		"defname": "HorseshoesPin"
-	},
-	{
-		"abr": "hospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBed"
-	},
-	{
-		"abr": "human",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Human"
-	},
-	{
-		"abr": "humanleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_Human"
-	},
-	{
-		"abr": "humanmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Human"
-	},
-	{
-		"abr": "husky",
-		"price": 417,
-		"category": "Animal",
-		"defname": "Husky"
-	},
-	{
-		"abr": "huskymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Husky"
-	},
-	{
-		"abr": "hyperweave",
-		"price": 15,
-		"category": "Textiles",
-		"defname": "Hyperweave"
-	},
-	{
-		"abr": "ibex",
-		"price": 417,
-		"category": "Animal",
-		"defname": "Ibex"
-	},
-	{
-		"abr": "ibexmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Ibex"
-	},
-	{
-		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
-		"category": "Security",
-		"defname": "TrapIED_AntigrainWarhead"
-	},
-	{
-		"abr": "iedemptrap",
-		"price": 192,
-		"category": "Security",
-		"defname": "TrapIED_EMP"
-	},
-	{
-		"abr": "iedfirefoamtrap",
-		"price": 192,
-		"category": "Security",
-		"defname": "TrapIED_Firefoam"
-	},
-	{
-		"abr": "iedincendiarytrap",
-		"price": 192,
-		"category": "Security",
-		"defname": "TrapIED_Incendiary"
-	},
-	{
-		"abr": "iedtrap",
-		"price": 192,
-		"category": "Security",
-		"defname": "TrapIED_HighExplosive"
-	},
-	{
-		"abr": "iguana",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Iguana"
-	},
-	{
-		"abr": "iguanaegg(fert.)",
-		"price": 42,
-		"category": "Eggs (fert.)",
-		"defname": "EggIguanaFertilized"
-	},
-	{
-		"abr": "iguanameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Iguana"
-	},
-	{
-		"abr": "ikwa",
-		"price": 197,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Ikwa"
-	},
-	{
-		"abr": "incendiarylauncher",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "Gun_IncendiaryLauncher"
-	},
-	{
-		"abr": "incendiaryshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_Incendiary"
-	},
-	{
-		"abr": "infinitechemreactor",
-		"price": 2500,
-		"category": "Special",
-		"defname": "InfiniteChemreactor"
-	},
-	{
-		"abr": "insectjelly",
-		"price": 13,
-		"category": "Animal products",
-		"defname": "InsectJelly"
-	},
-	{
-		"abr": "insectmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Megaspider"
-	},
-	{
-		"abr": "jacket",
-		"price": 275,
-		"category": "Apparel",
-		"defname": "Apparel_Jacket"
-	},
-	{
-		"abr": "jade",
-		"price": 8,
-		"category": "Raw resources",
-		"defname": "Jade"
-	},
-	{
-		"abr": "joywire",
-		"price": 1333,
-		"category": "Artificial",
-		"defname": "Joywire"
-	},
-	{
-		"abr": "kibble",
-		"price": 2,
-		"category": "Foods",
-		"defname": "Kibble"
-	},
-	{
-		"abr": "kidney",
-		"price": 417,
-		"category": "Natural",
-		"defname": "Kidney"
-	},
-	{
-		"abr": "knife",
-		"price": 111,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Knife"
-	},
-	{
-		"abr": "labradorretriever",
-		"price": 417,
-		"category": "Animal",
-		"defname": "LabradorRetriever"
-	},
-	{
-		"abr": "labradorretrievermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_LabradorRetriever"
-	},
-	{
-		"abr": "largesculpture",
-		"price": 517,
-		"category": "Art",
-		"defname": "SculptureLarge"
-	},
-	{
-		"abr": "lavishmeal",
-		"price": 67,
-		"category": "Meals",
-		"defname": "MealLavish"
-	},
-	{
-		"abr": "lightleather",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Light"
-	},
-	{
-		"abr": "limestoneblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "BlocksLimestone"
-	},
-	{
-		"abr": "liver",
-		"price": 833,
-		"category": "Natural",
-		"defname": "Liver"
-	},
-	{
-		"abr": "lizardskin",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Lizard"
-	},
-	{
-		"abr": "lmg",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "Gun_LMG"
-	},
-	{
-		"abr": "longsword",
-		"price": 442,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_LongSword"
-	},
-	{
-		"abr": "luciferium",
-		"price": 200,
-		"category": "Drugs",
-		"defname": "Luciferium"
-	},
-	{
-		"abr": "lung",
-		"price": 667,
-		"category": "Natural",
-		"defname": "Lung"
-	},
-	{
-		"abr": "lynx",
-		"price": 417,
-		"category": "Animal",
-		"defname": "Lynx"
-	},
-	{
-		"abr": "lynxmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Lynx"
-	},
-	{
-		"abr": "mace",
-		"price": 203,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Mace"
-	},
-	{
-		"abr": "machinepistol",
-		"price": 367,
-		"category": "Ranged weapons",
-		"defname": "Gun_MachinePistol"
-	},
-	{
-		"abr": "machiningtable",
-		"price": 758,
-		"category": "Production",
-		"defname": "TableMachining"
-	},
-	{
-		"abr": "marbleblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "BlocksMarble"
-	},
-	{
-		"abr": "marinearmor",
-		"price": 3392,
-		"category": "Apparel",
-		"defname": "Apparel_PowerArmor"
-	},
-	{
-		"abr": "marinehelmet",
-		"price": 1058,
-		"category": "Headgear",
-		"defname": "Apparel_PowerArmorHelmet"
-	},
-	{
-		"abr": "medicine",
-		"price": 30,
-		"category": "Medicine",
-		"defname": "MedicineIndustrial"
-	},
-	{
-		"abr": "megascarab",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Megascarab"
-	},
-	{
-		"abr": "megascreentelevision",
-		"price": 2475,
-		"category": "Recreation",
-		"defname": "MegascreenTelevision"
-	},
-	{
-		"abr": "megasloth",
-		"price": 1167,
+		"abr": "гигантскийленивец",
+		"price": 890,
 		"category": "Animal",
 		"defname": "Megasloth"
 	},
 	{
-		"abr": "megaslothmeat",
+		"abr": "гидравлическаячелюсть",
+		"price": 740,
+		"category": "Киборг",
+		"defname": "ANN_CompressionJaw"
+	},
+	{
+		"abr": "гидравлическийжелудок",
+		"price": 740,
+		"category": "Киборг",
+		"defname": "ANN_CompressionStomach"
+	},
+	{
+		"abr": "гидропоннаяферма",
+		"price": 330,
+		"category": "",
+		"defname": "HydroponicsBasin"
+	},
+	{
+		"abr": "гиперткань",
+		"price": 15,
+		"category": "Текстиль",
+		"defname": "Hyperweave"
+	},
+	{
+		"abr": "гладиус",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "MeleeWeapon_Gladius"
+	},
+	{
+		"abr": "глаз",
+		"price": 350,
+		"category": "Естественные",
+		"defname": "QE_Organ_Eye"
+	},
+	{
+		"abr": "глазанти-логики",
+		"price": 1575,
+		"category": "Киборг",
+		"defname": "ANN_IndependentEye"
+	},
+	{
+		"abr": "глубинныйсканер",
+		"price": 850,
+		"category": "",
+		"defname": "GroundPenetratingScanner"
+	},
+	{
+		"abr": "говядина",
 		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Megasloth"
+		"category": "Мясо",
+		"defname": "Meat_Cow"
 	},
 	{
-		"abr": "megaslothwool",
-		"price": 4,
-		"category": "Textiles",
-		"defname": "WoolMegasloth"
+		"abr": "голубоймех",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Bluefur"
 	},
 	{
-		"abr": "megaspider",
-		"price": 833,
+		"abr": "горныйкозёл",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Ibex"
+	},
+	{
+		"abr": "горшокрагу",
+		"price": 35,
+		"category": "Lavish Meals",
+		"defname": "bowlstew"
+	},
+	{
+		"abr": "гранатомет",
+		"price": 450,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_GrenadeLauncher"
+	},
+	{
+		"abr": "гранульнаямина",
+		"price": 1400,
+		"category": "Защита",
+		"defname": "TrapIED_AntigrainWarhead"
+	},
+	{
+		"abr": "гранульныйснаряд",
+		"price": 970,
+		"category": "Миномётные снаряды",
+		"defname": "Shell_AntigrainWarhead"
+	},
+	{
+		"abr": "грибы",
+		"price": 2,
+		"category": "Растительного происхождения",
+		"defname": "RawFungus"
+	},
+	{
+		"abr": "грибы",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Rawmushroom"
+	},
+	{
+		"abr": "гусиноеяйцо",
+		"price": -10,
+		"category": "Яйца (неопл.)",
+		"defname": "EggGooseUnfertilized"
+	},
+	{
+		"abr": "гусиноеяйцо(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggGooseFertilized"
+	},
+	{
+		"abr": "гусь",
+		"price": 80,
+		"category": "Animal",
+		"defname": "Goose"
+	},
+	{
+		"abr": "дартс",
+		"price": 115,
+		"category": "Мебель",
+		"defname": "Joy_DartsBoard"
+	},
+	{
+		"abr": "дверь",
+		"price": 15,
+		"category": "",
+		"defname": "Door"
+	},
+	{
+		"abr": "двойнаяавтопушка",
+		"price": 3075,
+		"category": "",
+		"defname": "VFES_Turret_AutocannonDouble"
+	},
+	{
+		"abr": "двойнаяанатомическаякровать",
+		"price": 1305,
+		"category": "Мебель",
+		"defname": "Bed_AdvDoubleBed"
+	},
+	{
+		"abr": "двойнаякровать",
+		"price": 240,
+		"category": "Мебель",
+		"defname": "DoubleBed"
+	},
+	{
+		"abr": "двойнойспальныймешок",
+		"price": 240,
+		"category": "Мебель",
+		"defname": "BedrollDouble"
+	},
+	{
+		"abr": "деревяннаяброня",
+		"price": -10,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_WoodenArmor"
+	},
+	{
+		"abr": "дивандлятерапии",
+		"price": 295,
+		"category": "Мебель",
+		"defname": "Couch"
+	},
+	{
+		"abr": "динамит",
+		"price": 300,
+		"category": "Гранаты",
+		"defname": "VFES_Weapon_GrenadeDynamite"
+	},
+	{
+		"abr": "длинноволновоерадио",
+		"price": 920,
+		"category": "Развлечения",
+		"defname": "Radio_Spacer"
+	},
+	{
+		"abr": "длинныйлук",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "Bow_Great"
+	},
+	{
+		"abr": "длинныйлук",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Bow_Long"
+	},
+	{
+		"abr": "длинныймеч",
+		"price": 180,
+		"category": "Оружие ближнего боя",
+		"defname": "MeleeWeapon_LongSword"
+	},
+	{
+		"abr": "дозаторпасты",
+		"price": 375,
+		"category": "",
+		"defname": "NutrientPasteDispenser"
+	},
+	{
+		"abr": "древесина",
+		"price": 2,
+		"category": "Материалы",
+		"defname": "WoodLog"
+	},
+	{
+		"abr": "древнеебетонноеограждение",
+		"price": -10,
+		"category": "",
+		"defname": "AncientConcreteBarrier"
+	},
+	{
+		"abr": "древнийсаркофагкриптосна",
+		"price": -10,
+		"category": "",
+		"defname": "AncientCryptosleepCasket"
+	},
+	{
+		"abr": "древнийфонарныйстолб",
+		"price": -10,
+		"category": "",
+		"defname": "AncientLamppost"
+	},
+	{
+		"abr": "дробовик",
+		"price": 375,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_PumpShotgun"
+	},
+	{
+		"abr": "дроид",
+		"price": 1065,
+		"category": "Animal",
+		"defname": "ChjDroid"
+	},
+	{
+		"abr": "дубина",
+		"price": 85,
+		"category": "Оружие ближнего боя",
+		"defname": "MeleeWeapon_Club"
+	},
+	{
+		"abr": "дубинка",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Baton"
+	},
+	{
+		"abr": "дымоваяграната",
+		"price": 300,
+		"category": "Гранаты",
+		"defname": "VWE_SmokeGrenade"
+	},
+	{
+		"abr": "дымовойгранатомёт",
+		"price": 580,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_SmokeLauncher"
+	},
+	{
+		"abr": "дьявлоткань",
+		"price": 10,
+		"category": "Текстиль",
+		"defname": "DevilstrandCloth"
+	},
+	{
+		"abr": "енот",
+		"price": 60,
+		"category": "Animal",
+		"defname": "Raccoon"
+	},
+	{
+		"abr": "желенасекомых",
+		"price": -10,
+		"category": "Животного происхождения",
+		"defname": "InsectJelly"
+	},
+	{
+		"abr": "железноедерево",
+		"price": -10,
+		"category": "Материалы",
+		"defname": "VG_IronWoodLog"
+	},
+	{
+		"abr": "желудок",
+		"price": 500,
+		"category": "Естественные",
+		"defname": "QE_Organ_Stomach"
+	},
+	{
+		"abr": "загрузочнаяворонка",
+		"price": 30,
+		"category": "",
+		"defname": "Hopper"
+	},
+	{
+		"abr": "зажигательнаямина",
+		"price": 190,
+		"category": "Защита",
+		"defname": "TrapIED_Incendiary"
+	},
+	{
+		"abr": "зажигательныйснаряд",
+		"price": 75,
+		"category": "Миномётные снаряды",
+		"defname": "Shell_Incendiary"
+	},
+	{
+		"abr": "зайчатина",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Hare"
+	},
+	{
+		"abr": "запчастидляремонтадроида",
+		"price": 25,
+		"category": "Изделия",
+		"defname": "ChjDroidRepairParts"
+	},
+	{
+		"abr": "заяц",
+		"price": 30,
+		"category": "Animal",
+		"defname": "Hare"
+	},
+	{
+		"abr": "зверошапка",
+		"price": 100,
+		"category": "Головные уборы",
+		"defname": "Apparel_TribalHeaddress"
+	},
+	{
+		"abr": "зелёнаялампа",
+		"price": 45,
+		"category": "Мебель",
+		"defname": "StandingLamp_Green"
+	},
+	{
+		"abr": "зелёнаястерильнаястена",
+		"price": -10,
+		"category": "",
+		"defname": "Wall_SterileGreen"
+	},
+	{
+		"abr": "зеленыйсветильник(старый)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "золотаяроговица",
+		"price": 1670,
+		"category": "Киборг",
+		"defname": "ANN_AureanCornea"
+	},
+	{
+		"abr": "золотаястерильнаястена",
+		"price": -10,
+		"category": "",
+		"defname": "Wall_SterileGold"
+	},
+	{
+		"abr": "золото",
+		"price": 15,
+		"category": "Материалы",
+		"defname": "Gold"
+	},
+	{
+		"abr": "золотойглаз",
+		"price": 2105,
+		"category": "Киборг",
+		"defname": "ANN_Aurum"
+	},
+	{
+		"abr": "зубр",
+		"price": 280,
+		"category": "Animal",
+		"defname": "Bison"
+	},
+	{
+		"abr": "игуана",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Iguana"
+	},
+	{
+		"abr": "иква",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "MeleeWeapon_Ikwa"
+	},
+	{
+		"abr": "индейка",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Turkey"
+	},
+	{
+		"abr": "инжир",
+		"price": -10,
+		"category": "Фрукты",
+		"defname": "Rawfig"
+	},
+	{
+		"abr": "интерактивныйстол(1x1)",
+		"price": 400,
+		"category": "Мебель",
+		"defname": "Table_interactive_1x1c"
+	},
+	{
+		"abr": "интерактивныйстол(2x2)",
+		"price": 850,
+		"category": "Мебель",
+		"defname": "Table_interactive_2x2c"
+	},
+	{
+		"abr": "инферно-пушка",
+		"price": 1615,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_InfernoCannon"
+	},
+	{
+		"abr": "искусственнаяэкосистема",
+		"price": -10,
+		"category": "",
+		"defname": "VFE_Ecosystem"
+	},
+	{
+		"abr": "испарительныйохладитель",
+		"price": 65,
+		"category": "",
+		"defname": "PassiveCooler"
+	},
+	{
+		"abr": "исследовательскаястойка",
+		"price": 35,
+		"category": "",
+		"defname": "Facility_ResearchCounter"
+	},
+	{
+		"abr": "йоркширскийтерьер",
+		"price": -10,
+		"category": "Animal",
+		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "кабан",
+		"price": 130,
+		"category": "Animal",
+		"defname": "WildBoar"
+	},
+	{
+		"abr": "кабель",
+		"price": -10,
+		"category": "",
+		"defname": "PowerConduit"
+	},
+	{
+		"abr": "казуар",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Cassowary"
+	},
+	{
+		"abr": "кактус",
+		"price": -10,
+		"category": "Растительного происхождения",
+		"defname": "RawCactusFruit"
+	},
+	{
+		"abr": "каменнаямаскавойны",
+		"price": -10,
+		"category": "Masks",
+		"defname": "VAE_Headgear_StoneWarMask"
+	},
+	{
+		"abr": "каменныйкостер",
+		"price": -10,
+		"category": "",
+		"defname": "Stone_Campfire"
+	},
+	{
+		"abr": "камнерезныйстанок",
+		"price": 980,
+		"category": "Производство",
+		"defname": "VFE_TableStonecutterElectric"
+	},
+	{
+		"abr": "капельница",
+		"price": 245,
+		"category": "Разное",
+		"defname": "Facility_IVDrip"
+	},
+	{
+		"abr": "капибара",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Capybara"
+	},
+	{
+		"abr": "капкан",
+		"price": 230,
+		"category": "Защита",
+		"defname": "VFES_BearTrap"
+	},
+	{
+		"abr": "карабин",
+		"price": 710,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_Carbine"
+	},
+	{
+		"abr": "картотека",
+		"price": 65,
+		"category": "Мебель",
+		"defname": "Misc_FileCabinet"
+	},
+	{
+		"abr": "картофель",
+		"price": 2,
+		"category": "Растительного происхождения",
+		"defname": "RawPotatoes"
+	},
+	{
+		"abr": "катапульта",
+		"price": 1050,
+		"category": "",
+		"defname": "VFES_Turret_Catapult"
+	},
+	{
+		"abr": "квадратныйстул",
+		"price": 190,
+		"category": "Мебель",
+		"defname": "Seat_SquareChair"
+	},
+	{
+		"abr": "кирка",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Pickaxe"
+	},
+	{
+		"abr": "кистьруки",
+		"price": 110,
+		"category": "Естественные",
+		"defname": "QE_Organ_Hand"
+	},
+	{
+		"abr": "клеткабассейнагидропоники",
+		"price": -10,
+		"category": "",
+		"defname": "VFE_Hydroponics_Tilable"
+	},
+	{
+		"abr": "клеткаискусственнойэкосистемы",
+		"price": -10,
+		"category": "",
+		"defname": "VFE_Ecosystem_Tilable"
+	},
+	{
+		"abr": "клеткаклумбы",
+		"price": -10,
+		"category": "",
+		"defname": "VFE_PlanterBox_Tilable"
+	},
+	{
+		"abr": "клумба",
+		"price": -10,
+		"category": "",
+		"defname": "VFE_PlanterBox"
+	},
+	{
+		"abr": "ключ",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Wrench"
+	},
+	{
+		"abr": "кобра",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Cobra"
+	},
+	{
+		"abr": "ковбойскаяшляпа",
+		"price": 90,
+		"category": "Головные уборы",
+		"defname": "Apparel_CowboyHat"
+	},
+	{
+		"abr": "кожа",
+		"price": 3,
+		"category": "Кожа",
+		"defname": "Leather_Plain"
+	},
+	{
+		"abr": "кожаносорога",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Rhinoceros"
+	},
+	{
+		"abr": "кожаптицы",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Bird"
+	},
+	{
+		"abr": "кожарептилии",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Lizard"
+	},
+	{
+		"abr": "кожачеловека",
+		"price": 5,
+		"category": "Кожа",
+		"defname": "Leather_Human"
+	},
+	{
+		"abr": "коза",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Goat"
+	},
+	{
+		"abr": "кокосовыйорех",
+		"price": 2,
+		"category": "Фрукты",
+		"defname": "RawCoconut"
+	},
+	{
+		"abr": "коктейлимолотова",
+		"price": 305,
+		"category": "Гранаты",
+		"defname": "Weapon_GrenadeMolotov"
+	},
+	{
+		"abr": "колонна",
+		"price": -10,
+		"category": "",
+		"defname": "Column"
+	},
+	{
+		"abr": "колышекдляметанияподковы",
+		"price": -10,
+		"category": "Развлечения",
+		"defname": "HorseshoesPin"
+	},
+	{
+		"abr": "кольцодлябросаниякамней",
+		"price": -10,
+		"category": "Развлечения",
+		"defname": "HoopstoneRing"
+	},
+	{
+		"abr": "кольчуга",
+		"price": 315,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_Chainmail"
+	},
+	{
+		"abr": "колючеезаграждение",
+		"price": 35,
+		"category": "",
+		"defname": "VFES_BarbedWire"
+	},
+	{
+		"abr": "комбикорм",
+		"price": 2,
+		"category": "Корма для животных",
+		"defname": "Kibble"
+	},
+	{
+		"abr": "комод",
+		"price": 170,
+		"category": "Мебель",
+		"defname": "Dresser"
+	},
+	{
+		"abr": "комодсподсветкой",
+		"price": 310,
+		"category": "Мебель",
+		"defname": "Table_IlluminatedDresser"
+	},
+	{
+		"abr": "компонент",
+		"price": 35,
+		"category": "Изделия",
+		"defname": "ComponentIndustrial"
+	},
+	{
+		"abr": "кондиционер",
+		"price": 400,
+		"category": "",
+		"defname": "Cooler"
+	},
+	{
+		"abr": "конина",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Horse"
+	},
+	{
+		"abr": "консольсвязи",
+		"price": 600,
+		"category": "",
+		"defname": "CommsConsole"
+	},
+	{
+		"abr": "контейнер",
+		"price": 255,
+		"category": "Мебель",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "копьё",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "MeleeWeapon_Spear"
+	},
+	{
+		"abr": "копьёбезумия",
+		"price": 980,
+		"category": "Артефакты",
+		"defname": "PsychicInsanityLance"
+	},
+	{
+		"abr": "копьёпотрясения",
+		"price": 815,
+		"category": "Артефакты",
+		"defname": "PsychicShockLance"
+	},
+	{
+		"abr": "корабельнаябалка",
+		"price": 1725,
+		"category": "",
+		"defname": "Ship_Beam"
+	},
+	{
+		"abr": "корабельныйдвигатель",
+		"price": 5850,
+		"category": "",
+		"defname": "Ship_Engine"
+	},
+	{
+		"abr": "корабельныйкомпьютер",
+		"price": 9650,
+		"category": "",
+		"defname": "Ship_ComputerCore"
+	},
+	{
+		"abr": "корабельныйреактор",
+		"price": 9000,
+		"category": "",
+		"defname": "Ship_Reactor"
+	},
+	{
+		"abr": "коричневаястерильнаястена",
+		"price": -10,
+		"category": "",
+		"defname": "Wall_SterileBrown"
+	},
+	{
+		"abr": "кормушка",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "VFE_AnimalFeeder"
+	},
+	{
+		"abr": "корова",
+		"price": 300,
+		"category": "Animal",
+		"defname": "Cow"
+	},
+	{
+		"abr": "королевскаякровать",
+		"price": 1845,
+		"category": "Мебель",
+		"defname": "Bed_Kingsize"
+	},
+	{
+		"abr": "королевскаятумбочка",
+		"price": 690,
+		"category": "Мебель",
+		"defname": "Table_RoyalEndTable"
+	},
+	{
+		"abr": "королевскийкомод",
+		"price": 1125,
+		"category": "Мебель",
+		"defname": "Table_RoyalDresser"
+	},
+	{
+		"abr": "королевскийстол(1x1)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Table_Royal1x1c"
+	},
+	{
+		"abr": "королевскийстол(1x2)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Table_Royal1x2c"
+	},
+	{
+		"abr": "королевскийстол(2x2)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Table_Royal2x2c"
+	},
+	{
+		"abr": "королевскийстол(2x4)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Table_Royal2x4c"
+	},
+	{
+		"abr": "королевскийстол(3x3)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Table_Royal3x3c"
+	},
+	{
+		"abr": "королевскийстул",
+		"price": 750,
+		"category": "Мебель",
+		"defname": "Seat_RoyalChair"
+	},
+	{
+		"abr": "королевскоекресло",
+		"price": 1335,
+		"category": "Мебель",
+		"defname": "Seat_RoyalArmchair"
+	},
+	{
+		"abr": "короткийлук",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "Bow_Short"
+	},
+	{
+		"abr": "костёр",
+		"price": 40,
+		"category": "",
+		"defname": "Campfire"
+	},
+	{
+		"abr": "костеризбамбука",
+		"price": -10,
+		"category": "",
+		"defname": "VG_Campfire"
+	},
+	{
+		"abr": "костюмхимзащиты",
+		"price": 430,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_HAZMATSuit"
+	},
+	{
+		"abr": "косякдымолиста",
+		"price": 15,
+		"category": "Наркотики",
+		"defname": "SmokeleafJoint"
+	},
+	{
+		"abr": "кофейныебобы",
+		"price": -10,
+		"category": "Растительное сырьё",
+		"defname": "CPD_CoffeeBeans"
+	},
+	{
+		"abr": "кохлеарныйимплант",
+		"price": 210,
+		"category": "Протезы",
+		"defname": "CochlearImplant"
+	},
+	{
+		"abr": "кошка",
+		"price": 60,
+		"category": "Animal",
+		"defname": "Cat"
+	},
+	{
+		"abr": "краснаялампа",
+		"price": 45,
+		"category": "Мебель",
+		"defname": "StandingLamp_Red"
+	},
+	{
+		"abr": "краснаястерильнаястена",
+		"price": -10,
+		"category": "",
+		"defname": "Wall_SterileRed"
+	},
+	{
+		"abr": "краснаячечевица",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "RawRedLentil"
+	},
+	{
+		"abr": "красныйсветильник(старый)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "кремневоеружье",
+		"price": 130,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_Flintlock"
+	},
+	{
+		"abr": "крепкийоружейныйшкаф",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "кресло",
+		"price": 340,
+		"category": "Мебель",
+		"defname": "Armchair"
+	},
+	{
+		"abr": "кресломешок",
+		"price": 40,
+		"category": "Мебель",
+		"defname": "Seat_Cushion"
+	},
+	{
+		"abr": "кровать",
+		"price": 155,
+		"category": "Мебель",
+		"defname": "Bed"
+	},
+	{
+		"abr": "кроватьдляживотных",
+		"price": 135,
+		"category": "Мебель",
+		"defname": "AnimalBed"
+	},
+	{
+		"abr": "кроватькриптосна",
+		"price": 510,
+		"category": "Мебель",
+		"defname": "Bed_CryptoBed"
+	},
+	{
+		"abr": "кроватьплита",
+		"price": 80,
+		"category": "Мебель",
+		"defname": "Bed_StoneSlab"
+	},
+	{
+		"abr": "крупнокалибернаявинтовка",
+		"price": 1665,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_AntiMaterialRifle"
+	},
+	{
+		"abr": "крыжовник",
+		"price": -10,
+		"category": "Фрукты",
+		"defname": "Rawgooseberry"
+	},
+	{
+		"abr": "крыса",
+		"price": 35,
+		"category": "Animal",
+		"defname": "Rat"
+	},
+	{
+		"abr": "крысятина",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_Rat"
+	},
+	{
+		"abr": "крюкидлямяса",
+		"price": 230,
+		"category": "Мебель",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "кузнечныйшкаф",
+		"price": 430,
+		"category": "Разное",
+		"defname": "VFE_SmithyCabinet"
+	},
+	{
+		"abr": "кукуруза",
+		"price": 2,
+		"category": "Растительного происхождения",
+		"defname": "RawCorn"
+	},
+	{
+		"abr": "куриноеяйцо(неопл.)",
+		"price": -10,
+		"category": "Яйца (неопл.)",
+		"defname": "EggChickenUnfertilized"
+	},
+	{
+		"abr": "куриноеяйцо(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggChickenFertilized"
+	},
+	{
+		"abr": "курица",
+		"price": 60,
+		"category": "Animal",
+		"defname": "Chicken"
+	},
+	{
+		"abr": "куртка",
+		"price": 175,
+		"category": "Outerlayers",
+		"defname": "Apparel_Jacket"
+	},
+	{
+		"abr": "курятина",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_Chicken"
+	},
+	{
+		"abr": "кухоннаямойка",
+		"price": 275,
+		"category": "Разное",
+		"defname": "VFE_KitchenSinkCabinet"
+	},
+	{
+		"abr": "лабрадор-ретривер",
+		"price": -10,
+		"category": "Animal",
+		"defname": "LabradorRetriever"
+	},
+	{
+		"abr": "лазернаяснайперскаявинтовка",
+		"price": 3550,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserSniperRifle"
+	},
+	{
+		"abr": "лазерноеружье",
+		"price": 3800,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserRifle"
+	},
+	{
+		"abr": "лазерныймногоствольныйпулемет",
+		"price": 3800,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserMinigun"
+	},
+	{
+		"abr": "лазерныйпистолет",
+		"price": 2600,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserPistol"
+	},
+	{
+		"abr": "лазерныйпистолет-пулемет",
+		"price": 3200,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserSMG"
+	},
+	{
+		"abr": "лазерныйрасщепитель",
+		"price": 4800,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserShotgun"
+	},
+	{
+		"abr": "лазерныйсканнер",
+		"price": 1155,
+		"category": "Киборг",
+		"defname": "ANN_LaserDetection"
+	},
+	{
+		"abr": "лампа",
+		"price": 45,
+		"category": "Мебель",
+		"defname": "StandingLamp"
+	},
+	{
+		"abr": "лампа-факел",
+		"price": 40,
+		"category": "",
+		"defname": "TorchLamp"
+	},
+	{
+		"abr": "латныенаплечники",
+		"price": 80,
+		"category": "Shoulderpads",
+		"defname": "VAE_Apparel_PlateShoulderpads"
+	},
+	{
+		"abr": "лёгкаякожа",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Light"
+	},
+	{
+		"abr": "легкаякосмопехотнаяброня",
+		"price": 1730,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_LightMarineArmor"
+	},
+	{
+		"abr": "легкийкосмопехотныйшлем",
+		"price": 630,
+		"category": "Helmets",
+		"defname": "VAE_Headgear_LightMarineHelmet"
+	},
+	{
+		"abr": "легкийпистолет-пулемет",
+		"price": 215,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_LightSMG"
+	},
+	{
+		"abr": "легкийпластинчатыйдоспех",
+		"price": 440,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_LightPlateArmor"
+	},
+	{
+		"abr": "лёгкое",
+		"price": 550,
+		"category": "Естественные",
+		"defname": "Lung"
+	},
+	{
+		"abr": "лекарственныетравы",
+		"price": 10,
+		"category": "Медикаменты",
+		"defname": "MedicineHerbal"
+	},
+	{
+		"abr": "лисица",
+		"price": 180,
+		"category": "Animal",
+		"defname": "Fox_Red"
+	},
+	{
+		"abr": "листьядымолиста",
+		"price": 3,
+		"category": "Растительное сырьё",
+		"defname": "SmokeleafLeaves"
+	},
+	{
+		"abr": "листьячая",
+		"price": 3,
+		"category": "Растительное сырьё",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "лисьяшкура",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Fox"
+	},
+	{
+		"abr": "лисятина",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Fox_Fennec"
+	},
+	{
+		"abr": "ловушка",
+		"price": 69,
+		"category": "Защита",
+		"defname": "TrapSpike"
+	},
+	{
+		"abr": "лоскутнаякожа",
+		"price": 2,
+		"category": "Кожа",
+		"defname": "Leather_Patch"
+	},
+	{
+		"abr": "лошадь",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Horse"
+	},
+	{
+		"abr": "лучевоймеч",
+		"price": 2020,
+		"category": "Оружие ближнего боя",
+		"defname": "VWEL_LaserSword"
+	},
+	{
+		"abr": "люциферий",
+		"price": 115,
+		"category": "Наркотики",
+		"defname": "Luciferium"
+	},
+	{
+		"abr": "малаяскульптура",
+		"price": 275,
+		"category": "Искусство",
+		"defname": "SculptureSmall"
+	},
+	{
+		"abr": "маленькиймусорноеведро",
+		"price": 125,
+		"category": "Мебель",
+		"defname": "Bin_Small"
+	},
+	{
+		"abr": "манекен",
+		"price": 140,
+		"category": "Защита",
+		"defname": "VFES_Turret_Decoy"
+	},
+	{
+		"abr": "марал",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Elk"
+	},
+	{
+		"abr": "маскавойны",
+		"price": -10,
+		"category": "Головные уборы",
+		"defname": "Apparel_WarMask"
+	},
+	{
+		"abr": "маскировочныйкостюм",
+		"price": 325,
+		"category": "Outerlayers",
+		"defname": "VAE_Apparel_GhillieSuit"
+	},
+	{
+		"abr": "маскировочныйкостюм",
+		"price": 65,
+		"category": "Hats",
+		"defname": "VAE_Headgear_GhillieHood"
+	},
+	{
+		"abr": "мастерскаяхудожника",
+		"price": 375,
+		"category": "Производство",
+		"defname": "TableSculpting"
+	},
+	{
+		"abr": "мегапаук",
+		"price": 480,
 		"category": "Animal",
 		"defname": "Megaspider"
 	},
 	{
-		"abr": "milk",
-		"price": 5,
-		"category": "Animal products",
-		"defname": "Milk"
+		"abr": "мегаскарабей",
+		"price": 165,
+		"category": "Animal",
+		"defname": "Megascarab"
 	},
 	{
-		"abr": "minigun",
-		"price": 1933,
-		"category": "Ranged weapons",
+		"abr": "медведь",
+		"price": 1165,
+		"category": "Animal",
+		"defname": "Bear_Grizzly"
+	},
+	{
+		"abr": "медвежатина",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Bear_Grizzly"
+	},
+	{
+		"abr": "медвежьяшкура",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Bear"
+	},
+	{
+		"abr": "медикаменты",
+		"price": 25,
+		"category": "Медикаменты",
+		"defname": "MedicineIndustrial"
+	},
+	{
+		"abr": "медицинскийшкаф",
+		"price": 200,
+		"category": "Мебель",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "местогибернации",
+		"price": 50,
+		"category": "Производство",
+		"defname": "ChjDroidHibernationPad"
+	},
+	{
+		"abr": "метадон",
+		"price": 25,
+		"category": "Наркотики",
+		"defname": "Methadone"
+	},
+	{
+		"abr": "метательныеножи",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Throwing_Knives"
+	},
+	{
+		"abr": "мехморскойсвинки",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_GuineaPig"
+	},
+	{
+		"abr": "мехтрумбо",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Thrumbo"
+	},
+	{
+		"abr": "мехшиншиллы",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Chinchilla"
+	},
+	{
+		"abr": "мешкиспеском",
+		"price": 15,
+		"category": "",
+		"defname": "Sandbags"
+	},
+	{
+		"abr": "миниган",
+		"price": 1605,
+		"category": "Оружие дальнего боя",
 		"defname": "Gun_Minigun"
 	},
 	{
-		"abr": "mini-turret",
-		"price": 508,
-		"category": "Security",
+		"abr": "мини-турель",
+		"price": 360,
+		"category": "Защита",
 		"defname": "Turret_MiniTurret"
 	},
 	{
-		"abr": "molotovcocktails",
-		"price": 408,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeMolotov"
-	},
-	{
-		"abr": "monkey",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Monkey"
-	},
-	{
-		"abr": "monkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Monkey"
-	},
-	{
-		"abr": "mortar",
-		"price": 708,
-		"category": "Security",
+		"abr": "миномёт",
+		"price": 890,
+		"category": "Защита",
 		"defname": "Turret_Mortar"
 	},
 	{
-		"abr": "muffalo",
+		"abr": "многоствольныйэнергопулемет",
+		"price": 1300,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_ChargeMinigun"
+	},
+	{
+		"abr": "могила",
+		"price": 5,
+		"category": "",
+		"defname": "Grave"
+	},
+	{
+		"abr": "модульlionheart",
+		"price": 2465,
+		"category": "Киборг",
+		"defname": "ANN_Lionheart"
+	},
+	{
+		"abr": "модульshadowrunner",
+		"price": 1980,
+		"category": "Киборг",
+		"defname": "ANN_Shadowrunner"
+	},
+	{
+		"abr": "модульэнергетическойсвязи",
+		"price": 2465,
+		"category": "Киборг",
+		"defname": "ANN_EnergyLink"
+	},
+	{
+		"abr": "мозгопромывщик",
+		"price": 1600,
+		"category": "Сознание",
+		"defname": "ANN_Brainwash"
+	},
+	{
+		"abr": "молоко",
+		"price": 5,
+		"category": "Животного происхождения",
+		"defname": "Milk"
+	},
+	{
+		"abr": "молоток",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Hammer"
+	},
+	{
+		"abr": "мониторжизненныхпоказателей",
+		"price": 305,
+		"category": "Разное",
+		"defname": "VitalsMonitor"
+	},
+	{
+		"abr": "морошка",
+		"price": -10,
+		"category": "Фрукты",
+		"defname": "Rawcloudberry"
+	},
+	{
+		"abr": "морскаясвинка",
+		"price": 50,
+		"category": "Animal",
+		"defname": "GuineaPig"
+	},
+	{
+		"abr": "мультианализатор",
+		"price": 1350,
+		"category": "Разное",
+		"defname": "MultiAnalyzer"
+	},
+	{
+		"abr": "муффало",
 		"price": 500,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
 	{
-		"abr": "muffalomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Muffalo"
+		"abr": "мушкет",
+		"price": 130,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_Musket"
 	},
 	{
-		"abr": "muffalowool",
-		"price": 4,
-		"category": "Textiles",
-		"defname": "WoolMuffalo"
+		"abr": "мясницкийнож",
+		"price": 190,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Cleaver"
 	},
 	{
-		"abr": "multi-analyzer",
-		"price": 1700,
-		"category": "Misc",
-		"defname": "MultiAnalyzer"
+		"abr": "мясоdesignermate",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_DesignerMatesXH"
 	},
 	{
-		"abr": "neurotrainermechserum",
-		"price": 1250,
-		"category": "Items",
-		"defname": "MechSerumNeurotrainer"
+		"abr": "мясоscaleman",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_ScaleManXH"
 	},
 	{
-		"abr": "neutroamine",
-		"price": 10,
-		"category": "Manufactured",
-		"defname": "Neutroamine"
+		"abr": "мясоsoldiermorph",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_SoldiermorphXH"
 	},
 	{
-		"abr": "nutrientpastemeal",
-		"price": 17,
-		"category": "Meals",
-		"defname": "MealNutrientPaste"
+		"abr": "мясоwolfman",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_WolfManXH"
 	},
 	{
-		"abr": "orbitalbombardmenttargeter",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "OrbitalTargeterBombardment"
+		"abr": "мясоальпака",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Alpaca"
 	},
 	{
-		"abr": "orbitalpowerbeamtargeter",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "OrbitalTargeterPowerBeam"
+		"abr": "мясоальфабобра",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Alphabeaver"
 	},
 	{
-		"abr": "orbitaltradebeacon",
-		"price": 185,
-		"category": "Misc",
-		"defname": "OrbitalTradeBeacon"
+		"abr": "мясоандроид",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_ChjAndroid"
 	},
 	{
-		"abr": "ostrich",
-		"price": 417,
-		"category": "Animal",
-		"defname": "Ostrich"
+		"abr": "мясобумалопы",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Boomalope"
 	},
 	{
-		"abr": "ostrichegg(fert.)",
-		"price": 38,
-		"category": "Eggs (fert.)",
-		"defname": "EggOstrichFertilized"
+		"abr": "мясоварга",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Warg"
 	},
 	{
-		"abr": "packagedsurvivalmeal",
-		"price": 40,
-		"category": "Meals",
-		"defname": "MealSurvivalPack"
+		"abr": "мясоверблюда",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Dromedary"
 	},
 	{
-		"abr": "painstopper",
-		"price": 1333,
-		"category": "Artificial",
-		"defname": "Painstopper"
+		"abr": "мясогазели",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Gazelle"
 	},
 	{
-		"abr": "panther",
-		"price": 667,
-		"category": "Animal",
-		"defname": "Panther"
+		"abr": "мясогигантскоголенивца",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Megasloth"
 	},
 	{
-		"abr": "panthermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Panther"
+		"abr": "мясогорногокозла",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Ibex"
 	},
 	{
-		"abr": "pantherafur",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Panthera"
-	},
-	{
-		"abr": "pants",
-		"price": 143,
-		"category": "Apparel",
-		"defname": "Apparel_Pants"
-	},
-	{
-		"abr": "parka",
-		"price": 315,
-		"category": "Apparel",
-		"defname": "Apparel_Parka"
-	},
-	{
-		"abr": "patchleather",
-		"price": 2,
-		"category": "Leathers",
-		"defname": "Leather_Patch"
-	},
-	{
-		"abr": "pemmican",
-		"price": 2,
-		"category": "Foods",
-		"defname": "Pemmican"
-	},
-	{
-		"abr": "penoxycyline",
-		"price": 30,
-		"category": "Drugs",
-		"defname": "Penoxycyline"
-	},
-	{
-		"abr": "pig",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Pig"
-	},
-	{
-		"abr": "pigskin",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Pig"
-	},
-	{
-		"abr": "pila",
-		"price": 182,
-		"category": "Ranged weapons",
-		"defname": "Pila"
-	},
-	{
-		"abr": "plainleather",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Plain"
-	},
-	{
-		"abr": "plantpot",
-		"price": 68,
-		"category": "Furniture",
-		"defname": "PlantPot"
-	},
-	{
-		"abr": "plasteel",
-		"price": 15,
-		"category": "Raw resources",
-		"defname": "Plasteel"
-	},
-	{
-		"abr": "platearmor",
-		"price": 792,
-		"category": "Apparel",
-		"defname": "Apparel_PlateArmor"
-	},
-	{
-		"abr": "pokertable",
-		"price": 400,
-		"category": "Furniture",
-		"defname": "PokerTable"
-	},
-	{
-		"abr": "polarbear",
-		"price": 1167,
-		"category": "Animal",
-		"defname": "Bear_Polar"
-	},
-	{
-		"abr": "pork",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Pig"
-	},
-	{
-		"abr": "potatoes",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawPotatoes"
-	},
-	{
-		"abr": "powerclaw",
-		"price": 2000,
-		"category": "Artificial",
-		"defname": "PowerClaw"
-	},
-	{
-		"abr": "prostheticarm",
-		"price": 408,
-		"category": "Artificial",
-		"defname": "SimpleProstheticArm"
-	},
-	{
-		"abr": "prostheticheart",
-		"price": 358,
-		"category": "Artificial",
-		"defname": "SimpleProstheticHeart"
-	},
-	{
-		"abr": "prostheticleg",
-		"price": 408,
-		"category": "Artificial",
-		"defname": "SimpleProstheticLeg"
-	},
-	{
-		"abr": "psychicanimalpulser",
-		"price": 1167,
-		"category": "Artifacts",
-		"defname": "PsychicAnimalPulser"
-	},
-	{
-		"abr": "psychicemanator",
-		"price": 2167,
-		"category": "Special",
-		"defname": "PsychicEmanator"
-	},
-	{
-		"abr": "psychicfoilhelmet",
-		"price": 417,
-		"category": "Headgear",
-		"defname": "Apparel_PsychicFoilHelmet"
-	},
-	{
-		"abr": "psychicinsanitylance",
-		"price": 1083,
-		"category": "Artifacts",
-		"defname": "PsychicInsanityLance"
-	},
-	{
-		"abr": "psychicshocklance",
-		"price": 917,
-		"category": "Artifacts",
-		"defname": "PsychicShockLance"
-	},
-	{
-		"abr": "psychicsoothepulser",
-		"price": 1000,
-		"category": "Artifacts",
-		"defname": "PsychicSoothePulser"
-	},
-	{
-		"abr": "psychitetea",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "PsychiteTea"
-	},
-	{
-		"abr": "psychoidleaves",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "PsychoidLeaves"
-	},
-	{
-		"abr": "pumpshotgun",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "Gun_PumpShotgun"
-	},
-	{
-		"abr": "raccoon",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Raccoon"
-	},
-	{
-		"abr": "raccoonmeat",
-		"price": 3,
-		"category": "Meat",
+		"abr": "мясоенота",
+		"price": -10,
+		"category": "Мясо",
 		"defname": "Meat_Raccoon"
 	},
 	{
-		"abr": "rat",
-		"price": 58,
-		"category": "Animal",
-		"defname": "Rat"
+		"abr": "мясозубр",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Bison"
 	},
 	{
-		"abr": "ratmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Rat"
+		"abr": "мясоигуаны",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Iguana"
 	},
 	{
-		"abr": "rawfungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawFungus"
+		"abr": "мясоиндейки",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Turkey"
 	},
 	{
-		"abr": "recurvebow",
+		"abr": "мясокапибары",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Capybara"
+	},
+	{
+		"abr": "мясокобры",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Cobra"
+	},
+	{
+		"abr": "мясокоза",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Goat"
+	},
+	{
+		"abr": "мясокошки",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Cat"
+	},
+	{
+		"abr": "мясолабрадора",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_LabradorRetriever"
+	},
+	{
+		"abr": "мясомарала",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Elk"
+	},
+	{
+		"abr": "мясоморскаясвинка",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_GuineaPig"
+	},
+	{
+		"abr": "мясомуффало",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Muffalo"
+	},
+	{
+		"abr": "мясонасекомого",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Megaspider"
+	},
+	{
+		"abr": "мясоносорога",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Rhinoceros"
+	},
+	{
+		"abr": "мясообезьяны",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Monkey"
+	},
+	{
+		"abr": "мясоовца",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Sheep"
+	},
+	{
+		"abr": "мясоосёл",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Donkey"
+	},
+	{
+		"abr": "мясопантеры",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Panther"
+	},
+	{
+		"abr": "мясоптицы",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Cassowary"
+	},
+	{
+		"abr": "мясопумы",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Cougar"
+	},
+	{
+		"abr": "мясорыси",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Lynx"
+	},
+	{
+		"abr": "мясосеверногооленя",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Caribou"
+	},
+	{
+		"abr": "мясослона",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Elephant"
+	},
+	{
+		"abr": "мясотерьера",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "мясотрумбо",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Thrumbo"
+	},
+	{
+		"abr": "мясоутка",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Duck"
+	},
+	{
+		"abr": "мясохаски",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Husky"
+	},
+	{
+		"abr": "мясочерепахи",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Tortoise"
+	},
+	{
+		"abr": "мясошиншиллы",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Chinchilla"
+	},
+	{
+		"abr": "мясояка",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Yak"
+	},
+	{
+		"abr": "наборсборкибоевогодроида",
+		"price": 2340,
+		"category": "Предметы",
+		"defname": "ChjAndroidBattleDroidAssemblyKit"
+	},
+	{
+		"abr": "наборсборкидроида",
+		"price": 1725,
+		"category": "Предметы",
+		"defname": "ChjAndroidDroidAssemblyKit"
+	},
+	{
+		"abr": "надстеннаявентиляция",
+		"price": -10,
+		"category": "",
+		"defname": "Vent_Over"
+	},
+	{
+		"abr": "надстенныйкондиционер",
+		"price": -10,
+		"category": "",
+		"defname": "Cooler_Over"
+	},
+	{
+		"abr": "надстенныйкондиционер(широкий)",
+		"price": -10,
+		"category": "",
+		"defname": "Cooler_Over2W"
+	},
+	{
+		"abr": "настенныйсветильник",
+		"price": 15,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightVII"
+	},
+	{
+		"abr": "настенныйсветильник(зеленый)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightGreenVII"
+	},
+	{
+		"abr": "настенныйсветильник(красный)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightRedVII"
+	},
+	{
+		"abr": "настенныйсветильник(синий)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightBlueVII"
+	},
+	{
+		"abr": "нейроусилитель",
+		"price": 2460,
+		"category": "Киборг",
+		"defname": "ANN_NeuroEnhancer"
+	},
+	{
+		"abr": "нейромод",
+		"price": 1600,
+		"category": "Сознание",
+		"defname": "ANN_NeuromodBooster"
+	},
+	{
+		"abr": "нейротренер(ближнийбой)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Melee"
+	},
+	{
+		"abr": "нейротренер(горноедело)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Mining"
+	},
+	{
+		"abr": "нейротренер(дальнийбой)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Shooting"
+	},
+	{
+		"abr": "нейротренер(животноводство)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Animals"
+	},
+	{
+		"abr": "нейротренер(искусство)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Artistic"
+	},
+	{
+		"abr": "нейротренер(кулинария)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Cooking"
+	},
+	{
+		"abr": "нейротренер(медицина)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Medicine"
+	},
+	{
+		"abr": "нейротренер(общение)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Social"
+	},
+	{
+		"abr": "нейротренер(растениеводство)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Plants"
+	},
+	{
+		"abr": "нейротренер(ремесло)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Crafting"
+	},
+	{
+		"abr": "нейротренер(строительство)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Construction"
+	},
+	{
+		"abr": "нейротренер(умственныйтруд)",
+		"price": 900,
+		"category": "Нейротренеры",
+		"defname": "Neurotrainer_Intellectual"
+	},
+	{
+		"abr": "нейтроамин",
+		"price": 10,
+		"category": "Изделия",
+		"defname": "Neutroamine"
+	},
+	{
+		"abr": "нерво-подавитель",
+		"price": 400,
+		"category": "Бионические",
+		"defname": "QE_NerveStaple"
+	},
+	{
+		"abr": "нефрит",
+		"price": 7,
+		"category": "Материалы",
+		"defname": "Jade"
+	},
+	{
+		"abr": "низкаястена",
+		"price": 10,
+		"category": "",
+		"defname": "VFES_ShortWall"
+	},
+	{
+		"abr": "нога",
+		"price": 230,
+		"category": "Естественные",
+		"defname": "QE_Organ_Leg"
+	},
+	{
+		"abr": "нож",
+		"price": 60,
+		"category": "Оружие ближнего боя",
+		"defname": "MeleeWeapon_Knife"
+	},
+	{
+		"abr": "ноктовизор",
+		"price": 400,
+		"category": "Goggles",
+		"defname": "VAE_Headgear_NightVisionGoggles"
+	},
+	{
+		"abr": "нос",
 		"price": 110,
-		"category": "Ranged weapons",
-		"defname": "Bow_Recurve"
+		"category": "Естественные",
+		"defname": "QE_Organ_Nose"
 	},
 	{
-		"abr": "redfox",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Fox_Red"
-	},
-	{
-		"abr": "resurrectormechserum",
-		"price": 2833,
-		"category": "Items",
-		"defname": "MechSerumResurrector"
-	},
-	{
-		"abr": "revolver",
-		"price": 226,
-		"category": "Ranged weapons",
-		"defname": "Gun_Revolver"
-	},
-	{
-		"abr": "rhinoceros",
-		"price": 1167,
+		"abr": "носорог",
+		"price": 750,
 		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
 	{
-		"abr": "rhinocerosleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_Rhinoceros"
-	},
-	{
-		"abr": "rhinocerosmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Rhinoceros"
-	},
-	{
-		"abr": "rice",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawRice"
-	},
-	{
-		"abr": "royalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBed"
-	},
-	{
-		"abr": "sandstoneblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "BlocksSandstone"
-	},
-	{
-		"abr": "sculptor'stable",
-		"price": 425,
-		"category": "Production",
-		"defname": "TableSculpting"
-	},
-	{
-		"abr": "shelf",
-		"price": 104,
-		"category": "Furniture",
-		"defname": "Shelf"
-	},
-	{
-		"abr": "shieldbelt",
-		"price": 650,
-		"category": "Apparel",
-		"defname": "Apparel_ShieldBelt"
-	},
-	{
-		"abr": "shortbow",
-		"price": 74,
-		"category": "Ranged weapons",
-		"defname": "Bow_Short"
-	},
-	{
-		"abr": "silver",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "Silver"
-	},
-	{
-		"abr": "simplehelmet",
-		"price": 153,
-		"category": "Headgear",
-		"defname": "Apparel_SimpleHelmet"
-	},
-	{
-		"abr": "simplemeal",
-		"price": 25,
-		"category": "Meals",
-		"defname": "MealSimple"
-	},
-	{
-		"abr": "simpleresearchbench",
-		"price": 350,
-		"category": "Production",
-		"defname": "SimpleResearchBench"
-	},
-	{
-		"abr": "slateblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "BlocksSlate"
-	},
-	{
-		"abr": "smallsculpture",
-		"price": 275,
-		"category": "Art",
-		"defname": "SculptureSmall"
-	},
-	{
-		"abr": "smokeleafjoint",
-		"price": 18,
-		"category": "Drugs",
-		"defname": "SmokeleafJoint"
-	},
-	{
-		"abr": "smokeleafleaves",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "SmokeleafLeaves"
-	},
-	{
-		"abr": "smokepopbelt",
-		"price": 277,
-		"category": "Apparel",
-		"defname": "Apparel_SmokepopBelt"
-	},
-	{
-		"abr": "sniperrifle",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "Gun_SniperRifle"
-	},
-	{
-		"abr": "snowhare",
-		"price": 83,
+		"abr": "обезьяна",
+		"price": 65,
 		"category": "Animal",
-		"defname": "Snowhare"
+		"defname": "Monkey"
 	},
 	{
-		"abr": "spear",
-		"price": 322,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Spear"
+		"abr": "обломокгранита",
+		"price": -10,
+		"category": "Каменные обломки",
+		"defname": "ChunkGranite"
 	},
 	{
-		"abr": "spelopede",
-		"price": 333,
+		"abr": "обломокизвестняка",
+		"price": -10,
+		"category": "Каменные обломки",
+		"defname": "ChunkLimestone"
+	},
+	{
+		"abr": "обломокмрамора",
+		"price": -10,
+		"category": "Каменные обломки",
+		"defname": "ChunkMarble"
+	},
+	{
+		"abr": "обломокпесчаника",
+		"price": -10,
+		"category": "Каменные обломки",
+		"defname": "ChunkSandstone"
+	},
+	{
+		"abr": "обломоксланца",
+		"price": -10,
+		"category": "Каменные обломки",
+		"defname": "ChunkSlate"
+	},
+	{
+		"abr": "обогреватель",
+		"price": 150,
+		"category": "Температура",
+		"defname": "Heater"
+	},
+	{
+		"abr": "обрез",
+		"price": 200,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_SawedOffShotgun"
+	},
+	{
+		"abr": "овечьяшерсть",
+		"price": -10,
+		"category": "Текстиль",
+		"defname": "WoolSheep"
+	},
+	{
+		"abr": "овца",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Sheep"
+	},
+	{
+		"abr": "огнемет",
+		"price": 615,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_Flamethrower"
+	},
+	{
+		"abr": "огнемётнаятурель",
+		"price": 870,
+		"category": "Защита",
+		"defname": "VFES_Turret_Flame"
+	},
+	{
+		"abr": "огнетушитель",
+		"price": 455,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_FireExtinguisher"
+	},
+	{
+		"abr": "огромнаяскульптура",
+		"price": 1780,
+		"category": "Искусство",
+		"defname": "SculptureGrand"
+	},
+	{
+		"abr": "окоп",
+		"price": 40,
+		"category": "",
+		"defname": "VFES_Trench"
+	},
+	{
+		"abr": "оленина",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_Deer"
+	},
+	{
+		"abr": "олень",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Deer"
+	},
+	{
+		"abr": "оливки",
+		"price": -10,
+		"category": "Растительного происхождения",
+		"defname": "RawOlive"
+	},
+	{
+		"abr": "операционныйстол",
+		"price": 290,
+		"category": "Мебель",
+		"defname": "Bed_OperatingTable"
+	},
+	{
+		"abr": "органическийчан",
+		"price": 1025,
+		"category": "Производство",
+		"defname": "QE_Building_OrganVat"
+	},
+	{
+		"abr": "органическийчан",
+		"price": 1025,
+		"category": "Производство",
+		"defname": "QE_OrganVat"
+	},
+	{
+		"abr": "оружейныйстеллаж",
+		"price": 135,
+		"category": "Мебель",
+		"defname": "Shelf_WeaponRack"
+	},
+	{
+		"abr": "оружейныйшкаф",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "осёл",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Donkey"
+	},
+	{
+		"abr": "осколочнаямина",
+		"price": 190,
+		"category": "Защита",
+		"defname": "TrapIED_HighExplosive"
+	},
+	{
+		"abr": "осколочныегранаты",
+		"price": 340,
+		"category": "Гранаты",
+		"defname": "Weapon_GrenadeFrag"
+	},
+	{
+		"abr": "осколочныйснаряд",
+		"price": 75,
+		"category": "Миномётные снаряды",
+		"defname": "Shell_HighExplosive"
+	},
+	{
+		"abr": "основнойбур",
+		"price": 10250,
+		"category": "",
+		"defname": "CoreDrill"
+	},
+	{
+		"abr": "охотничьявинтовка",
+		"price": 320,
+		"category": "Оружие дальнего боя",
+		"defname": "VFES_Gun_HuntingRifle"
+	},
+	{
+		"abr": "пантера",
+		"price": 315,
+		"category": "Animal",
+		"defname": "Panther"
+	},
+	{
+		"abr": "парящаяступня",
+		"price": 1280,
+		"category": "Киборг",
+		"defname": "ANN_HoverFeet"
+	},
+	{
+		"abr": "пеммикан",
+		"price": 2,
+		"category": "Продовольствие",
+		"defname": "Pemmican"
+	},
+	{
+		"abr": "пеннаямина",
+		"price": 190,
+		"category": "Защита",
+		"defname": "TrapIED_Firefoam"
+	},
+	{
+		"abr": "пенныйснаряд",
+		"price": 75,
+		"category": "Миномётные снаряды",
+		"defname": "Shell_Firefoam"
+	},
+	{
+		"abr": "пеноксицилин",
+		"price": 30,
+		"category": "Наркотики",
+		"defname": "Penoxycyline"
+	},
+	{
+		"abr": "передовыемедикаменты",
+		"price": 45,
+		"category": "Медикаменты",
+		"defname": "MedicineUltratech"
+	},
+	{
+		"abr": "персики",
+		"price": 2,
+		"category": "Фрукты",
+		"defname": "Rawpeach"
+	},
+	{
+		"abr": "песец",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Fox_Arctic"
+	},
+	{
+		"abr": "пехотнаяброня",
+		"price": 2390,
+		"category": "Броня",
+		"defname": "Apparel_PowerArmor"
+	},
+	{
+		"abr": "пехотныйшлем",
+		"price": 705,
+		"category": "Головные уборы",
+		"defname": "Apparel_PowerArmorHelmet"
+	},
+	{
+		"abr": "печень",
+		"price": 730,
+		"category": "Естественные",
+		"defname": "Liver"
+	},
+	{
+		"abr": "пещерныйжук",
+		"price": 230,
 		"category": "Animal",
 		"defname": "Spelopede"
 	},
 	{
-		"abr": "spiketrap",
-		"price": 136,
-		"category": "Security",
-		"defname": "TrapSpike"
+		"abr": "пиво",
+		"price": 20,
+		"category": "Наркотики",
+		"defname": "Beer"
 	},
 	{
-		"abr": "squirrel",
-		"price": 58,
+		"abr": "пивоварня",
+		"price": 300,
+		"category": "Производство",
+		"defname": "Brewery"
+	},
+	{
+		"abr": "пилум",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "Pila"
+	},
+	{
+		"abr": "пистолет",
+		"price": 180,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_Autopistol"
+	},
+	{
+		"abr": "пистолетповстанца",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "ChjAndroidGun_Rebelpistol"
+	},
+	{
+		"abr": "пистолет-пулемет",
+		"price": 450,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_SMG"
+	},
+	{
+		"abr": "пистолет-пулемёт",
+		"price": 240,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_HeavySMG"
+	},
+	{
+		"abr": "питательнаяпаста",
+		"price": 13,
+		"category": "Блюда",
+		"defname": "MealNutrientPaste"
+	},
+	{
+		"abr": "питательныйраствор",
+		"price": 3,
+		"category": "Изделия",
+		"defname": "QE_NutrientSolution"
+	},
+	{
+		"abr": "плавильнянадровах",
+		"price": -10,
+		"category": "Производство",
+		"defname": "VFE_FueledSmelter"
+	},
+	{
+		"abr": "плазменныйтелевизор",
+		"price": 1335,
+		"category": "Развлечения",
+		"defname": "FlatscreenTelevision"
+	},
+	{
+		"abr": "пласталь",
+		"price": 13,
+		"category": "Материалы",
+		"defname": "Plasteel"
+	},
+	{
+		"abr": "пластинчатыеперчатки",
+		"price": 120,
+		"category": "Handwear",
+		"defname": "VAE_Handwear_PlateGloves"
+	},
+	{
+		"abr": "пластинчатыесапоги",
+		"price": 105,
+		"category": "Footwear",
+		"defname": "VAE_Footwear_PlateBoots"
+	},
+	{
+		"abr": "пластинчатыйдоспех",
+		"price": 690,
+		"category": "Body Armor",
+		"defname": "Apparel_PlateArmor"
+	},
+	{
+		"abr": "пластинчатыйшлем",
+		"price": 150,
+		"category": "Helmets",
+		"defname": "VAE_Apparel_PlateHelmet"
+	},
+	{
+		"abr": "платьегорничной",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "ChjAndroidMaidOutfit"
+	},
+	{
+		"abr": "плащ",
+		"price": 220,
+		"category": "Outerlayers",
+		"defname": "Apparel_Duster"
+	},
+	{
+		"abr": "плеть",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "плоскаякепка",
+		"price": -10,
+		"category": "Головные уборы",
+		"defname": "VFES_Headgear_FlatCap"
+	},
+	{
+		"abr": "плотьчеловека",
+		"price": 1,
+		"category": "Мясо",
+		"defname": "Meat_Human"
+	},
+	{
+		"abr": "подводныйкабель",
+		"price": -10,
+		"category": "",
+		"defname": "WaterproofConduit"
+	},
+	{
+		"abr": "поддон",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "поджарка",
+		"price": 40,
+		"category": "Fine Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "позвоночник",
+		"price": 500,
+		"category": "Естественные",
+		"defname": "QE_Organ_Spine"
+	},
+	{
+		"abr": "поледляигрыур",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "GameOfUrBoard"
+	},
+	{
+		"abr": "полкадляодежды",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "половик(зеленый)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatGreen"
+	},
+	{
+		"abr": "половик(красный)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatRed"
+	},
+	{
+		"abr": "половик(синий)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LT_DoorMatBlue"
+	},
+	{
+		"abr": "полуавтоматическоеружье",
+		"price": 400,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_SemiAutomaticRifle"
+	},
+	{
+		"abr": "полярныйволк",
+		"price": -10,
 		"category": "Animal",
-		"defname": "Squirrel"
+		"defname": "Wolf_Arctic"
 	},
 	{
-		"abr": "squirrelmeat",
+		"abr": "порошокпсихина",
+		"price": 35,
+		"category": "Наркотики",
+		"defname": "Yayo"
+	},
+	{
+		"abr": "посмертныйрастворитель",
+		"price": 565,
+		"category": "Бионические",
+		"defname": "DeathAcidifier"
+	},
+	{
+		"abr": "почка",
+		"price": 365,
+		"category": "Естественные",
+		"defname": "Kidney"
+	},
+	{
+		"abr": "пояс-дымзавеса",
+		"price": -10,
+		"category": "Accessories",
+		"defname": "Apparel_SmokepopBelt"
+	},
+	{
+		"abr": "пояс-щит",
+		"price": 450,
+		"category": "Accessories",
+		"defname": "Apparel_ShieldBelt"
+	},
+	{
+		"abr": "предохранитель",
+		"price": 70,
+		"category": "Энергия",
+		"defname": "Building_RTMakeshiftFuse"
+	},
+	{
+		"abr": "прерыватель",
+		"price": 220,
+		"category": "Энергия",
+		"defname": "Building_RTCircuitBreaker"
+	},
+	{
+		"abr": "прикроватныйстолик",
+		"price": 100,
+		"category": "Мебель",
+		"defname": "EndTable"
+	},
+	{
+		"abr": "прикроватныйстоликсподсветкой",
+		"price": 280,
+		"category": "Мебель",
+		"defname": "Table_IlluminatedEndTable"
+	},
+	{
+		"abr": "принтерандроидов",
+		"price": 6550,
+		"category": "Производство",
+		"defname": "ChJAndroidPrinter"
+	},
+	{
+		"abr": "продвинутаяракетница",
+		"price": 8450,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_ChargeRocketLauncher"
+	},
+	{
+		"abr": "продвинутыйкомпонент",
+		"price": 265,
+		"category": "Изделия",
+		"defname": "ComponentSpacer"
+	},
+	{
+		"abr": "промышленноерадио",
+		"price": 370,
+		"category": "Развлечения",
+		"defname": "Radio_Industrial"
+	},
+	{
+		"abr": "простаякровать",
+		"price": 130,
+		"category": "Мебель",
+		"defname": "Bed_Simple"
+	},
+	{
+		"abr": "простоеблюдо",
+		"price": 20,
+		"category": "Блюда",
+		"defname": "MealSimple"
+	},
+	{
+		"abr": "простойкардиопротез",
+		"price": 210,
+		"category": "Протезы",
+		"defname": "SimpleProstheticHeart"
+	},
+	{
+		"abr": "простойпротезноги",
+		"price": 300,
+		"category": "Протезы",
+		"defname": "SimpleProstheticLeg"
+	},
+	{
+		"abr": "простойпротезруки",
+		"price": 300,
+		"category": "Протезы",
+		"defname": "SimpleProstheticArm"
+	},
+	{
+		"abr": "простойстолдляисследований",
+		"price": 300,
+		"category": "Производство",
+		"defname": "SimpleResearchBench"
+	},
+	{
+		"abr": "простойшлем",
+		"price": 100,
+		"category": "Головные уборы",
+		"defname": "Apparel_SimpleHelmet"
+	},
+	{
+		"abr": "противопульныйжилет",
+		"price": 950,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_BulletproofVest"
+	},
+	{
+		"abr": "пси-излучатель",
+		"price": 2050,
+		"category": "Особое",
+		"defname": "PsychicEmanator"
+	},
+	{
+		"abr": "пси-излучатель",
+		"price": 2050,
+		"category": "Особое",
+		"defname": "VFES_PsychicPylon"
+	},
+	{
+		"abr": "психиновыйчай",
+		"price": 15,
+		"category": "Наркотики",
+		"defname": "PsychiteTea"
+	},
+	{
+		"abr": "психолистья",
 		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Squirrel"
+		"category": "Растительное сырьё",
+		"defname": "PsychoidLeaves"
 	},
 	{
-		"abr": "standinglamp",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "StandingLamp"
+		"abr": "пулемётнаяточка",
+		"price": 750,
+		"category": "",
+		"defname": "VFES_Turret_HMGComplex"
 	},
 	{
-		"abr": "standinglamp(blue)",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "StandingLamp_Blue"
+		"abr": "пулемётнаятурель",
+		"price": 670,
+		"category": "Защита",
+		"defname": "VFES_Turret_MilitaryTurret"
 	},
 	{
-		"abr": "standinglamp(green)",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "StandingLamp_Green"
+		"abr": "пума",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Cougar"
 	},
 	{
-		"abr": "standinglamp(red)",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "StandingLamp_Red"
+		"abr": "пусковаяустановкадлякапсул",
+		"price": 230,
+		"category": "",
+		"defname": "PodLauncher"
 	},
 	{
-		"abr": "steel",
+		"abr": "пуховик",
+		"price": 215,
+		"category": "Outerlayers",
+		"defname": "Apparel_Parka"
+	},
+	{
+		"abr": "разбрызгиватель",
+		"price": 180,
+		"category": "Разное",
+		"defname": "VFE_Sprinkler"
+	},
+	{
+		"abr": "разделочныйстол",
+		"price": 210,
+		"category": "Производство",
+		"defname": "TableButcher"
+	},
+	{
+		"abr": "ракетнаятурель",
+		"price": 2880,
+		"category": "",
+		"defname": "VFES_Turret_TriRocket"
+	},
+	{
+		"abr": "ракетница",
+		"price": 1610,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_RocketLauncher"
+	},
+	{
+		"abr": "ракетница«тройка»",
+		"price": 1615,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_TripleRocket"
+	},
+	{
+		"abr": "ракетницасудногодня",
+		"price": 1615,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_DoomsdayRocket"
+	},
+	{
+		"abr": "реактивныйогнемёт",
+		"price": 505,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_IncendiaryLauncher"
+	},
+	{
+		"abr": "револьвер",
+		"price": 150,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_Revolver"
+	},
+	{
+		"abr": "револьвердвойногодействия",
+		"price": 155,
+		"category": "Оружие дальнего боя",
+		"defname": "VFES_Gun_DoubleActionRevolver"
+	},
+	{
+		"abr": "рекурсивныйлук",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "Bow_Recurve"
+	},
+	{
+		"abr": "ремкомплект",
+		"price": 5,
+		"category": "Изделия",
+		"defname": "RepairKit"
+	},
+	{
+		"abr": "ремонтныйнабордроида",
+		"price": 360,
+		"category": "Изделия",
+		"defname": "ChjDroidRepairKit"
+	},
+	{
+		"abr": "ремполка",
+		"price": 2150,
+		"category": "Мебель",
+		"defname": "Shelf_RepairRack"
+	},
+	{
+		"abr": "реставратор",
+		"price": 1600,
+		"category": "Сознание",
+		"defname": "ANN_Reconditioner"
+	},
+	{
+		"abr": "рис",
+		"price": 2,
+		"category": "Растительного происхождения",
+		"defname": "RawRice"
+	},
+	{
+		"abr": "рогтрумбо",
+		"price": 1250,
+		"category": "Предметы",
+		"defname": "ThrumboHorn"
+	},
+	{
+		"abr": "рогатка",
+		"price": 10,
+		"category": "",
+		"defname": "VFES_CavalrySpikes"
+	},
+	{
+		"abr": "роскошнаякровать",
+		"price": 1290,
+		"category": "Мебель",
+		"defname": "RoyalBed"
+	},
+	{
+		"abr": "рубашка",
+		"price": 115,
+		"category": "Innerlayers",
+		"defname": "Apparel_CollarShirt"
+	},
+	{
+		"abr": "рука",
+		"price": 230,
+		"category": "Естественные",
+		"defname": "QE_Organ_Arm"
+	},
+	{
+		"abr": "рулетка",
+		"price": 670,
+		"category": "Мебель",
+		"defname": "Joy_RouletteTable"
+	},
+	{
+		"abr": "ручнаяпушка",
+		"price": 165,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_HandCannon"
+	},
+	{
+		"abr": "ручноймодульрастениеводства",
+		"price": 1100,
+		"category": "Киборг",
+		"defname": "ANN_Greenthumb"
+	},
+	{
+		"abr": "ручнойпулемёт",
+		"price": 600,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_LMG"
+	},
+	{
+		"abr": "рысь",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Lynx"
+	},
+	{
+		"abr": "садовыйкофе",
+		"price": 10,
+		"category": "Напитки",
+		"defname": "Coffee"
+	},
+	{
+		"abr": "садовыйчай",
+		"price": 10,
+		"category": "Напитки",
+		"defname": "Cuptea"
+	},
+	{
+		"abr": "самодельнаялазернаяснайперка",
+		"price": 2750,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
+	},
+	{
+		"abr": "самодельноелазерноеружье",
+		"price": 2750,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_SalvagedLaserRifle"
+	},
+	{
+		"abr": "самодельныйлазерныйпистолет",
+		"price": 1800,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_SalvagedLaserPistol"
+	},
+	{
+		"abr": "самодельныйлазерныйрасщепитель",
+		"price": 2750,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_SalvagedLaserShotgun"
+	},
+	{
+		"abr": "сапернаялопатка",
+		"price": 210,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Shovel"
+	},
+	{
+		"abr": "саркофаг",
+		"price": 205,
+		"category": "",
+		"defname": "Sarcophagus"
+	},
+	{
+		"abr": "саркофагкриптосна",
+		"price": 1050,
+		"category": "Особое",
+		"defname": "CryptosleepCasket"
+	},
+	{
+		"abr": "светильник(старый)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "свето-шумоваяграната",
+		"price": 425,
+		"category": "Гранаты",
+		"defname": "VWE_FlashGrenade"
+	},
+	{
+		"abr": "светящийсякокон",
+		"price": -10,
+		"category": "Особое",
+		"defname": "GlowPod"
+	},
+	{
+		"abr": "свинаякожа",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Pig"
+	},
+	{
+		"abr": "свинина",
 		"price": 3,
-		"category": "Raw resources",
-		"defname": "Steel"
+		"category": "Мясо",
+		"defname": "Meat_Pig"
 	},
 	{
-		"abr": "stonecutter'stable",
-		"price": 358,
-		"category": "Production",
-		"defname": "TableStonecutter"
+		"abr": "свинья",
+		"price": 180,
+		"category": "Animal",
+		"defname": "Pig"
 	},
 	{
-		"abr": "stool",
-		"price": 86,
-		"category": "Furniture",
-		"defname": "Stool"
+		"abr": "северныйолень",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Caribou"
 	},
 	{
-		"abr": "sunlamp",
-		"price": 129,
-		"category": "Furniture",
-		"defname": "SunLamp"
+		"abr": "сено",
+		"price": 1,
+		"category": "Корма для животных",
+		"defname": "Hay"
 	},
 	{
-		"abr": "synthread",
-		"price": 7,
-		"category": "Textiles",
+		"abr": "сенсорнаяоболочкауха",
+		"price": 1280,
+		"category": "Киборг",
+		"defname": "ANN_SensoricEarside"
+	},
+	{
+		"abr": "сенсорныйкластер",
+		"price": 2950,
+		"category": "",
+		"defname": "Ship_SensorCluster"
+	},
+	{
+		"abr": "сердце",
+		"price": 730,
+		"category": "Естественные",
+		"defname": "Heart"
+	},
+	{
+		"abr": "серебро",
+		"price": 2,
+		"category": "Материалы",
+		"defname": "Silver"
+	},
+	{
+		"abr": "силоваярука",
+		"price": 2130,
+		"category": "Киборг",
+		"defname": "ANN_PowerArms"
+	},
+	{
+		"abr": "силовыеботинки",
+		"price": 805,
+		"category": "Footwear",
+		"defname": "VAE_Footwear_MarineBoots"
+	},
+	{
+		"abr": "силовыекогти",
+		"price": 450,
+		"category": "Протезы",
+		"defname": "PowerClaw"
+	},
+	{
+		"abr": "силовыеперчатки",
+		"price": 680,
+		"category": "Handwear",
+		"defname": "VAE_Handwear_MarineGloves"
+	},
+	{
+		"abr": "силос",
+		"price": -10,
+		"category": "Корма для животных",
+		"defname": "Silage"
+	},
+	{
+		"abr": "синийсветильник(старый)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "синтезаторхимтоплива",
+		"price": 1930,
+		"category": "Особое",
+		"defname": "InfiniteChemreactor"
+	},
+	{
+		"abr": "синтетическаякожа",
+		"price": 6,
+		"category": "Кожа",
+		"defname": "Leather_ChJAndroid"
+	},
+	{
+		"abr": "синтетическиесухожилия",
+		"price": 2135,
+		"category": "Киборг",
+		"defname": "ANN_ElasticAchilles"
+	},
+	{
+		"abr": "синтетическоемясо",
+		"price": 2,
+		"category": "Мясо",
+		"defname": "Meat_QESynthMeat"
+	},
+	{
+		"abr": "синткань",
+		"price": 5,
+		"category": "Текстиль",
 		"defname": "Synthread"
 	},
 	{
-		"abr": "table(1x2)",
-		"price": 98,
-		"category": "Furniture",
+		"abr": "синяялампа",
+		"price": 45,
+		"category": "Мебель",
+		"defname": "StandingLamp_Blue"
+	},
+	{
+		"abr": "синяястерильнаястена",
+		"price": -10,
+		"category": "",
+		"defname": "Wall_SterileBlue"
+	},
+	{
+		"abr": "скальпель",
+		"price": 155,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Scalpel"
+	},
+	{
+		"abr": "скамейка",
+		"price": 50,
+		"category": "Мебель",
+		"defname": "Seat_Bench"
+	},
+	{
+		"abr": "сканерминераловдальнегодействия",
+		"price": 1625,
+		"category": "",
+		"defname": "LongRangeMineralScanner"
+	},
+	{
+		"abr": "сканермозга",
+		"price": 160,
+		"category": "Изделия",
+		"defname": "QE_BrainScanner"
+	},
+	{
+		"abr": "сканограммамозга",
+		"price": 115,
+		"category": "Предметы",
+		"defname": "QE_BrainScannerFilled"
+	},
+	{
+		"abr": "скрытаятурель",
+		"price": 770,
+		"category": "Защита",
+		"defname": "VFES_Turret_FloorTurret"
+	},
+	{
+		"abr": "скрытыйбарьер",
+		"price": 95,
+		"category": "",
+		"defname": "VFES_DeployableBarrier"
+	},
+	{
+		"abr": "слон",
+		"price": 650,
+		"category": "Animal",
+		"defname": "Elephant"
+	},
+	{
+		"abr": "слоновийбивень",
+		"price": -10,
+		"category": "Предметы",
+		"defname": "ElephantTusk"
+	},
+	{
+		"abr": "слоновьякожа",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Elephant"
+	},
+	{
+		"abr": "снайперскаявинтовка",
+		"price": 830,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_SniperRifle"
+	},
+	{
+		"abr": "снайперскаятурель",
+		"price": 2355,
+		"category": "",
+		"defname": "Turret_Sniper"
+	},
+	{
+		"abr": "снайперскаяэнерговинтовка",
+		"price": 1950,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_ChargeSniperRifle"
+	},
+	{
+		"abr": "снежнаясвекла",
+		"price": -10,
+		"category": "Растительного происхождения",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "собачьяшкура",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Dog"
+	},
+	{
+		"abr": "современнаялампа",
+		"price": 90,
+		"category": "Мебель",
+		"defname": "Light_ModernLamp"
+	},
+	{
+		"abr": "современныйкомпьютер",
+		"price": 920,
+		"category": "Развлечения",
+		"defname": "Joy_ModernComputer"
+	},
+	{
+		"abr": "солнечнаябатарея",
+		"price": 435,
+		"category": "",
+		"defname": "SolarGenerator"
+	},
+	{
+		"abr": "солнечнаялампа",
+		"price": 110,
+		"category": "Мебель",
+		"defname": "SunLamp"
+	},
+	{
+		"abr": "солнечнаяпанель-плащ",
+		"price": -10,
+		"category": "Outerlayers",
+		"defname": "ChjAndroid_SolarDuster"
+	},
+	{
+		"abr": "солнечнаятермолампа",
+		"price": 1170,
+		"category": "Мебель",
+		"defname": "Spacer_SunLamp"
+	},
+	{
+		"abr": "сомбреро",
+		"price": 40,
+		"category": "Головные уборы",
+		"defname": "VFES_Headgear_Sombrero"
+	},
+	{
+		"abr": "спальныйкоробдляживотных",
+		"price": 55,
+		"category": "Мебель",
+		"defname": "AnimalSleepingBox"
+	},
+	{
+		"abr": "спальныймешок",
+		"price": 110,
+		"category": "Мебель",
+		"defname": "Bedroll"
+	},
+	{
+		"abr": "сталь",
+		"price": 2,
+		"category": "Материалы",
+		"defname": "Steel"
+	},
+	{
+		"abr": "старыйкомпьютер",
+		"price": 170,
+		"category": "Развлечения",
+		"defname": "Joy_InudstrialComputer"
+	},
+	{
+		"abr": "стеганныйжилет",
+		"price": -10,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_QuiltedVest"
+	},
+	{
+		"abr": "стеллаж",
+		"price": 100,
+		"category": "Мебель",
+		"defname": "Shelf"
+	},
+	{
+		"abr": "стена",
+		"price": 15,
+		"category": "",
+		"defname": "Wall"
+	},
+	{
+		"abr": "стирательпамяти",
+		"price": 1600,
+		"category": "Сознание",
+		"defname": "ANN_MindClearer"
+	},
+	{
+		"abr": "стойкадляблюд",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "стол(1x1)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Table_1x1c"
+	},
+	{
+		"abr": "стол(1x2)",
+		"price": -10,
+		"category": "Мебель",
 		"defname": "Table1x2c"
 	},
 	{
-		"abr": "table(2x2)",
-		"price": 176,
-		"category": "Furniture",
+		"abr": "стол(2x2)",
+		"price": -10,
+		"category": "Мебель",
 		"defname": "Table2x2c"
 	},
 	{
-		"abr": "table(2x4)",
-		"price": 333,
-		"category": "Furniture",
+		"abr": "стол(2x4)",
+		"price": -10,
+		"category": "Мебель",
 		"defname": "Table2x4c"
 	},
 	{
-		"abr": "table(3x3)",
-		"price": 350,
-		"category": "Furniture",
+		"abr": "стол(3x3)",
+		"price": -10,
+		"category": "Мебель",
 		"defname": "Table3x3c"
 	},
 	{
-		"abr": "techprofsubpersonacore",
-		"price": 1667,
-		"category": "Items",
+		"abr": "столдляпокера",
+		"price": 345,
+		"category": "Мебель",
+		"defname": "PokerTable"
+	},
+	{
+		"abr": "столдлярезкикамня",
+		"price": 300,
+		"category": "Производство",
+		"defname": "TableStonecutter"
+	},
+	{
+		"abr": "столпортного",
+		"price": 210,
+		"category": "Производство",
+		"defname": "HandTailoringBench"
+	},
+	{
+		"abr": "столешница",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Table_Counter"
+	},
+	{
+		"abr": "страус",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Ostrich"
+	},
+	{
+		"abr": "страусиноеяйцо(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggOstrichFertilized"
+	},
+	{
+		"abr": "стул",
+		"price": 120,
+		"category": "Мебель",
+		"defname": "DiningChair"
+	},
+	{
+		"abr": "ступня",
+		"price": 110,
+		"category": "Естественные",
+		"defname": "QE_Organ_Foot"
+	},
+	{
+		"abr": "субличность-учитель",
+		"price": 1565,
+		"category": "Предметы",
 		"defname": "TechprofSubpersonaCore"
 	},
 	{
-		"abr": "telescope",
-		"price": 583,
-		"category": "Recreation",
+		"abr": "сусло",
+		"price": 4,
+		"category": "Изделия",
+		"defname": "Wort"
+	},
+	{
+		"abr": "сухойпаёк",
+		"price": 35,
+		"category": "Блюда",
+		"defname": "MealSurvivalPack"
+	},
+	{
+		"abr": "сывороткавоскрешения",
+		"price": 2085,
+		"category": "Предметы",
+		"defname": "MechSerumResurrector"
+	},
+	{
+		"abr": "сывороткаисцеления",
+		"price": 1735,
+		"category": "Предметы",
+		"defname": "MechSerumHealer"
+	},
+	{
+		"abr": "табурет",
+		"price": 85,
+		"category": "Мебель",
+		"defname": "Stool"
+	},
+	{
+		"abr": "таз",
+		"price": 230,
+		"category": "Естественные",
+		"defname": "QE_Organ_Pelvis"
+	},
+	{
+		"abr": "твердотопливнаяплита",
+		"price": 210,
+		"category": "Производство",
+		"defname": "FueledStove"
+	},
+	{
+		"abr": "телескоп",
+		"price": 390,
+		"category": "Развлечения",
 		"defname": "Telescope"
 	},
 	{
-		"abr": "thrumbo",
-		"price": 6667,
+		"abr": "тёмнаястерильнаястена",
+		"price": -10,
+		"category": "",
+		"defname": "Wall_SterileDark"
+	},
+	{
+		"abr": "термическаяшаль",
+		"price": -10,
+		"category": "Body Armor",
+		"defname": "ChJAndroidThermalBandages"
+	},
+	{
+		"abr": "термолампа",
+		"price": 140,
+		"category": "Мебель",
+		"defname": "Light_SpacerLamp"
+	},
+	{
+		"abr": "тесла-пушка",
+		"price": 3050,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_TeslaGun"
+	},
+	{
+		"abr": "ткань",
+		"price": 3,
+		"category": "Текстиль",
+		"defname": "Cloth"
+	},
+	{
+		"abr": "токсичнаяграната",
+		"price": 1300,
+		"category": "Гранаты",
+		"defname": "VWE_ToxicGrenade"
+	},
+	{
+		"abr": "толстаяшкура",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "томагавк",
+		"price": -10,
+		"category": "Оружие дальнего боя",
+		"defname": "VFES_Tomahawk"
+	},
+	{
+		"abr": "топливнаякузня",
+		"price": 280,
+		"category": "Производство",
+		"defname": "FueledSmithy"
+	},
+	{
+		"abr": "топливныйгенератор",
+		"price": -10,
+		"category": "Accessories",
+		"defname": "ChjAndroid_ChemfuelGenerator"
+	},
+	{
+		"abr": "топор",
+		"price": -10,
+		"category": "Оружие ближнего боя",
+		"defname": "VWE_MeleeWeapon_Axe"
+	},
+	{
+		"abr": "торговыймаяк",
+		"price": 185,
+		"category": "Разное",
+		"defname": "OrbitalTradeBeacon"
+	},
+	{
+		"abr": "транспортнаякапсула",
+		"price": 250,
+		"category": "",
+		"defname": "TransportPod"
+	},
+	{
+		"abr": "трансфокатор",
+		"price": 1450,
+		"category": "Киборг",
+		"defname": "ANN_Zoom"
+	},
+	{
+		"abr": "трумбо",
+		"price": 1065,
 		"category": "Animal",
 		"defname": "Thrumbo"
 	},
 	{
-		"abr": "thrumbohorn",
-		"price": 1333,
-		"category": "Items",
-		"defname": "ThrumboHorn"
+		"abr": "туника",
+		"price": -10,
+		"category": "Innerlayers",
+		"defname": "Apparel_TribalA"
 	},
 	{
-		"abr": "thrumbomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Thrumbo"
+		"abr": "турельминиган",
+		"price": 870,
+		"category": "Защита",
+		"defname": "VFES_Turret_SentryGun"
 	},
 	{
-		"abr": "thrumbofur",
-		"price": 23,
-		"category": "Leathers",
-		"defname": "Leather_Thrumbo"
+		"abr": "тяжёлаятурель",
+		"price": 2050,
+		"category": "",
+		"defname": "Turret_Autocannon"
 	},
 	{
-		"abr": "timberwolf",
-		"price": 583,
+		"abr": "тяжелыйпулемет",
+		"price": 700,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_HMG"
+	},
+	{
+		"abr": "тяжелыйштурмовойкостюм",
+		"price": 3250,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_HeavyMarineArmor"
+	},
+	{
+		"abr": "тяжелыйштурмовойшлем",
+		"price": 1475,
+		"category": "Helmets",
+		"defname": "VAE_Headgear_HeavyMarineHelmet"
+	},
+	{
+		"abr": "укреплённаястена",
+		"price": 45,
+		"category": "",
+		"defname": "Reinforced_WallAT"
+	},
+	{
+		"abr": "уличныйфонарь",
+		"price": 115,
+		"category": "Мебель",
+		"defname": "Light_Streetlamp"
+	},
+	{
+		"abr": "улучшенныйжилет",
+		"price": 625,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_AdvancedVest"
+	},
+	{
+		"abr": "ультрателевизор",
+		"price": 2360,
+		"category": "Развлечения",
+		"defname": "MegascreenTelevision"
+	},
+	{
+		"abr": "упаковочныйподдон",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "уран",
+		"price": 10,
+		"category": "Материалы",
+		"defname": "Uranium"
+	},
+	{
+		"abr": "урна",
+		"price": 70,
+		"category": "Мебель",
+		"defname": "Urn"
+	},
+	{
+		"abr": "усиленноемышечноеволокно",
+		"price": 1980,
+		"category": "Киборг",
+		"defname": "ANN_Musclewire"
+	},
+	{
+		"abr": "устрастительспособностей",
+		"price": 1600,
+		"category": "Сознание",
+		"defname": "ANN_PassionGiver"
+	},
+	{
+		"abr": "утиноеяйцо",
+		"price": -10,
+		"category": "Яйца (неопл.)",
+		"defname": "EggDuckUnfertilized"
+	},
+	{
+		"abr": "утиноеяйцо(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggDuckFertilized"
+	},
+	{
+		"abr": "утка",
+		"price": 50,
 		"category": "Animal",
-		"defname": "Wolf_Timber"
+		"defname": "Duck"
 	},
 	{
-		"abr": "toolcabinet",
-		"price": 642,
-		"category": "Misc",
-		"defname": "ToolCabinet"
+		"abr": "ухо",
+		"price": 110,
+		"category": "Естественные",
+		"defname": "QE_Organ_Ear"
 	},
 	{
-		"abr": "tornadogenerator",
-		"price": 1333,
-		"category": "Ranged weapons",
-		"defname": "TornadoGenerator"
+		"abr": "фабрикадроидов",
+		"price": 1775,
+		"category": "Разное",
+		"defname": "ChJDroidPrinter"
 	},
 	{
-		"abr": "tortoise",
-		"price": 333,
+		"abr": "фасоль",
+		"price": -10,
+		"category": "Растительного происхождения",
+		"defname": "Rawbean"
+	},
+	{
+		"abr": "фенек",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Fox_Fennec"
+	},
+	{
+		"abr": "финики",
+		"price": -10,
+		"category": "Фрукты",
+		"defname": "Rawdate"
+	},
+	{
+		"abr": "фонарик",
+		"price": 740,
+		"category": "Киборг",
+		"defname": "ANN_FlashLight"
+	},
+	{
+		"abr": "фортепьяно",
+		"price": 750,
+		"category": "Мебель",
+		"defname": "Joy_Piano"
+	},
+	{
+		"abr": "фруктовыйнапиток",
+		"price": 10,
+		"category": "Напитки",
+		"defname": "Fruitdrink"
+	},
+	{
+		"abr": "фугас",
+		"price": 260,
+		"category": "Защита",
+		"defname": "VFES_Landmine"
+	},
+	{
+		"abr": "футболка",
+		"price": 90,
+		"category": "Innerlayers",
+		"defname": "Apparel_BasicShirt"
+	},
+	{
+		"abr": "хаски",
+		"price": 165,
+		"category": "Animal",
+		"defname": "Husky"
+	},
+	{
+		"abr": "химзащитнаямаска",
+		"price": 150,
+		"category": "Masks",
+		"defname": "VAE_Headgear_HAZMATMask"
+	},
+	{
+		"abr": "химическаялаборатория",
+		"price": 690,
+		"category": "Производство",
+		"defname": "DrugLab"
+	},
+	{
+		"abr": "химическийкомплекс",
+		"price": 1050,
+		"category": "Производство",
+		"defname": "VFE_TableDrugLabElectric"
+	},
+	{
+		"abr": "химическийстолик",
+		"price": 650,
+		"category": "Разное",
+		"defname": "VFE_DrugCabinet"
+	},
+	{
+		"abr": "химическоетопливо",
+		"price": 4,
+		"category": "Изделия",
+		"defname": "Chemfuel"
+	},
+	{
+		"abr": "химшайн",
+		"price": 15,
+		"category": "Наркотики",
+		"defname": "Chemshine"
+	},
+	{
+		"abr": "хлопушкаспожарнойпеной",
+		"price": 250,
+		"category": "Разное",
+		"defname": "FirefoamPopper"
+	},
+	{
+		"abr": "хлопьяпсихина",
+		"price": 20,
+		"category": "Наркотики",
+		"defname": "Flake"
+	},
+	{
+		"abr": "хмель",
+		"price": 2,
+		"category": "Растительное сырьё",
+		"defname": "RawHops"
+	},
+	{
+		"abr": "холодильник(двекамеры)",
+		"price": 180,
+		"category": "Мебель",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "холодильник(однакамера)",
+		"price": 120,
+		"category": "Мебель",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "холодильник(четырекамеры)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "цветочныйгоршок",
+		"price": 65,
+		"category": "Мебель",
+		"defname": "PlantPot"
+	},
+	{
+		"abr": "целеуказательдлябомбардировки",
+		"price": 1900,
+		"category": "Оружие дальнего боя",
+		"defname": "OrbitalTargeterBombardment"
+	},
+	{
+		"abr": "целеуказательдлясиловоголуча",
+		"price": 1900,
+		"category": "Оружие дальнего боя",
+		"defname": "OrbitalTargeterPowerBeam"
+	},
+	{
+		"abr": "центржизнеобеспечения",
+		"price": 1075,
+		"category": "Разное",
+		"defname": "Facility_VitalsCentre"
+	},
+	{
+		"abr": "чандляклонирования",
+		"price": 3455,
+		"category": "Производство",
+		"defname": "QE_PawnVat"
+	},
+	{
+		"abr": "человек",
+		"price": 1900,
+		"category": "Animal",
+		"defname": "Human"
+	},
+	{
+		"abr": "челюсть",
+		"price": 110,
+		"category": "Естественные",
+		"defname": "QE_Organ_Jaw"
+	},
+	{
+		"abr": "черепаха",
+		"price": 120,
 		"category": "Animal",
 		"defname": "Tortoise"
 	},
 	{
-		"abr": "tortoiseegg(fert.)",
-		"price": 38,
-		"category": "Eggs (fert.)",
+		"abr": "черепашьеяйцо(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
-		"abr": "tortoisemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tortoise"
+		"abr": "чернаяжемчужина",
+		"price": 1450,
+		"category": "Киборг",
+		"defname": "ANN_BlackPearl"
 	},
 	{
-		"abr": "tribalheaddress",
-		"price": 203,
-		"category": "Headgear",
-		"defname": "Apparel_TribalHeaddress"
+		"abr": "черника",
+		"price": -10,
+		"category": "Фрукты",
+		"defname": "Rawblueberry"
 	},
 	{
-		"abr": "tribalwear",
-		"price": 211,
-		"category": "Apparel",
-		"defname": "Apparel_TribalA"
+		"abr": "чертёж(mechaniterestoration)",
+		"price": 3000,
+		"category": "Чертежи",
+		"defname": "Techprint_MechaniteRestoration"
 	},
 	{
-		"abr": "triplerocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_TripleRocket"
+		"abr": "чертёж(ultratechlaserweapons)",
+		"price": 3000,
+		"category": "Чертежи",
+		"defname": "Techprint_VWE_UltratechLaserWeapons"
 	},
 	{
-		"abr": "t-shirt",
-		"price": 143,
-		"category": "Apparel",
-		"defname": "Apparel_BasicShirt"
+		"abr": "чертёж(кибернетическийорганизм)",
+		"price": 3000,
+		"category": "Чертежи",
+		"defname": "Techprint_ANN_CyberneticOrganism"
 	},
 	{
-		"abr": "tubetelevision",
-		"price": 525,
-		"category": "Recreation",
+		"abr": "чертёж(репульсорнаяоборона)",
+		"price": 3000,
+		"category": "Чертежи",
+		"defname": "Techprint_VFES_RepulsorTechnology"
+	},
+	{
+		"abr": "чипберсерка",
+		"price": 2360,
+		"category": "Киборг",
+		"defname": "ANN_BerserkerChip"
+	},
+	{
+		"abr": "чипконтроляразума",
+		"price": 785,
+		"category": "Киборг",
+		"defname": "ANN_Mindtwist"
+	},
+	{
+		"abr": "чипобезболивания",
+		"price": 300,
+		"category": "Протезы",
+		"defname": "Painstopper"
+	},
+	{
+		"abr": "чиппроцветанияразума",
+		"price": 2145,
+		"category": "Киборг",
+		"defname": "ANN_MuseChip"
+	},
+	{
+		"abr": "чипсчастья",
+		"price": 300,
+		"category": "Протезы",
+		"defname": "Joywire"
+	},
+	{
+		"abr": "чучело",
+		"price": 70,
+		"category": "Разное",
+		"defname": "VFE_Scarecrow"
+	},
+	{
+		"abr": "шахматныйстол",
+		"price": 185,
+		"category": "Мебель",
+		"defname": "ChessTable"
+	},
+	{
+		"abr": "швейнаямашинка",
+		"price": 450,
+		"category": "Производство",
+		"defname": "ElectricTailoringBench"
+	},
+	{
+		"abr": "швейныйстолик",
+		"price": 275,
+		"category": "Разное",
+		"defname": "VFE_TailorCabinet"
+	},
+	{
+		"abr": "шерстьальпака",
+		"price": -10,
+		"category": "Текстиль",
+		"defname": "WoolAlpaca"
+	},
+	{
+		"abr": "шерстьгигантскоголенивца",
+		"price": -10,
+		"category": "Текстиль",
+		"defname": "WoolMegasloth"
+	},
+	{
+		"abr": "шерстьзубра",
+		"price": -10,
+		"category": "Текстиль",
+		"defname": "WoolBison"
+	},
+	{
+		"abr": "шерстьмуффало",
+		"price": -10,
+		"category": "Текстиль",
+		"defname": "WoolMuffalo"
+	},
+	{
+		"abr": "шикарноеблюдо",
+		"price": 65,
+		"category": "Блюда",
+		"defname": "MealLavish"
+	},
+	{
+		"abr": "шиншилла",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Chinchilla"
+	},
+	{
+		"abr": "шкаф(1x1)",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Shelf_1x1c"
+	},
+	{
+		"abr": "шкафдлязапчастей",
+		"price": 435,
+		"category": "Разное",
+		"defname": "VFE_MachiningCabinet"
+	},
+	{
+		"abr": "шкафдляинструментов",
+		"price": 590,
+		"category": "Разное",
+		"defname": "ToolCabinet"
+	},
+	{
+		"abr": "шкураверблюда",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Camel"
+	},
+	{
+		"abr": "шкурапантеры",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Leather_Panthera"
+	},
+	{
+		"abr": "шлемизпсихофольги",
+		"price": 265,
+		"category": "Головные уборы",
+		"defname": "Apparel_PsychicFoilHelmet"
+	},
+	{
+		"abr": "шлемразведчика",
+		"price": 725,
+		"category": "Головные уборы",
+		"defname": "Apparel_ArmorHelmetRecon"
+	},
+	{
+		"abr": "шляпа-котелок",
+		"price": 75,
+		"category": "Головные уборы",
+		"defname": "Apparel_BowlerHat"
+	},
+	{
+		"abr": "шоколад",
+		"price": 5,
+		"category": "Продовольствие",
+		"defname": "Chocolate"
+	},
+	{
+		"abr": "штаны",
+		"price": 90,
+		"category": "Innerlayers",
+		"defname": "Apparel_Pants"
+	},
+	{
+		"abr": "штурмоваявинтовка",
+		"price": 750,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_ServiceRifle"
+	},
+	{
+		"abr": "эи-турель",
+		"price": 970,
+		"category": "Защита",
+		"defname": "VFES_Turret_ChargeTurret"
+	},
+	{
+		"abr": "экзоскелет",
+		"price": 2560,
+		"category": "Киборг",
+		"defname": "ANN_Exoskeleton"
+	},
+	{
+		"abr": "экрансинхронизации",
+		"price": 2680,
+		"category": "Киборг",
+		"defname": "ANN_Synchronizer"
+	},
+	{
+		"abr": "электрическийкрематорий",
+		"price": 650,
+		"category": "",
+		"defname": "ElectricCrematorium"
+	},
+	{
+		"abr": "электрическийремонтыйверстак",
+		"price": 450,
+		"category": "Производство",
+		"defname": "ElectricTableRepair"
+	},
+	{
+		"abr": "электробойня",
+		"price": 440,
+		"category": "Производство",
+		"defname": "VFE_TableButcherElectric"
+	},
+	{
+		"abr": "электрокузня",
+		"price": 440,
+		"category": "Производство",
+		"defname": "ElectricSmithy"
+	},
+	{
+		"abr": "электроплавильня",
+		"price": 610,
+		"category": "Производство",
+		"defname": "ElectricSmelter"
+	},
+	{
+		"abr": "электроплита",
+		"price": 325,
+		"category": "Производство",
+		"defname": "ElectricStove"
+	},
+	{
+		"abr": "элттелевизор",
+		"price": 370,
+		"category": "Развлечения",
 		"defname": "TubeTelevision"
 	},
 	{
-		"abr": "tuque",
-		"price": 91,
-		"category": "Headgear",
-		"defname": "Apparel_Tuque"
+		"abr": "эми-гранатомёт",
+		"price": 730,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_EmpLauncher"
 	},
 	{
-		"abr": "turkey",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Turkey"
+		"abr": "эми-гранаты",
+		"price": 525,
+		"category": "Гранаты",
+		"defname": "Weapon_GrenadeEMP"
 	},
 	{
-		"abr": "turkeyegg(fert.)",
-		"price": 18,
-		"category": "Eggs (fert.)",
-		"defname": "EggTurkeyFertilized"
-	},
-	{
-		"abr": "turkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Turkey"
-	},
-	{
-		"abr": "uranium",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "Uranium"
-	},
-	{
-		"abr": "vanometricpowercell",
-		"price": 2000,
-		"category": "Special",
-		"defname": "VanometricPowerCell"
-	},
-	{
-		"abr": "venison",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Deer"
-	},
-	{
-		"abr": "vitalsmonitor",
-		"price": 358,
-		"category": "Misc",
-		"defname": "VitalsMonitor"
-	},
-	{
-		"abr": "wake-up",
-		"price": 58,
-		"category": "Drugs",
-		"defname": "WakeUp"
-	},
-	{
-		"abr": "warmask",
-		"price": 101,
-		"category": "Headgear",
-		"defname": "Apparel_WarMask"
-	},
-	{
-		"abr": "warveil",
+		"abr": "эми-снаряд",
 		"price": 75,
-		"category": "Headgear",
-		"defname": "Apparel_WarVeil"
+		"category": "Миномётные снаряды",
+		"defname": "Shell_EMP"
 	},
 	{
-		"abr": "warg",
+		"abr": "эми-турель",
+		"price": 4175,
+		"category": "",
+		"defname": "VFES_Turret_EMPTurret"
+	},
+	{
+		"abr": "эм-мина",
+		"price": 190,
+		"category": "Защита",
+		"defname": "TrapIED_EMP"
+	},
+	{
+		"abr": "эму",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Emu"
+	},
+	{
+		"abr": "энергетическаякисть",
+		"price": 1340,
+		"category": "Киборг",
+		"defname": "ANN_EnergyFist"
+	},
+	{
+		"abr": "энергетическаяпочка",
 		"price": 750,
+		"category": "Киборг",
+		"defname": "ANN_EnergeticKidney"
+	},
+	{
+		"abr": "энергетическоелегкое",
+		"price": 750,
+		"category": "Киборг",
+		"defname": "ANN_EnergeticLung"
+	},
+	{
+		"abr": "энергетическоеядро",
+		"price": 2840,
+		"category": "Киборг",
+		"defname": "ANN_EnergyCore"
+	},
+	{
+		"abr": "энергопистолет-пулемет",
+		"price": 1455,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_ChargeSMG"
+	},
+	{
+		"abr": "энерговинтовка",
+		"price": 1585,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_ChargeRifle"
+	},
+	{
+		"abr": "энергодробовик",
+		"price": 1585,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_ChargeShotgun"
+	},
+	{
+		"abr": "энергокопьё",
+		"price": 1405,
+		"category": "Оружие дальнего боя",
+		"defname": "Gun_ChargeLance"
+	},
+	{
+		"abr": "энергопистолет",
+		"price": 1055,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_ChargePistol"
+	},
+	{
+		"abr": "энергопулемет",
+		"price": 1825,
+		"category": "Оружие дальнего боя",
+		"defname": "VWE_Gun_ChargeLMG"
+	},
+	{
+		"abr": "энерготочка",
+		"price": 1550,
+		"category": "",
+		"defname": "VFES_Turret_ChargeComplex"
+	},
+	{
+		"abr": "40mmcannon",
+		"price": 1285,
+		"category": "Оружие дальнего боя",
+		"defname": "Mech40MMCannon"
+	},
+	{
+		"abr": "advandroidassemblykit",
+		"price": 3220,
+		"category": "Изделия",
+		"defname": "AndroidT2Kit"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 1780,
+		"category": "Android",
+		"defname": "NanowireBattery"
+	},
+	{
+		"abr": "advancedbio-reactor",
+		"price": 1780,
+		"category": "Android",
+		"defname": "HighPowerTransformer"
+	},
+	{
+		"abr": "advancedcoolantpump",
+		"price": 1450,
+		"category": "Android",
+		"defname": "AdvancedCoolantInjector"
+	},
+	{
+		"abr": "advancedcounterweight",
+		"price": 1450,
+		"category": "Android",
+		"defname": "AdvRearCounterweight"
+	},
+	{
+		"abr": "advancedhearingsensor",
+		"price": 950,
+		"category": "Android",
+		"defname": "AdvHearingS"
+	},
+	{
+		"abr": "advancedheatsink",
+		"price": 1450,
+		"category": "Android",
+		"defname": "MultiLayerHeatsink"
+	},
+	{
+		"abr": "advancedlightsensor",
+		"price": 1950,
+		"category": "Android",
+		"defname": "MultiSpectrumEye"
+	},
+	{
+		"abr": "advancedmechanitestorage",
+		"price": 1450,
+		"category": "Android",
+		"defname": "NaniteStorageDevice"
+	},
+	{
+		"abr": "advancedpowerconverter",
+		"price": 1780,
+		"category": "Android",
+		"defname": "HighPowerConverter"
+	},
+	{
+		"abr": "advancedsmellingsensor",
+		"price": 480,
+		"category": "Android",
+		"defname": "SmellingAdvS"
+	},
+	{
+		"abr": "agriculturalimplant",
+		"price": 2280,
+		"category": "Android",
+		"defname": "FarmingMindImplant"
+	},
+	{
+		"abr": "androidassemblykit",
+		"price": 1830,
+		"category": "Предметы",
+		"defname": "AndroidT1Kit"
+	},
+	{
+		"abr": "androidimplantsworkbench",
+		"price": 425,
+		"category": "Производство",
+		"defname": "AndroidOtherStuffTable"
+	},
+	{
+		"abr": "androidpartsworkbench",
+		"price": 365,
+		"category": "Производство",
+		"defname": "AndroidPartsTable"
+	},
+	{
+		"abr": "androidupgradestation",
+		"price": 1180,
+		"category": "Мебель",
+		"defname": "AndroidOperationBed"
+	},
+	{
+		"abr": "anti-mechrifle",
+		"price": 1370,
+		"category": "Оружие дальнего боя",
+		"defname": "AntiMechRifle"
+	},
+	{
+		"abr": "archotecharchotechbio-reactor",
+		"price": 5615,
+		"category": "Android",
+		"defname": "MolecularDecomposer"
+	},
+	{
+		"abr": "archotechbatterypack",
+		"price": 4280,
+		"category": "Android",
+		"defname": "SecretBatteryPack"
+	},
+	{
+		"abr": "archotechcoolantpump",
+		"price": 5615,
+		"category": "Android",
+		"defname": "SecretCoolantPump"
+	},
+	{
+		"abr": "archotechhearingsensor",
+		"price": 2615,
+		"category": "Android",
+		"defname": "ArchHearingS"
+	},
+	{
+		"abr": "archotechheatsink",
+		"price": 5700,
+		"category": "Android",
+		"defname": "SecretHeatsink"
+	},
+	{
+		"abr": "archotechlightsensor",
+		"price": 5700,
+		"category": "Android",
+		"defname": "MDEye"
+	},
+	{
+		"abr": "archotechmechanitestorage",
+		"price": 5700,
+		"category": "Android",
+		"defname": "ArchotechNanites"
+	},
+	{
+		"abr": "archotechpowerconverter",
+		"price": 5030,
+		"category": "Android",
+		"defname": "QuantumConverter"
+	},
+	{
+		"abr": "artificialbraint1",
+		"price": 150,
+		"category": "Android",
+		"defname": "ATPP_T1ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint2",
+		"price": 315,
+		"category": "Android",
+		"defname": "ATPP_T2ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint3",
+		"price": 680,
+		"category": "Android",
+		"defname": "ATPP_T3ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint4",
+		"price": 1315,
+		"category": "Android",
+		"defname": "ATPP_T4ArtificialBrain"
+	},
+	{
+		"abr": "a-tierresurrectorrepairkit",
+		"price": 1230,
+		"category": "Предметы",
+		"defname": "RepairKitResurrectorA"
+	},
+	{
+		"abr": "basiccounterweight",
+		"price": 965,
+		"category": "Android",
+		"defname": "BasicRearCounterweight"
+	},
+	{
+		"abr": "basiclaborchip",
+		"price": 1600,
+		"category": "Android",
+		"defname": "BasicLaborMindImplant"
+	},
+	{
+		"abr": "basicreplacementarm",
+		"price": 630,
+		"category": "Android",
+		"defname": "BasicReplacementArm"
+	},
+	{
+		"abr": "basicreplacementleg",
+		"price": 630,
+		"category": "Android",
+		"defname": "BasicReplacementLeg"
+	},
+	{
+		"abr": "blueprintsimplant",
+		"price": 2065,
+		"category": "Android",
+		"defname": "BuilderMindImplant"
+	},
+	{
+		"abr": "b-tierresurrectorrepairkit",
+		"price": 730,
+		"category": "Предметы",
+		"defname": "RepairKitResurrectorB"
+	},
+	{
+		"abr": "charismaimplant",
+		"price": 1465,
+		"category": "Android",
+		"defname": "CharismaMindImplant"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 13,
+		"category": "Изделия",
+		"defname": "ChemicalEgg"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": 830,
 		"category": "Animal",
-		"defname": "Warg"
+		"defname": "AndroidChicken"
 	},
 	{
-		"abr": "wargmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Warg"
+		"abr": "compositeframeplating",
+		"price": 1465,
+		"category": "Android",
+		"defname": "CompositePlating"
 	},
 	{
-		"abr": "wildboar",
-		"price": 333,
+		"abr": "crudebatterypack",
+		"price": 415,
+		"category": "Android",
+		"defname": "SmallBatteryPack"
+	},
+	{
+		"abr": "crudebio-reactor",
+		"price": 415,
+		"category": "Android",
+		"defname": "LowPowerTransformer"
+	},
+	{
+		"abr": "crudecoolantpump",
+		"price": 415,
+		"category": "Android",
+		"defname": "FlimsyCoolantPump"
+	},
+	{
+		"abr": "crudehearingsensor",
+		"price": 350,
+		"category": "Android",
+		"defname": "CrudeHearingS"
+	},
+	{
+		"abr": "crudeheatsink",
+		"price": 300,
+		"category": "Android",
+		"defname": "CrudeHeatsink"
+	},
+	{
+		"abr": "crudejaw",
+		"price": 915,
+		"category": "Android",
+		"defname": "CrudeJawAndroid"
+	},
+	{
+		"abr": "crudelightsensor",
+		"price": 230,
+		"category": "Android",
+		"defname": "LightReceivingDiode"
+	},
+	{
+		"abr": "crudemechanitestorage",
+		"price": 515,
+		"category": "Android",
+		"defname": "TubeSealantTank"
+	},
+	{
+		"abr": "crudepowerconverter",
+		"price": 400,
+		"category": "Android",
+		"defname": "BasicDCConverter"
+	},
+	{
+		"abr": "cuisineimplant",
+		"price": 2215,
+		"category": "Android",
+		"defname": "CookingMindImplant"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 6450,
+		"category": "Android",
+		"defname": "CyberReplacementArm"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 1780,
+		"category": "Android",
+		"defname": "AdvJawAndroid"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 7065,
+		"category": "Android",
+		"defname": "CyberReplacementLeg"
+	},
+	{
+		"abr": "engineeringimplant",
+		"price": 1780,
+		"category": "Android",
+		"defname": "MechanicMindImplant"
+	},
+	{
+		"abr": "evolvingaiupgrade",
+		"price": 3780,
+		"category": "Android",
+		"defname": "EvolvingImplant"
+	},
+	{
+		"abr": "femaletx2kframe",
+		"price": 110,
+		"category": "Предметы",
+		"defname": "ATPP_GS_TX2KFemale"
+	},
+	{
+		"abr": "femaletx3frame",
+		"price": 110,
+		"category": "Предметы",
+		"defname": "ATPP_GS_TX3Female"
+	},
+	{
+		"abr": "femaletx4frame",
+		"price": 110,
+		"category": "Предметы",
+		"defname": "ATPP_GS_TX4Female"
+	},
+	{
+		"abr": "fractalenhancement",
+		"price": 1155,
+		"category": "Наркотики",
+		"defname": "FractalPill"
+	},
+	{
+		"abr": "geologicalimplant",
+		"price": 1780,
+		"category": "Android",
+		"defname": "GeoMindImplant"
+	},
+	{
+		"abr": "handcannon",
+		"price": 1285,
+		"category": "Оружие дальнего боя",
+		"defname": "MechHandCannon"
+	},
+	{
+		"abr": "highpowerarm",
+		"price": 1030,
+		"category": "Android",
+		"defname": "AdvancedReplacementArm"
+	},
+	{
+		"abr": "highpowerleg",
+		"price": 1530,
+		"category": "Android",
+		"defname": "AdvancedReplacementLeg"
+	},
+	{
+		"abr": "hydraulicarm",
+		"price": 1065,
+		"category": "Android",
+		"defname": "HydraulicArm"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1415,
+		"category": "Android",
+		"defname": "HydraulicFrame"
+	},
+	{
+		"abr": "hydraulicleg",
+		"price": 1015,
+		"category": "Android",
+		"defname": "HydraulicLeg"
+	},
+	{
+		"abr": "i-100(безопасность)",
+		"price": 965,
+		"category": "Разное",
+		"defname": "ATPP_I100Security"
+	},
+	{
+		"abr": "i-100(умения)",
+		"price": 1185,
+		"category": "Разное",
+		"defname": "ATPP_I100Skill"
+	},
+	{
+		"abr": "i-100(хакинг)",
+		"price": 1185,
+		"category": "Разное",
+		"defname": "ATPP_I100Hacking"
+	},
+	{
+		"abr": "i-300(безопасность)",
+		"price": 2125,
+		"category": "Разное",
+		"defname": "ATPP_I300Security"
+	},
+	{
+		"abr": "i-300(умения)",
+		"price": 2710,
+		"category": "Разное",
+		"defname": "ATPP_I300Skill"
+	},
+	{
+		"abr": "i-300(хакинг)",
+		"price": 2710,
+		"category": "Разное",
+		"defname": "ATPP_I300Hacking"
+	},
+	{
+		"abr": "i-500(безопасность)",
+		"price": 3920,
+		"category": "Разное",
+		"defname": "ATPP_I500Security"
+	},
+	{
+		"abr": "i-500(умения)",
+		"price": 4120,
+		"category": "Разное",
+		"defname": "ATPP_I500Skill"
+	},
+	{
+		"abr": "i-500(хакинг)",
+		"price": 5220,
+		"category": "Разное",
+		"defname": "ATPP_I500Hacking"
+	},
+	{
+		"abr": "k-9cyberneticunit",
+		"price": 5700,
 		"category": "Animal",
-		"defname": "WildBoar"
+		"defname": "AndroidDog"
 	},
 	{
-		"abr": "wolfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Wolf_Timber"
+		"abr": "m.u.f.funit",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "AndroidMuff"
 	},
 	{
-		"abr": "wolfskin",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Wolf"
+		"abr": "m7mechanisedinfantry",
+		"price": 15860,
+		"category": "Animal",
+		"defname": "M7Mech"
 	},
 	{
-		"abr": "wood",
+		"abr": "maletx2kframe",
+		"price": 110,
+		"category": "Предметы",
+		"defname": "ATPP_GS_TX2KMale"
+	},
+	{
+		"abr": "maletx3frame",
+		"price": 110,
+		"category": "Предметы",
+		"defname": "ATPP_GS_TX3Male"
+	},
+	{
+		"abr": "maletx4frame",
+		"price": 110,
+		"category": "Предметы",
+		"defname": "ATPP_GS_TX4Male"
+	},
+	{
+		"abr": "mastiffshotgun",
+		"price": 1285,
+		"category": "Оружие дальнего боя",
+		"defname": "MechMastiffGun"
+	},
+	{
+		"abr": "mechaniteswarm",
+		"price": 25,
+		"category": "Наркотики",
+		"defname": "MechSwarm"
+	},
+	{
+		"abr": "metallicwool",
+		"price": -10,
+		"category": "Текстиль",
+		"defname": "SteelWool"
+	},
+	{
+		"abr": "microscyther",
+		"price": 55,
+		"category": "Animal",
+		"defname": "MicroScyther"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1115,
+		"category": "Android",
+		"defname": "MiningArm"
+	},
+	{
+		"abr": "mono-salvepill",
+		"price": 120,
+		"category": "Наркотики",
+		"defname": "RegenPillAt"
+	},
+	{
+		"abr": "n.solutionunit",
+		"price": 1665,
+		"category": "Animal",
+		"defname": "RoboticCow"
+	},
+	{
+		"abr": "negotiatorimplant",
+		"price": 2115,
+		"category": "Android",
+		"defname": "NegotiationMindImplant"
+	},
+	{
+		"abr": "neuralhighways",
+		"price": 1665,
+		"category": "Android",
+		"defname": "SpeedMindImplant"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 10,
+		"category": "Животного происхождения",
+		"defname": "NSolution"
+	},
+	{
+		"abr": "orbitalmech-falltargeter",
+		"price": 3410,
+		"category": "Оружие дальнего боя",
+		"defname": "OrbitalTargeterMechFall"
+	},
+	{
+		"abr": "phytominingunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticSheep"
+	},
+	{
+		"abr": "plasteelframecoverings",
+		"price": 1130,
+		"category": "Android",
+		"defname": "PlasteelPlating"
+	},
+	{
+		"abr": "polymerantifreeze",
+		"price": 15,
+		"category": "Наркотики",
+		"defname": "Antifreeze"
+	},
+	{
+		"abr": "positronicrewiring",
+		"price": 1165,
+		"category": "Android",
+		"defname": "PositronMindImplant"
+	},
+	{
+		"abr": "roboticsproductioncasket",
+		"price": 650,
+		"category": "Производство",
+		"defname": "AndroidProductionVat"
+	},
+	{
+		"abr": "rxneuralchip",
+		"price": 100,
+		"category": "Android",
+		"defname": "ATPP_RXChip"
+	},
+	{
+		"abr": "skymindантеннаv1",
+		"price": 1350,
+		"category": "Разное",
+		"defname": "ATPP_SkyMindLAN"
+	},
+	{
+		"abr": "skymindантеннаv2",
+		"price": 2750,
+		"category": "Разное",
+		"defname": "ATPP_SkyMindWAN"
+	},
+	{
+		"abr": "skymindретранслятор",
+		"price": 1240,
+		"category": "Разное",
+		"defname": "ATPP_SkyMindRelayTower"
+	},
+	{
+		"abr": "soldierimplant",
+		"price": 1665,
+		"category": "Android",
+		"defname": "SoldierMindImplant"
+	},
+	{
+		"abr": "steelframing",
+		"price": 530,
+		"category": "Android",
+		"defname": "SteelPlating"
+	},
+	{
+		"abr": "s-tierresurrectorrepairkit",
+		"price": 1780,
+		"category": "Предметы",
+		"defname": "RepairKitResurrectorS"
+	},
+	{
+		"abr": "structuregel",
+		"price": 45,
+		"category": "Наркотики",
+		"defname": "StructureGel"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 265,
+		"category": "Миномётные снаряды",
+		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "t1android",
+		"price": 1830,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "t2android",
+		"price": 2665,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "t3android",
+		"price": 5500,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "t4android",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "t5android",
+		"price": 10830,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "taintedskin",
+		"price": -10,
+		"category": "Кожа",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 1965,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
+		"abr": "tx2android",
+		"price": 2830,
+		"category": "Animal",
+		"defname": "ATPP_Android2TX"
+	},
+	{
+		"abr": "tx2iandroid",
+		"price": 3830,
+		"category": "Animal",
+		"defname": "ATPP_Android2ITX"
+	},
+	{
+		"abr": "tx2kandroid",
+		"price": 6160,
+		"category": "Animal",
+		"defname": "ATPP_Android2KTX"
+	},
+	{
+		"abr": "tx2kiandroid",
+		"price": 7160,
+		"category": "Animal",
+		"defname": "ATPP_Android2KITX"
+	},
+	{
+		"abr": "tx3android",
+		"price": 8160,
+		"category": "Animal",
+		"defname": "ATPP_Android3TX"
+	},
+	{
+		"abr": "tx3iandroid",
+		"price": 8660,
+		"category": "Animal",
+		"defname": "ATPP_Android3ITX"
+	},
+	{
+		"abr": "tx4android",
+		"price": 8910,
+		"category": "Animal",
+		"defname": "ATPP_Android4TX"
+	},
+	{
+		"abr": "tx4iandroid",
+		"price": 10165,
+		"category": "Animal",
+		"defname": "ATPP_Android4ITX"
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": 625,
+		"category": "Мебель",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "upgradekit",
+		"price": 30,
+		"category": "Изделия",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 1615,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
+	},
+	{
+		"abr": "базовыйнанокит",
+		"price": 15,
+		"category": "Медикаменты",
+		"defname": "ATPP_AndroidNanokitBasic"
+	},
+	{
+		"abr": "банкнанитов(cpu)",
+		"price": 475,
+		"category": "Предметы",
+		"defname": "ATPP_NanitesCPUSerum"
+	},
+	{
+		"abr": "банкнанитов(гидравлические)",
+		"price": 475,
+		"category": "Предметы",
+		"defname": "ATPP_NanitesHydraulicSerum"
+	},
+	{
+		"abr": "банкнанитов(каркас)",
+		"price": 475,
+		"category": "Предметы",
+		"defname": "ATPP_NanitesFrameSerum"
+	},
+	{
+		"abr": "банкнанитов(охлаждение)",
+		"price": 475,
+		"category": "Предметы",
+		"defname": "ATPP_NanitesCoolingSerum"
+	},
+	{
+		"abr": "заряднаястанцияандроида",
+		"price": 1325,
+		"category": "Разное",
+		"defname": "ATPP_ReloadStation"
+	},
+	{
+		"abr": "капсулаm7",
+		"price": 1295,
+		"category": "Мебель",
+		"defname": "ATPP_AndroidPodMech"
+	},
+	{
+		"abr": "капсулаандроидов",
+		"price": 205,
+		"category": "Мебель",
+		"defname": "ATPP_AndroidPod"
+	},
+	{
+		"abr": "мясоn.solutionunit",
+		"price": -10,
+		"category": "Мясо",
+		"defname": "Meat_RoboticCow"
+	},
+	{
+		"abr": "нейрочипvx0",
+		"price": 315,
+		"category": "Android",
+		"defname": "ATPP_VX0Chip"
+	},
+	{
+		"abr": "нейрочипvx1",
+		"price": 980,
+		"category": "Android",
+		"defname": "ATPP_VX1Chip"
+	},
+	{
+		"abr": "нейрочипvx2",
+		"price": 1885,
+		"category": "Android",
+		"defname": "ATPP_VX2Chip"
+	},
+	{
+		"abr": "нейрочипvx3",
+		"price": 2565,
+		"category": "Android",
+		"defname": "ATPP_VX3Chip"
+	},
+	{
+		"abr": "расширенныйнанокит",
+		"price": 85,
+		"category": "Медикаменты",
+		"defname": "ATPP_AndroidNanokitAdvanced"
+	},
+	{
+		"abr": "среднийнанокит",
+		"price": 30,
+		"category": "Медикаменты",
+		"defname": "ATPP_AndroidNanokitIntermediate"
+	},
+	{
+		"abr": "эргономичнаядвуспальнаякровать",
+		"price": 710,
+		"category": "Мебель",
+		"defname": "Bed_DoubleErgonomic"
+	},
+	{
+		"abr": "эргономичнаякровать",
+		"price": 295,
+		"category": "Мебель",
+		"defname": "Bed_Ergonomic"
+	},
+	{
+		"abr": "эргономичноекресло",
+		"price": 710,
+		"category": "Мебель",
+		"defname": "Seat_ModernChair"
+	},
+	{
+		"abr": "яблоки",
 		"price": 2,
-		"category": "Raw resources",
-		"defname": "WoodLog"
+		"category": "Фрукты",
+		"defname": "Rawapple"
 	},
 	{
-		"abr": "wort",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "Wort"
+		"abr": "ягоды",
+		"price": 2,
+		"category": "Фрукты",
+		"defname": "RawBerries"
 	},
-	{
-		"abr": "yayo",
-		"price": 35,
-		"category": "Drugs",
-		"defname": "Yayo"
-	},
-	{
-		"abr": "yorkshireterrier",
-		"price": 167,
-		"category": "Animal",
-		"defname": "YorkshireTerrier"
-	},
-	{
-		"abr": "yorkshireterriermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_YorkshireTerrier"
-	}
 	],
-	"total": 348
+	"total": 1172
 }
