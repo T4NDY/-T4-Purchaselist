@@ -15,25 +15,25 @@
 	{
 		"abr": "advancedsolargenerator",
 		"price": 1500,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_AdvancedSolarGenerator"
 	},
 	{
 		"abr": "advancedwatermillgenerator",
 		"price": 1510,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_AdvancedWatermillGenerator"
 	},
 	{
 		"abr": "advancedwindturbine",
 		"price": 1505,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_AdvancedWindTurbine"
 	},
 	{
 		"abr": "airconditioningunit",
 		"price": 650,
-		"category": "",
+		"category": "Разное",
 		"defname": "AirConditioningUnit"
 	},
 	{
@@ -146,7 +146,7 @@
 	},
 	{
 		"abr": "asari",
-		"price": 2750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Asari_Green"
 	},
@@ -158,14 +158,14 @@
 	},
 	{
 		"abr": "automaton",
-		"price": 2830,
+		"price": 1900,
 		"category": "Animal",
 		"defname": "AutomatonRace"
 	},
 	{
 		"abr": "bambootorchlamp",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VG_TorchLamp"
 	},
 	{
@@ -279,7 +279,7 @@
 	{
 		"abr": "bunker",
 		"price": 1195,
-		"category": "",
+		"category": "Разное",
 		"defname": "Ra2_Bunker"
 	},
 	{
@@ -315,7 +315,7 @@
 	{
 		"abr": "ceilinglight",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Lighting_CeilingLight"
 	},
 	{
@@ -339,7 +339,7 @@
 	{
 		"abr": "chemfuelpump",
 		"price": 490,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_ChemfuelPump"
 	},
 	{
@@ -404,7 +404,7 @@
 	},
 	{
 		"abr": "doctorscrubs",
-		"price": -10,
+		"price": 85,
 		"category": "Innerlayers",
 		"defname": "VAE_Apparel_DoctorScrubs"
 	},
@@ -489,7 +489,7 @@
 	{
 		"abr": "gascooler",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_GasCooler"
 	},
 	{
@@ -507,7 +507,7 @@
 	{
 		"abr": "gaspipe",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_GasPipe"
 	},
 	{
@@ -627,13 +627,13 @@
 	{
 		"abr": "helixiengascrematorium",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_GasCrematorium"
 	},
 	{
 		"abr": "helixiengaspoweredgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_HelixienGenerator"
 	},
 	{
@@ -651,7 +651,7 @@
 	{
 		"abr": "helixienpump",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_HelixienPump"
 	},
 	{
@@ -693,25 +693,25 @@
 	{
 		"abr": "industrialchemfuelpoweredgenerator",
 		"price": 825,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_IndustrialChemfuelPoweredGenerator"
 	},
 	{
 		"abr": "industrialhelixiengaspoweredgenerator",
 		"price": 825,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_IndustrialHelixienGenerator"
 	},
 	{
 		"abr": "industrialwood-firedgenerator",
 		"price": 825,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_IndustrialWoodFiredGenerator"
 	},
 	{
 		"abr": "invisiblepowerconduit",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "PowerConduitInvisible"
 	},
 	{
@@ -800,13 +800,13 @@
 	},
 	{
 		"abr": "lobster",
-		"price": 20,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawLobster"
 	},
 	{
 		"abr": "mackerel",
-		"price": 3,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMackerel"
 	},
@@ -819,13 +819,13 @@
 	{
 		"abr": "massgrave",
 		"price": 5,
-		"category": "",
+		"category": "Разное",
 		"defname": "MassGrave"
 	},
 	{
 		"abr": "massgrave",
 		"price": 5,
-		"category": "",
+		"category": "Разное",
 		"defname": "MassGraveAlt"
 	},
 	{
@@ -867,7 +867,7 @@
 	{
 		"abr": "nuclearreactor",
 		"price": 3840,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_NuclearGenerator"
 	},
 	{
@@ -951,7 +951,7 @@
 	{
 		"abr": "post",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Post"
 	},
 	{
@@ -1035,19 +1035,19 @@
 	{
 		"abr": "sacredcolumn",
 		"price": 380,
-		"category": "",
+		"category": "Разное",
 		"defname": "GraveColumnMod"
 	},
 	{
 		"abr": "salmon",
-		"price": 15,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSalmon"
 	},
 	{
 		"abr": "saloondoor",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "DoorSaloon"
 	},
 	{
@@ -1154,14 +1154,14 @@
 	},
 	{
 		"abr": "stonespiketrap",
-		"price": 50,
+		"price": -10,
 		"category": "Защита",
 		"defname": "FSFStoneTrapSpike"
 	},
 	{
 		"abr": "subterraneangaspipe",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VPE_GasPipeSub"
 	},
 	{
@@ -1185,7 +1185,7 @@
 	{
 		"abr": "sunlight",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "TWBSunLight"
 	},
 	{
@@ -1221,7 +1221,7 @@
 	{
 		"abr": "tidalgenerator",
 		"price": 1450,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_TidalGenerator"
 	},
 	{
@@ -1256,7 +1256,7 @@
 	},
 	{
 		"abr": "tuna",
-		"price": 5,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawTuna"
 	},
@@ -1287,7 +1287,7 @@
 	{
 		"abr": "wallpaper",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_Wallpaper"
 	},
 	{
@@ -1299,7 +1299,7 @@
 	{
 		"abr": "windmill",
 		"price": 220,
-		"category": "",
+		"category": "Разное",
 		"defname": "Windmill"
 	},
 	{
@@ -1311,7 +1311,7 @@
 	{
 		"abr": "автодверь",
 		"price": 220,
-		"category": "",
+		"category": "Разное",
 		"defname": "Autodoor"
 	},
 	{
@@ -1370,7 +1370,7 @@
 	},
 	{
 		"abr": "альпака",
-		"price": 400,
+		"price": 350,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
@@ -1383,7 +1383,7 @@
 	{
 		"abr": "амбразура",
 		"price": 15,
-		"category": "",
+		"category": "Разное",
 		"defname": "ED_Embrasure"
 	},
 	{
@@ -1479,7 +1479,7 @@
 	{
 		"abr": "баллиста",
 		"price": 500,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Turret_Ballista"
 	},
 	{
@@ -1503,13 +1503,13 @@
 	{
 		"abr": "баррикада",
 		"price": 20,
-		"category": "",
+		"category": "Разное",
 		"defname": "Barricade"
 	},
 	{
 		"abr": "барьер",
 		"price": 30,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Barrier"
 	},
 	{
@@ -1521,7 +1521,7 @@
 	{
 		"abr": "бежеваястерильнаястена",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall_SterileCream"
 	},
 	{
@@ -1611,7 +1611,7 @@
 	{
 		"abr": "бирюзоваястерильнаястена",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall_SterileTeal"
 	},
 	{
@@ -1737,7 +1737,7 @@
 	{
 		"abr": "большаястела",
 		"price": 370,
-		"category": "",
+		"category": "Разное",
 		"defname": "SteleLarge"
 	},
 	{
@@ -1838,7 +1838,7 @@
 	},
 	{
 		"abr": "бумалопа",
-		"price": 455,
+		"price": 405,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
@@ -1874,25 +1874,25 @@
 	},
 	{
 		"abr": "варг",
-		"price": 560,
+		"price": 410,
 		"category": "Animal",
 		"defname": "Warg"
 	},
 	{
 		"abr": "великаястела",
 		"price": 730,
-		"category": "",
+		"category": "Разное",
 		"defname": "SteleGrand"
 	},
 	{
 		"abr": "вентиляция",
 		"price": 60,
-		"category": "",
+		"category": "Разное",
 		"defname": "Vent"
 	},
 	{
 		"abr": "верблюд",
-		"price": 430,
+		"price": 380,
 		"category": "Animal",
 		"defname": "Dromedary"
 	},
@@ -1905,7 +1905,7 @@
 	{
 		"abr": "ветрогенератор",
 		"price": 280,
-		"category": "",
+		"category": "Разное",
 		"defname": "WindTurbine"
 	},
 	{
@@ -1953,18 +1953,18 @@
 	{
 		"abr": "водянаяпомпа",
 		"price": 300,
-		"category": "",
+		"category": "Разное",
 		"defname": "MoisturePump"
 	},
 	{
 		"abr": "водянойгенератор",
 		"price": 785,
-		"category": "",
+		"category": "Разное",
 		"defname": "WatermillGenerator"
 	},
 	{
 		"abr": "волк",
-		"price": 340,
+		"price": 290,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
@@ -1995,7 +1995,7 @@
 	{
 		"abr": "выключатель",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "PowerSwitch"
 	},
 	{
@@ -2055,13 +2055,13 @@
 	{
 		"abr": "генераторнадровах",
 		"price": 370,
-		"category": "",
+		"category": "Разное",
 		"defname": "WoodFiredGenerator"
 	},
 	{
 		"abr": "генераторнахимтопливе",
 		"price": 380,
-		"category": "",
+		"category": "Разное",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
@@ -2085,7 +2085,7 @@
 	{
 		"abr": "генераторщита(большой)",
 		"price": 6290,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_ShieldGenerator_Large"
 	},
 	{
@@ -2103,12 +2103,12 @@
 	{
 		"abr": "геотермальныйгенератор",
 		"price": 1525,
-		"category": "",
+		"category": "Разное",
 		"defname": "GeothermalGenerator"
 	},
 	{
 		"abr": "гигантскийленивец",
-		"price": 890,
+		"price": 840,
 		"category": "Animal",
 		"defname": "Megasloth"
 	},
@@ -2127,7 +2127,7 @@
 	{
 		"abr": "гидропоннаяферма",
 		"price": 330,
-		"category": "",
+		"category": "Разное",
 		"defname": "HydroponicsBasin"
 	},
 	{
@@ -2157,7 +2157,7 @@
 	{
 		"abr": "глубинныйсканер",
 		"price": 850,
-		"category": "",
+		"category": "Разное",
 		"defname": "GroundPenetratingScanner"
 	},
 	{
@@ -2241,13 +2241,13 @@
 	{
 		"abr": "дверь",
 		"price": 15,
-		"category": "",
+		"category": "Разное",
 		"defname": "Door"
 	},
 	{
 		"abr": "двойнаяавтопушка",
 		"price": 3075,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Turret_AutocannonDouble"
 	},
 	{
@@ -2313,7 +2313,7 @@
 	{
 		"abr": "дозаторпасты",
 		"price": 375,
-		"category": "",
+		"category": "Разное",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
@@ -2325,19 +2325,19 @@
 	{
 		"abr": "древнеебетонноеограждение",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "AncientConcreteBarrier"
 	},
 	{
 		"abr": "древнийсаркофагкриптосна",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "AncientCryptosleepCasket"
 	},
 	{
 		"abr": "древнийфонарныйстолб",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "AncientLamppost"
 	},
 	{
@@ -2409,7 +2409,7 @@
 	{
 		"abr": "загрузочнаяворонка",
 		"price": 30,
-		"category": "",
+		"category": "Разное",
 		"defname": "Hopper"
 	},
 	{
@@ -2457,7 +2457,7 @@
 	{
 		"abr": "зелёнаястерильнаястена",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall_SterileGreen"
 	},
 	{
@@ -2475,7 +2475,7 @@
 	{
 		"abr": "золотаястерильнаястена",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall_SterileGold"
 	},
 	{
@@ -2492,7 +2492,7 @@
 	},
 	{
 		"abr": "зубр",
-		"price": 280,
+		"price": 230,
 		"category": "Animal",
 		"defname": "Bison"
 	},
@@ -2541,19 +2541,19 @@
 	{
 		"abr": "искусственнаяэкосистема",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_Ecosystem"
 	},
 	{
 		"abr": "испарительныйохладитель",
 		"price": 65,
-		"category": "",
+		"category": "Разное",
 		"defname": "PassiveCooler"
 	},
 	{
 		"abr": "исследовательскаястойка",
 		"price": 35,
-		"category": "",
+		"category": "Разное",
 		"defname": "Facility_ResearchCounter"
 	},
 	{
@@ -2571,7 +2571,7 @@
 	{
 		"abr": "кабель",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "PowerConduit"
 	},
 	{
@@ -2595,7 +2595,7 @@
 	{
 		"abr": "каменныйкостер",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Stone_Campfire"
 	},
 	{
@@ -2612,7 +2612,7 @@
 	},
 	{
 		"abr": "капибара",
-		"price": -10,
+		"price": 100,
 		"category": "Animal",
 		"defname": "Capybara"
 	},
@@ -2643,7 +2643,7 @@
 	{
 		"abr": "катапульта",
 		"price": 1050,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Turret_Catapult"
 	},
 	{
@@ -2667,25 +2667,25 @@
 	{
 		"abr": "клеткабассейнагидропоники",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_Hydroponics_Tilable"
 	},
 	{
 		"abr": "клеткаискусственнойэкосистемы",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_Ecosystem_Tilable"
 	},
 	{
 		"abr": "клеткаклумбы",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_PlanterBox_Tilable"
 	},
 	{
 		"abr": "клумба",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFE_PlanterBox"
 	},
 	{
@@ -2696,7 +2696,7 @@
 	},
 	{
 		"abr": "кобра",
-		"price": -10,
+		"price": 100,
 		"category": "Animal",
 		"defname": "Cobra"
 	},
@@ -2738,7 +2738,7 @@
 	},
 	{
 		"abr": "коза",
-		"price": -10,
+		"price": 230,
 		"category": "Animal",
 		"defname": "Goat"
 	},
@@ -2757,7 +2757,7 @@
 	{
 		"abr": "колонна",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Column"
 	},
 	{
@@ -2781,7 +2781,7 @@
 	{
 		"abr": "колючеезаграждение",
 		"price": 35,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_BarbedWire"
 	},
 	{
@@ -2811,7 +2811,7 @@
 	{
 		"abr": "кондиционер",
 		"price": 400,
-		"category": "",
+		"category": "Разное",
 		"defname": "Cooler"
 	},
 	{
@@ -2823,7 +2823,7 @@
 	{
 		"abr": "консольсвязи",
 		"price": 600,
-		"category": "",
+		"category": "Разное",
 		"defname": "CommsConsole"
 	},
 	{
@@ -2853,31 +2853,31 @@
 	{
 		"abr": "корабельнаябалка",
 		"price": 1725,
-		"category": "",
+		"category": "Разное",
 		"defname": "Ship_Beam"
 	},
 	{
 		"abr": "корабельныйдвигатель",
 		"price": 5850,
-		"category": "",
+		"category": "Разное",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "корабельныйкомпьютер",
 		"price": 9650,
-		"category": "",
+		"category": "Разное",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "корабельныйреактор",
 		"price": 9000,
-		"category": "",
+		"category": "Разное",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "коричневаястерильнаястена",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall_SterileBrown"
 	},
 	{
@@ -2961,13 +2961,13 @@
 	{
 		"abr": "костёр",
 		"price": 40,
-		"category": "",
+		"category": "Разное",
 		"defname": "Campfire"
 	},
 	{
 		"abr": "костеризбамбука",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VG_Campfire"
 	},
 	{
@@ -3009,7 +3009,7 @@
 	{
 		"abr": "краснаястерильнаястена",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall_SterileRed"
 	},
 	{
@@ -3152,7 +3152,7 @@
 	},
 	{
 		"abr": "лабрадор-ретривер",
-		"price": -10,
+		"price": 265,
 		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
@@ -3207,7 +3207,7 @@
 	{
 		"abr": "лампа-факел",
 		"price": 40,
-		"category": "",
+		"category": "Разное",
 		"defname": "TorchLamp"
 	},
 	{
@@ -3368,7 +3368,7 @@
 	},
 	{
 		"abr": "мегапаук",
-		"price": 480,
+		"price": 380,
 		"category": "Animal",
 		"defname": "Megaspider"
 	},
@@ -3380,7 +3380,7 @@
 	},
 	{
 		"abr": "медведь",
-		"price": 1165,
+		"price": 865,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
@@ -3447,7 +3447,7 @@
 	{
 		"abr": "мешкиспеском",
 		"price": 15,
-		"category": "",
+		"category": "Разное",
 		"defname": "Sandbags"
 	},
 	{
@@ -3477,7 +3477,7 @@
 	{
 		"abr": "могила",
 		"price": 5,
-		"category": "",
+		"category": "Разное",
 		"defname": "Grave"
 	},
 	{
@@ -3542,7 +3542,7 @@
 	},
 	{
 		"abr": "муффало",
-		"price": 500,
+		"price": 400,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
@@ -3831,19 +3831,19 @@
 	{
 		"abr": "надстеннаявентиляция",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Vent_Over"
 	},
 	{
 		"abr": "надстенныйкондиционер",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Cooler_Over"
 	},
 	{
 		"abr": "надстенныйкондиционер(широкий)",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Cooler_Over2W"
 	},
 	{
@@ -3975,7 +3975,7 @@
 	{
 		"abr": "низкаястена",
 		"price": 10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_ShortWall"
 	},
 	{
@@ -4095,7 +4095,7 @@
 	{
 		"abr": "окоп",
 		"price": 40,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Trench"
 	},
 	{
@@ -4106,7 +4106,7 @@
 	},
 	{
 		"abr": "олень",
-		"price": -10,
+		"price": 265,
 		"category": "Animal",
 		"defname": "Deer"
 	},
@@ -4148,7 +4148,7 @@
 	},
 	{
 		"abr": "осёл",
-		"price": -10,
+		"price": 380,
 		"category": "Animal",
 		"defname": "Donkey"
 	},
@@ -4173,7 +4173,7 @@
 	{
 		"abr": "основнойбур",
 		"price": 10250,
-		"category": "",
+		"category": "Разное",
 		"defname": "CoreDrill"
 	},
 	{
@@ -4232,7 +4232,7 @@
 	},
 	{
 		"abr": "песец",
-		"price": -10,
+		"price": 2303,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
@@ -4389,7 +4389,7 @@
 	{
 		"abr": "подводныйкабель",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "WaterproofConduit"
 	},
 	{
@@ -4605,7 +4605,7 @@
 	{
 		"abr": "пулемётнаяточка",
 		"price": 750,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Turret_HMGComplex"
 	},
 	{
@@ -4623,7 +4623,7 @@
 	{
 		"abr": "пусковаяустановкадлякапсул",
 		"price": 230,
-		"category": "",
+		"category": "Разное",
 		"defname": "PodLauncher"
 	},
 	{
@@ -4647,7 +4647,7 @@
 	{
 		"abr": "ракетнаятурель",
 		"price": 2880,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Turret_TriRocket"
 	},
 	{
@@ -4731,7 +4731,7 @@
 	{
 		"abr": "рогатка",
 		"price": 10,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_CavalrySpikes"
 	},
 	{
@@ -4778,7 +4778,7 @@
 	},
 	{
 		"abr": "рысь",
-		"price": -10,
+		"price": 315,
 		"category": "Animal",
 		"defname": "Lynx"
 	},
@@ -4827,7 +4827,7 @@
 	{
 		"abr": "саркофаг",
 		"price": 205,
-		"category": "",
+		"category": "Разное",
 		"defname": "Sarcophagus"
 	},
 	{
@@ -4893,7 +4893,7 @@
 	{
 		"abr": "сенсорныйкластер",
 		"price": 2950,
-		"category": "",
+		"category": "Разное",
 		"defname": "Ship_SensorCluster"
 	},
 	{
@@ -4983,7 +4983,7 @@
 	{
 		"abr": "синяястерильнаястена",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall_SterileBlue"
 	},
 	{
@@ -5001,7 +5001,7 @@
 	{
 		"abr": "сканерминераловдальнегодействия",
 		"price": 1625,
-		"category": "",
+		"category": "Разное",
 		"defname": "LongRangeMineralScanner"
 	},
 	{
@@ -5025,12 +5025,12 @@
 	{
 		"abr": "скрытыйбарьер",
 		"price": 95,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_DeployableBarrier"
 	},
 	{
 		"abr": "слон",
-		"price": 650,
+		"price": 550,
 		"category": "Animal",
 		"defname": "Elephant"
 	},
@@ -5055,7 +5055,7 @@
 	{
 		"abr": "снайперскаятурель",
 		"price": 2355,
-		"category": "",
+		"category": "Разное",
 		"defname": "Turret_Sniper"
 	},
 	{
@@ -5091,7 +5091,7 @@
 	{
 		"abr": "солнечнаябатарея",
 		"price": 435,
-		"category": "",
+		"category": "Разное",
 		"defname": "SolarGenerator"
 	},
 	{
@@ -5157,7 +5157,7 @@
 	{
 		"abr": "стена",
 		"price": 15,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall"
 	},
 	{
@@ -5228,7 +5228,7 @@
 	},
 	{
 		"abr": "страус",
-		"price": -10,
+		"price": 265,
 		"category": "Animal",
 		"defname": "Ostrich"
 	},
@@ -5307,7 +5307,7 @@
 	{
 		"abr": "тёмнаястерильнаястена",
 		"price": -10,
-		"category": "",
+		"category": "Разное",
 		"defname": "Wall_SterileDark"
 	},
 	{
@@ -5379,7 +5379,7 @@
 	{
 		"abr": "транспортнаякапсула",
 		"price": 250,
-		"category": "",
+		"category": "Разное",
 		"defname": "TransportPod"
 	},
 	{
@@ -5390,7 +5390,7 @@
 	},
 	{
 		"abr": "трумбо",
-		"price": 1065,
+		"price": 1015,
 		"category": "Animal",
 		"defname": "Thrumbo"
 	},
@@ -5409,7 +5409,7 @@
 	{
 		"abr": "тяжёлаятурель",
 		"price": 2050,
-		"category": "",
+		"category": "Разное",
 		"defname": "Turret_Autocannon"
 	},
 	{
@@ -5433,7 +5433,7 @@
 	{
 		"abr": "укреплённаястена",
 		"price": 45,
-		"category": "",
+		"category": "Разное",
 		"defname": "Reinforced_WallAT"
 	},
 	{
@@ -5816,7 +5816,7 @@
 	},
 	{
 		"abr": "шиншилла",
-		"price": -10,
+		"price": 100,
 		"category": "Animal",
 		"defname": "Chinchilla"
 	},
@@ -5907,7 +5907,7 @@
 	{
 		"abr": "электрическийкрематорий",
 		"price": 650,
-		"category": "",
+		"category": "Разное",
 		"defname": "ElectricCrematorium"
 	},
 	{
@@ -5967,7 +5967,7 @@
 	{
 		"abr": "эми-турель",
 		"price": 4175,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Turret_EMPTurret"
 	},
 	{
@@ -6045,7 +6045,7 @@
 	{
 		"abr": "энерготочка",
 		"price": 1550,
-		"category": "",
+		"category": "Разное",
 		"defname": "VFES_Turret_ChargeComplex"
 	},
 	{
@@ -6056,19 +6056,19 @@
 	},
 	{
 		"abr": "advandroidassemblykit",
-		"price": 3220,
+		"price": 3120,
 		"category": "Изделия",
 		"defname": "AndroidT2Kit"
 	},
 	{
 		"abr": "advancedbatterypack",
-		"price": 1780,
+		"price": 1680,
 		"category": "Android",
 		"defname": "NanowireBattery"
 	},
 	{
 		"abr": "advancedbio-reactor",
-		"price": 1780,
+		"price": 1680,
 		"category": "Android",
 		"defname": "HighPowerTransformer"
 	},
@@ -6080,7 +6080,7 @@
 	},
 	{
 		"abr": "advancedcounterweight",
-		"price": 1450,
+		"price": 1350,
 		"category": "Android",
 		"defname": "AdvRearCounterweight"
 	},
@@ -6092,25 +6092,25 @@
 	},
 	{
 		"abr": "advancedheatsink",
-		"price": 1450,
+		"price": 1350,
 		"category": "Android",
 		"defname": "MultiLayerHeatsink"
 	},
 	{
 		"abr": "advancedlightsensor",
-		"price": 1950,
+		"price": 1850,
 		"category": "Android",
 		"defname": "MultiSpectrumEye"
 	},
 	{
 		"abr": "advancedmechanitestorage",
-		"price": 1450,
+		"price": 1350,
 		"category": "Android",
 		"defname": "NaniteStorageDevice"
 	},
 	{
 		"abr": "advancedpowerconverter",
-		"price": 1780,
+		"price": 1680,
 		"category": "Android",
 		"defname": "HighPowerConverter"
 	},
@@ -6122,7 +6122,7 @@
 	},
 	{
 		"abr": "agriculturalimplant",
-		"price": 2280,
+		"price": 2080,
 		"category": "Android",
 		"defname": "FarmingMindImplant"
 	},
@@ -6158,49 +6158,49 @@
 	},
 	{
 		"abr": "archotecharchotechbio-reactor",
-		"price": 5615,
+		"price": 5515,
 		"category": "Android",
 		"defname": "MolecularDecomposer"
 	},
 	{
 		"abr": "archotechbatterypack",
-		"price": 4280,
+		"price": 4180,
 		"category": "Android",
 		"defname": "SecretBatteryPack"
 	},
 	{
 		"abr": "archotechcoolantpump",
-		"price": 5615,
+		"price": 5515,
 		"category": "Android",
 		"defname": "SecretCoolantPump"
 	},
 	{
 		"abr": "archotechhearingsensor",
-		"price": 2615,
+		"price": 2515,
 		"category": "Android",
 		"defname": "ArchHearingS"
 	},
 	{
 		"abr": "archotechheatsink",
-		"price": 5700,
+		"price": 4950,
 		"category": "Android",
 		"defname": "SecretHeatsink"
 	},
 	{
 		"abr": "archotechlightsensor",
-		"price": 5700,
+		"price": 4950,
 		"category": "Android",
 		"defname": "MDEye"
 	},
 	{
 		"abr": "archotechmechanitestorage",
-		"price": 5700,
+		"price": 4950,
 		"category": "Android",
 		"defname": "ArchotechNanites"
 	},
 	{
 		"abr": "archotechpowerconverter",
-		"price": 5030,
+		"price": 4930,
 		"category": "Android",
 		"defname": "QuantumConverter"
 	},
@@ -6218,7 +6218,7 @@
 	},
 	{
 		"abr": "artificialbraint3",
-		"price": 680,
+		"price": 480,
 		"category": "Android",
 		"defname": "ATPP_T3ArtificialBrain"
 	},
@@ -6236,7 +6236,7 @@
 	},
 	{
 		"abr": "basiccounterweight",
-		"price": 965,
+		"price": 865,
 		"category": "Android",
 		"defname": "BasicRearCounterweight"
 	},
@@ -6248,19 +6248,19 @@
 	},
 	{
 		"abr": "basicreplacementarm",
-		"price": 630,
+		"price": 430,
 		"category": "Android",
 		"defname": "BasicReplacementArm"
 	},
 	{
 		"abr": "basicreplacementleg",
-		"price": 630,
+		"price": 430,
 		"category": "Android",
 		"defname": "BasicReplacementLeg"
 	},
 	{
 		"abr": "blueprintsimplant",
-		"price": 2065,
+		"price": 1965,
 		"category": "Android",
 		"defname": "BuilderMindImplant"
 	},
@@ -6272,13 +6272,13 @@
 	},
 	{
 		"abr": "charismaimplant",
-		"price": 1465,
+		"price": 1365,
 		"category": "Android",
 		"defname": "CharismaMindImplant"
 	},
 	{
 		"abr": "chemicalcapsule",
-		"price": 13,
+		"price": 10,
 		"category": "Изделия",
 		"defname": "ChemicalEgg"
 	},
@@ -6290,7 +6290,7 @@
 	},
 	{
 		"abr": "compositeframeplating",
-		"price": 1465,
+		"price": 1365,
 		"category": "Android",
 		"defname": "CompositePlating"
 	},
@@ -6326,7 +6326,7 @@
 	},
 	{
 		"abr": "crudejaw",
-		"price": 915,
+		"price": 815,
 		"category": "Android",
 		"defname": "CrudeJawAndroid"
 	},
@@ -6350,37 +6350,37 @@
 	},
 	{
 		"abr": "cuisineimplant",
-		"price": 2215,
+		"price": 2115,
 		"category": "Android",
 		"defname": "CookingMindImplant"
 	},
 	{
 		"abr": "cyberneticarm",
-		"price": 6450,
+		"price": 5950,
 		"category": "Android",
 		"defname": "CyberReplacementArm"
 	},
 	{
 		"abr": "cyberneticjaw",
-		"price": 1780,
+		"price": 1680,
 		"category": "Android",
 		"defname": "AdvJawAndroid"
 	},
 	{
 		"abr": "cyberneticleg",
-		"price": 7065,
+		"price": 5965,
 		"category": "Android",
 		"defname": "CyberReplacementLeg"
 	},
 	{
 		"abr": "engineeringimplant",
-		"price": 1780,
+		"price": 1680,
 		"category": "Android",
 		"defname": "MechanicMindImplant"
 	},
 	{
 		"abr": "evolvingaiupgrade",
-		"price": 3780,
+		"price": 3680,
 		"category": "Android",
 		"defname": "EvolvingImplant"
 	},
@@ -6410,7 +6410,7 @@
 	},
 	{
 		"abr": "geologicalimplant",
-		"price": 1780,
+		"price": 1680,
 		"category": "Android",
 		"defname": "GeoMindImplant"
 	},
@@ -6428,25 +6428,25 @@
 	},
 	{
 		"abr": "highpowerleg",
-		"price": 1530,
+		"price": 1430,
 		"category": "Android",
 		"defname": "AdvancedReplacementLeg"
 	},
 	{
 		"abr": "hydraulicarm",
-		"price": 1065,
+		"price": 965,
 		"category": "Android",
 		"defname": "HydraulicArm"
 	},
 	{
 		"abr": "hydraulicframe",
-		"price": 1415,
+		"price": 1315,
 		"category": "Android",
 		"defname": "HydraulicFrame"
 	},
 	{
 		"abr": "hydraulicleg",
-		"price": 1015,
+		"price": 915,
 		"category": "Android",
 		"defname": "HydraulicLeg"
 	},
@@ -6506,7 +6506,7 @@
 	},
 	{
 		"abr": "k-9cyberneticunit",
-		"price": 5700,
+		"price": 3700,
 		"category": "Animal",
 		"defname": "AndroidDog"
 	},
@@ -6518,7 +6518,7 @@
 	},
 	{
 		"abr": "m7mechanisedinfantry",
-		"price": 15860,
+		"price": 9860,
 		"category": "Animal",
 		"defname": "M7Mech"
 	},
@@ -6566,7 +6566,7 @@
 	},
 	{
 		"abr": "miningarm",
-		"price": 1115,
+		"price": 1015,
 		"category": "Android",
 		"defname": "MiningArm"
 	},
@@ -6584,13 +6584,13 @@
 	},
 	{
 		"abr": "negotiatorimplant",
-		"price": 2115,
+		"price": 2015,
 		"category": "Android",
 		"defname": "NegotiationMindImplant"
 	},
 	{
 		"abr": "neuralhighways",
-		"price": 1665,
+		"price": 1565,
 		"category": "Android",
 		"defname": "SpeedMindImplant"
 	},
@@ -6608,13 +6608,13 @@
 	},
 	{
 		"abr": "phytominingunit",
-		"price": 2667,
+		"price": 1715,
 		"category": "Animal",
 		"defname": "RoboticSheep"
 	},
 	{
 		"abr": "plasteelframecoverings",
-		"price": 1130,
+		"price": 930,
 		"category": "Android",
 		"defname": "PlasteelPlating"
 	},
@@ -6626,7 +6626,7 @@
 	},
 	{
 		"abr": "positronicrewiring",
-		"price": 1165,
+		"price": 1065,
 		"category": "Android",
 		"defname": "PositronMindImplant"
 	},
@@ -6662,13 +6662,13 @@
 	},
 	{
 		"abr": "soldierimplant",
-		"price": 1665,
+		"price": 1565,
 		"category": "Android",
 		"defname": "SoldierMindImplant"
 	},
 	{
 		"abr": "steelframing",
-		"price": 530,
+		"price": 330,
 		"category": "Android",
 		"defname": "SteelPlating"
 	},
@@ -6698,25 +6698,25 @@
 	},
 	{
 		"abr": "t2android",
-		"price": 2665,
+		"price": 2065,
 		"category": "Animal",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t3android",
-		"price": 5500,
+		"price": 2500,
 		"category": "Animal",
 		"defname": "Android3Tier"
 	},
 	{
 		"abr": "t4android",
-		"price": 7500,
+		"price": 5000,
 		"category": "Animal",
 		"defname": "Android4Tier"
 	},
 	{
 		"abr": "t5android",
-		"price": 10830,
+		"price": 8330,
 		"category": "Animal",
 		"defname": "Android5Tier"
 	},
@@ -6728,55 +6728,55 @@
 	},
 	{
 		"abr": "tricorderimplant",
-		"price": 1965,
+		"price": 1865,
 		"category": "Android",
 		"defname": "SurgeonMindImplant"
 	},
 	{
 		"abr": "tx2android",
-		"price": 2830,
+		"price": 1680,
 		"category": "Animal",
 		"defname": "ATPP_Android2TX"
 	},
 	{
 		"abr": "tx2iandroid",
-		"price": 3830,
+		"price": 2080,
 		"category": "Animal",
 		"defname": "ATPP_Android2ITX"
 	},
 	{
 		"abr": "tx2kandroid",
-		"price": 6160,
+		"price": 3660,
 		"category": "Animal",
 		"defname": "ATPP_Android2KTX"
 	},
 	{
 		"abr": "tx2kiandroid",
-		"price": 7160,
+		"price": 4660,
 		"category": "Animal",
 		"defname": "ATPP_Android2KITX"
 	},
 	{
 		"abr": "tx3android",
-		"price": 8160,
+		"price": 5660,
 		"category": "Animal",
 		"defname": "ATPP_Android3TX"
 	},
 	{
 		"abr": "tx3iandroid",
-		"price": 8660,
+		"price": 6160,
 		"category": "Animal",
 		"defname": "ATPP_Android3ITX"
 	},
 	{
 		"abr": "tx4android",
-		"price": 8910,
+		"price": 6410,
 		"category": "Animal",
 		"defname": "ATPP_Android4TX"
 	},
 	{
 		"abr": "tx4iandroid",
-		"price": 10165,
+		"price": 7665,
 		"category": "Animal",
 		"defname": "ATPP_Android4ITX"
 	},
@@ -6794,7 +6794,7 @@
 	},
 	{
 		"abr": "zoologyimplant",
-		"price": 1615,
+		"price": 1515,
 		"category": "Android",
 		"defname": "AnimalMindImplant"
 	},
@@ -6866,13 +6866,13 @@
 	},
 	{
 		"abr": "нейрочипvx2",
-		"price": 1885,
+		"price": 1785,
 		"category": "Android",
 		"defname": "ATPP_VX2Chip"
 	},
 	{
 		"abr": "нейрочипvx3",
-		"price": 2565,
+		"price": 2465,
 		"category": "Android",
 		"defname": "ATPP_VX3Chip"
 	},
@@ -6918,6 +6918,108 @@
 		"category": "Фрукты",
 		"defname": "RawBerries"
 	},
+	{
+		"abr": "easel",
+		"price": 367,
+		"category": "Производство",
+		"defname": "TableWriting"
+	},
+	{
+		"abr": "painting",
+		"price": 210,
+		"category": "Искусство",
+		"defname": "Painting"
+	},
+	{
+		"abr": "ядроии",
+		"price": 6667,
+		"category": "Предметы",
+		"defname": "AIPersonaCore"
+	},
+	{
+		"abr": "яйцоигуаны(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggIguanaFertilized"
+	},
+	{
+		"abr": "яйцоиндейки(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggTurkeyFertilized"
+	},
+	{
+		"abr": "яйцоказуара(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggCassowaryFertilized"
+	},
+	{
+		"abr": "яйцокобры(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggCobraFertilized"
+	},
+	{
+		"abr": "яйцоэму(опл.)",
+		"price": -10,
+		"category": "Яйца (опл.)",
+		"defname": "EggEmuFertilized"
+	},
+	{
+		"abr": "як",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Yak"
+	},
+	{
+		"abr": "ячмень",
+		"price": 2,
+		"category": "Растительного происхождения",
+		"defname": "RawBarley"
+	},
+	{
+		"abr": "ящиксбоеприпасами",
+		"price": 533,
+		"category": "Мебель",
+		"defname": "VFES_AmmoCrate"
+	},
+	{
+		"abr": "эт-турель",
+		"price": 4658,
+		"category": "Разное",
+		"defname": "VFES_Turret_ChargeRailgunTurret"
+	},
+	{
+		"abr": "ядроskycloud",
+		"price": 18000,
+		"category": "Разное",
+		"defname": "ATPP_SkyCloudCore"
+	},
+	{
+		"abr": "guestкроватьплита",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestпростаякровать",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestспальныймешок",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestкровать",
+		"price": -10,
+		"category": "Мебель",
+		"defname": "BedGuest"
+	}
 	],
-	"total": 1172
+	"total": 1184
 }
