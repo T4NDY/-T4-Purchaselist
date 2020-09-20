@@ -3,97 +3,97 @@
 	{
 		"abr": "tornado",
 		"trans": "(смерч)",
-		"price": 800,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
 		"trans": "(ясная погода)",
-		"price": 400,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rain",
 		"trans": "(дождь)",
-		"price": 350,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "vomitrain",
 		"trans": "(блевотный дождь)",
-		"price": 650,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
 		"trans": "(туманный дождь)",
-		"price": 300,
+		"price": 700,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rainythunderstorm",
 		"trans": "(дождливая гроза)",
-		"price": 250,
+		"price": 760,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "drythunderstorm",
 		"trans": "(сухая гроза)",
-		"price": 450,
+		"price": 1250,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "fog",
 		"trans": "(туман)",
-		"price": 300,
+		"price": 670,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "heatwave",
 		"trans": "(тепловая волна)",
-		"price": 750,
+		"price": 1750,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
 		"trans": "(буря)",
-		"price": 400,
+		"price": 1550,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
 		"trans": "(заморозки)",
-		"price": 800,
+		"price": 1400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
 		"trans": "(солнечная вспышка)",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
 		"trans": "(короткое замыканые)",
-		"price": 500,
+		"price": 1760,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
 		"trans": "(токсичные осадки)",
-		"price": 6500,
+		"price": 7600,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
 		"trans": "(вулканическая зима)",
-		"price": 3200,
+		"price": 4500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
 		"trans": "(затмение)",
-		"price": 450,
+		"price": 850,
 		"karmatype": "Bad"
 	},
 	{
@@ -135,25 +135,25 @@
 	{
 		"abr": "meteor",
 		"trans": "(метеорит)",
-		"price": 150,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
 		"trans": "(человек в чёрном)",
-		"price": 350,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
 		"trans": "(агрессивные животные)",
-		"price": 200,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
 		"trans": "(пси-излучение)",
-		"price": 400,
+		"price": 1675,
 		"karmatype": "Bad"
 	},
 	{
@@ -165,7 +165,7 @@
 	{
 		"abr": "herdmigration",
 		"trans": "(миграция животных)",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -189,7 +189,7 @@
 	{
 		"abr": "travelergroup",
 		"trans": "(путешественники)",
-		"price": 80,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -213,55 +213,55 @@
 	{
 		"abr": "alphabeavers",
 		"trans": "(альфабобры)",
-		"price": 600,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
 		"trans": "(древний заражённый корабль)",
-		"price": 1900,
+		"price": 3450,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
 		"trans": "(древний пси-корабль)",
-		"price": 2400,
+		"price": 3700,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "militaryaid",
 		"trans": "(военная помощь)",
-		"price": 700,
+		"price": 670,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
 		"trans": "(налёт)",
-		"price": 1500,
+		"price": 5200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
 		"trans": "(орбитальный налёт)",
-		"price": 1500,
+		"price": 5400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
 		"trans": "(осада)",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechraid",
 		"trans": "(налёт механоидов)",
-		"price": 2500,
+		"price": 5500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
 		"trans": "(ульи жуков)",
-		"price": 2500,
+		"price": 5555,
 		"karmatype": "Bad"
 	},
 	{
@@ -273,43 +273,43 @@
 	{
 		"abr": "predators",
 		"trans": "(хищники)",
-		"price": 2500,
+		"price": 3300,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "randomdisease",
 		"trans": "(случайное заболевание)",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
 		"trans": "(конкретное заболевание)",
-		"price": 1000,
+		"price": 2200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
 		"trans": "(возродить случайного колониста)",
-		"price": 1200,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
 		"trans": "(купить колониста)",
-		"price": 1500,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
 		"trans": "(прокачать колониста)",
-		"price": 1500,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
 		"trans": "(добавить черту)",
-		"price": 3500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -327,13 +327,13 @@
 	{
 		"abr": "randominspire",
 		"trans": "(случайное вдохновение)",
-		"price": 450,
+		"price": 650,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "torytalkervote",
 		"trans": "(голосование Тори бота)",
-		"price": 750,
+		"price": 900,
 		"karmatype": "Neutral"
 	}
 	],
